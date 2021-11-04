@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<!-- saved from url=(0062)https://www.teach.cs.toronto.edu/~csc110y/fall/project/phase1/ -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title>CSC110 Project Phase 1: Proposal</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <link rel="stylesheet" href="./CSC110 Project Phase 1_ Proposal_files/pandoc.css">
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+<script>(function(){class RuffleMimeType{constructor(a,b,c){this.type=a,this.description=b,this.suffixes=c}}class RuffleMimeTypeArray{constructor(a){this.__mimetypes=[],this.__named_mimetypes={};for(let b of a)this.install(b)}install(a){let b=this.__mimetypes.length;this.__mimetypes.push(a),this.__named_mimetypes[a.type]=a,this[a.type]=a,this[b]=a}item(a){return this.__mimetypes[a]}namedItem(a){return this.__named_mimetypes[a]}get length(){return this.__mimetypes.length}}class RufflePlugin extends RuffleMimeTypeArray{constructor(a,b,c,d){super(d),this.name=a,this.description=b,this.filename=c}install(a){a.enabledPlugin||(a.enabledPlugin=this),super.install(a)}}class RufflePluginArray{constructor(a){this.__plugins=[],this.__named_plugins={};for(let b of a)this.install(b)}install(a){let b=this.__plugins.length;this.__plugins.push(a),this.__named_plugins[a.name]=a,this[a.name]=a,this[b]=a}item(a){return this.__plugins[a]}namedItem(a){return this.__named_plugins[a]}get length(){return this.__plugins.length}}const FLASH_PLUGIN=new RufflePlugin("Shockwave Flash","Shockwave Flash 32.0 r0","ruffle.js",[new RuffleMimeType("application/futuresplash","Shockwave Flash","spl"),new RuffleMimeType("application/x-shockwave-flash","Shockwave Flash","swf"),new RuffleMimeType("application/x-shockwave-flash2-preview","Shockwave Flash","swf"),new RuffleMimeType("application/vnd.adobe.flash-movie","Shockwave Flash","swf")]);function install_plugin(a){navigator.plugins.install||Object.defineProperty(navigator,"plugins",{value:new RufflePluginArray(navigator.plugins),writable:!1}),navigator.plugins.install(a),0<a.length&&!navigator.mimeTypes.install&&Object.defineProperty(navigator,"mimeTypes",{value:new RuffleMimeTypeArray(navigator.mimeTypes),writable:!1});for(var b=0;b<a.length;b+=1)navigator.mimeTypes.install(a[b])}install_plugin(FLASH_PLUGIN);})();</script><script src="chrome-extension://donbcfbmhbcapadipfkeojnmajbakjdc/dist/ruffle.js?uniqueMessageSuffix=75255443259"></script></head>
+<body data-new-gr-c-s-check-loaded="14.1037.0" data-gr-ext-installed="">
+<div style="display:none">
+\(
+\newcommand{\NOT}{\neg}
+\newcommand{\AND}{\wedge}
+\newcommand{\OR}{\vee}
+\newcommand{\XOR}{\oplus}
+\newcommand{\IMP}{\Rightarrow}
+\newcommand{\IFF}{\Leftrightarrow}
+\newcommand{\TRUE}{\text{True}\xspace}
+\newcommand{\FALSE}{\text{False}\xspace}
+\newcommand{\IN}{\,{\in}\,}
+\newcommand{\NOTIN}{\,{\notin}\,}
+\newcommand{\TO}{\rightarrow}
+\newcommand{\DIV}{\mid}
+\newcommand{\NDIV}{\nmid}
+\newcommand{\MOD}[1]{\pmod{#1}}
+\newcommand{\MODS}[1]{\ (\text{mod}\ #1)}
+\newcommand{\N}{\mathbb N}
+\newcommand{\Z}{\mathbb Z}
+\newcommand{\Q}{\mathbb Q}
+\newcommand{\R}{\mathbb R}
+\newcommand{\C}{\mathbb C}
+\newcommand{\cA}{\mathcal A}
+\newcommand{\cB}{\mathcal B}
+\newcommand{\cC}{\mathcal C}
+\newcommand{\cD}{\mathcal D}
+\newcommand{\cE}{\mathcal E}
+\newcommand{\cF}{\mathcal F}
+\newcommand{\cG}{\mathcal G}
+\newcommand{\cH}{\mathcal H}
+\newcommand{\cI}{\mathcal I}
+\newcommand{\cJ}{\mathcal J}
+\newcommand{\cL}{\mathcal L}
+\newcommand{\cK}{\mathcal K}
+\newcommand{\cN}{\mathcal N}
+\newcommand{\cO}{\mathcal O}
+\newcommand{\cP}{\mathcal P}
+\newcommand{\cQ}{\mathcal Q}
+\newcommand{\cS}{\mathcal S}
+\newcommand{\cT}{\mathcal T}
+\newcommand{\cV}{\mathcal V}
+\newcommand{\cW}{\mathcal W}
+\newcommand{\cZ}{\mathcal Z}
+\newcommand{\emp}{\emptyset}
+\newcommand{\bs}{\backslash}
+\newcommand{\floor}[1]{\left \lfloor #1 \right \rfloor}
+\newcommand{\ceil}[1]{\left \lceil #1 \right \rceil}
+\newcommand{\abs}[1]{\left | #1 \right |}
+\newcommand{\xspace}{}
+\newcommand{\proofheader}[1]{\underline{\textbf{#1}}}
+\)
+</div>
+<header id="title-block-header">
+<h1 class="title">CSC110 Project Phase 1: Proposal</h1>
+</header>
+<p>The CSC110 Course Project is an opportunity to use what you have learned in this course and apply it in a creative, open-ended project. The final submission of your project includes a Python program and report. But before that, you must complete Phase 1: a proposal of what you plan on exploring, designing, and implementing. The CSC110 Teaching Team will give you feedback on your proposal to make sure that your idea is both sufficiently complex and can be completed by the final due date.</p>
+<h2 id="logistics-for-phase-1">Logistics for Phase 1</h2>
+<ul>
+<li>Due date: Friday, November 5th before 9am Eastern Time.</li>
+<li>This assessment can be done in groups of up to <strong>4</strong> students.</li>
+<li>You will submit your proposal on MarkUs (see submission instructions at the end of this handout).</li>
+<li>Please review the the Course Syllabus section on Academic Integrity.</li>
+</ul>
+<h2 id="project-topic-introduction-the-impact-of-covid-19">Project topic introduction: The Impact of COVID-19</h2>
+<p>The COVID-19 pandemic is not yet over, but its impact on our lives and the globe is definitely being felt. It has impacted our environment, our healthcare systems, small and large businesses, economic markets, our memes, and virtually every facet of our society. This course is not “about” the pandemic. But the skills you’ve developed in this course, and that you will continue to develop in the rest of your computer science career, can be harnessed to (try to) answer questions about it.</p>
+<p>And so for your final project, we ask that you investigate some aspect of the impact COVID-19 has had through a <em>data and computational lens</em>. You may investigate the effects of the pandemic on the environment, traffic, education, the potential benefits and limitations of proposed or enacted solutions, mental health, or a completely different angle. We are certain that you will be able to find something to study that is engaging and vital to you.</p>
+<h2 id="project-overview">Project overview</h2>
+<p>Your project will focus on <em>answering a data-centric question related to the impact of COVID-19</em>. You are free to use your imagination and be creative here, and choose something that you are truly interested in answering. There are only two constraints in choosing a question to investigate: it must be meaningfully related to the impact COVID-19 has had on the world in some way, and it must be connected to some kind of real-world data.</p>
+<p>For your project, you do the following:</p>
+<ul>
+<li><em>Choose</em> a particular topic within the broad scope of the problem domain and <em>research</em> this topic.</li>
+<li><em>Formulate</em> a specific data-centric question about this topic, informed by the research you’ve done.</li>
+<li><em>Identify</em> one or more real-world datasets related to this topic that can help you answer this question.</li>
+<li><em>Compute</em> on the dataset(s) you’ve found (and possibly perform other computations as well).</li>
+<li><em>Report</em> the results of your computations in a visual and/or interactive way.</li>
+</ul>
+<p>You have performed elements of this a number of times throughout the course already: exploring and computing on datasets (e.g., TTC subway delays, course timetables), defining data models (e.g., generative text models), and visualizations using <code>plotly</code> and <code>pygame</code>. The purpose of the project is to do something similar with a topic within the problem domain, but on a grander scale. The explorations in the assignments were, metaphorically, a small sandbox for you to play in. In the project, you will build your own, bigger sandbox and play games of your own choosing.</p>
+<h3 id="example-project-ideas">Example project ideas</h3>
+<p>Choosing your own topic can be hard to do, especially when given a fairly broad space like “the impact of COVID-19”. Below, we’ve listed some example project ideas and questions to act as sources of inspiration for your own exploration and brainstorming. (Each one would need to be refined to make a good proposal.) You may not copy any of these ideas directly, but you are welcome to modify and expand on them if you find something you’re particular interested in. And if you want to go in a completely different direction, that’s okay too—please be creative!</p>
+<ul>
+<li>David loves models—mathematical models, that is! His question is, “<em>How well can simple supply-and-demand models predict real changes to prices caused by COVID-19?</em>” He plans to learn about some simple supply-and-demand models that estimate price and implement them in Python. Then, he will compare their estimates over the last year or so with the actual real-world data. His program will display side-by-side graphs of the model and real-world data, for different values of the model parameters.</li>
+<li>Jen has heard that the pandemic is significantly impacting the price of food. Her question is, <em>“How has the pandemic’s impact on supply chains increased (or decreased) the cost of food around the world?”</em> (Jen might want to narrow that down to specific regions and/or specific commodities so that she isn’t overwhelmed with data.) Jen plans to explore datasets on price indexes from multiple countries and see if it can be predicted by the increasing global cost of transportation (e.g., ocean freight prices, fuel prices).</li>
+<li>Jacqueline loves keeping up to date with the news. Her question is, <em>“Has the pandemic increased the discussion of mental health in the media?”</em> She plans to to collect articles from popular publication venues and analyse their texts for mentions of keywords relating to mental health. In addition, she wants to create her own dataset that tracks major events that occured during the pandemic. Her goal is to find out if (a) the pandemic resulted in more articles on mental health, and (b) if there are any patterns associated with major events during the pandemic and a corresponding serge surge (or dirth) of articles.</li>
+</ul>
+<p>And here are some examples of <strong>bad</strong> ideas for a project:</p>
+<ul>
+<li><p>Paul absolutely <em>loves</em> cryptography. He wants to design a new cryptographic system. In order to make this relevant to the pandemic, the data he will encrypt will be related to COVID-19. His goal is to encrypt and decrypt COVID-19 data.</p>
+<p>(<em>Not meaningfully relevant to the problem domain</em>)</p></li>
+<li><p>Mario found the use of <code>pygame</code> in the tutorials fascinating. He wants to design a game using the <code>pygame</code> library. His goal is to create a game where the player repeatedly taps the screen so that a bird is able to make it through all the levels. The levels will be made relevant to the pandemic because there will be hazardous diseases to avoid.</p>
+<p>(<em>Not meaningfully relevant to the problem domain</em>)</p></li>
+<li><p>Diane is interested in the pandemic’s impact on people eating in restaurants. She finds a dataset showing the average amount of money spent on restaurants each month over the last 3 years and plots it using <code>plotly</code>.</p>
+<p>(<em>Too simple.</em>)</p></li>
+</ul>
+<h2 id="project-proposal-instructions">Project proposal instructions</h2>
+<p>Your project proposal is designed as a way to get you started working on this project early, and to give your TAs an opportunity to give you some meaningful feedback and suggestions on your ideas to make sure you are on the right track. <em>We expect everyone to do very well on this proposal</em>—our goal is to spend most of our grading time giving you feedback. This proposal does not lock you into a particular topic, and your group will be free to change your plans between this proposal and your final project submission.</p>
+<p>Your project proposal will be a LaTeX document (using the <strong>template <code>project_proposal.tex</code></strong>; see the MarkUs starter files) consisting of the following components:</p>
+<ol type="1">
+<li><p>Project title (pick something informative and professional, but you can be creative too) and name of <em>all</em> group members.</p></li>
+<li><p>Brief problem description and research question. (300–400 words)</p>
+<ul>
+<li>Give an overview of any background knowledge necessary for <em>the reader</em> to understand the problem you are studying.</li>
+<li>Provide context for the problem and motivate why you have chosen your research question.</li>
+<li>Your research question should be in <strong>bold</strong>; it should be fairly concise, but can be more than one sentence.</li>
+</ul></li>
+<li><p>A description of at least one relevant dataset you have found. (~150 words)</p>
+<ul>
+<li>State the source (e.g., government/organization website) and format (e.g., text, csv, json, image) of the dataset, and give some sample data contained inside that dataset.</li>
+<li>Don’t be afraid to cobble together your own dataset, such as creating a collection of images that are related. Or to combine two datasets from different sources.</li>
+<li>You will also submit a small sample of your dataset to MarkUs along with your project proposal document. (See more below)</li>
+</ul></li>
+<li><p>A <em>computational plan</em> for your project. (300–500 words)</p>
+<ul>
+<li>Describe the kinds of computations you plan to perform, such as: data transformation/filtering/aggregation, computational models, and/or algorithms.</li>
+<li>Explain how your program will <em>report</em> the results of your computation in a visual and/or interactive way. You don’t need to go into a lot of details here, but it should be clear what you plan to do.</li>
+</ul>
+<p><strong>Technical requirement</strong>: for your project, you <strong>must</strong> use at least one Python library/module that we have not covered in this course, <em>or</em> use <code>plotly</code> or <code>pygame</code> to a much larger extent than what what have given you so far in this course. (See examples and note in the next section).</p>
+<ul>
+<li>In this part of your proposal, you should also describe one new library you intend to use, how you will use it, and why it is appropriate. Refer to specific functions, data types, and/or capabilities of the library that make it relevant for solving the problem you wish to solve.</li>
+</ul></li>
+<li><p>A references section that lists the references you used for your proposal. This should include references from your topic research, the reference for where you obtained the dataset, and any online documentation or tutorials for the Python library you plan to use for the project.</p>
+<ul>
+<li>You may use any academic reference style you wish, e.g., APA or MLA.</li>
+</ul></li>
+</ol>
+<h2 id="some-example-sources-for-datasets">Some example sources for datasets</h2>
+<p>Finding a dataset for your idea may be difficult, depending on your topic and question. Below are some examples of websites where you can find datasets or search for datasets. But please don’t limit yourselves to data from these sources.</p>
+<ul>
+<li>Google now has a <a href="https://datasetsearch.research.google.com/">Dataset Search</a>. Learn more about this feature from their <a href="https://blog.google/products/search/discovering-millions-datasets-web/">blog post</a></li>
+<li>Statistics Canada has a page dedicated to <a href="https://www.statcan.gc.ca/en/covid19?HPA=1">a data perspective on COVID-19</a> – if you are stumped for inspiration, this may also be a good source of ideas.</li>
+<li>Many governments have an “open data” website where they publish data to the public that they have collected. For example, here is one for <a href="https://open.canada.ca/en/open-data">Canada</a>, <a href="https://www.opendataaustralia.org/">Australia</a>, and the <a href="https://data.gov.uk/">United Kingdom</a>.</li>
+</ul>
+<h3 id="a-note-about-originality-licensing-and-references">A note about originality, licensing, and references</h3>
+<p>As you do research and come across datasets, it is important to note down where a fact or piece of data came from. This is especially true with data: just because you were able to download it online does not mean you have permission to use it. You need to not only make sure that you have permission to use the data, but also must include an attribution to where you found the data. Similarly, when providing context and/or making claims in your proposal, be sure to provide a reference to where that information came from.</p>
+<h2 id="example-python-libraries">Example Python libraries</h2>
+<ul>
+<li><a href="https://scrapy.org/"><code>scrapy</code></a>: a library for extracting data from websites</li>
+<li><a href="https://scikit-learn.org/stable/index.html"><code>scikit-learn</code></a>: a machine learning library that is (relatively) easy to use</li>
+<li><a href="https://scikit-image.org/"><code>scikit-image</code></a>: a library that helps process image data</li>
+<li><a href="https://www.nltk.org/">Natural Language Toolkit (nltk)</a>: a library that helps with analyzing text written in a language (like English)</li>
+</ul>
+<p>Also, for your reference here are links to the websites for documentation for <code>plotly</code> and <code>pygame</code>:</p>
+<ul>
+<li><a href="https://plotly.com/python/"><code>plotly</code></a></li>
+<li><a href="https://www.pygame.org/docs/"><code>pygame</code></a></li>
+</ul>
+<p><em>Note</em>: While you may rely on the library you choose to help you with some computations, you cannot use the library to do <em>all</em> your computations. That is, simply applying a well-known algorithm to your dataset by calling functions in the library is not a sufficiently complex project.</p>
+<p>Similarly, if your library is responsible for visualization and not computation, your project should not simply be to load and visualize the data. The data you load must be transformed or computed upon in some way before visualization.</p>
+<h2 id="submission-instructions">Submission instructions</h2>
+<p>Please <strong>proofread</strong> your work carefully before your final submission!</p>
+<ol type="1">
+<li><p>Login to <a href="https://markus.teach.cs.toronto.edu/csc110-2020-09">MarkUs</a>.</p></li>
+<li><p>Go to <em>Project Phase 1: Proposal</em>, and the “Submissions” tab.</p></li>
+<li><p>Submit the following files: <code>project_proposal.tex</code>, <code>project_proposal.pdf</code>, and your sample dataset file(s).</p>
+<ul>
+<li>You decide how many files are in your dataset (i.e., one or more).</li>
+<li>Please don’t submit the full dataset (this will likely be too large for MarkUs). Instead, extract a small part of it (e.g., just the first 100 entries) to submit.</li>
+<li>Your TAs <em>will</em> be checking your data set file(s) manually, so make sure they are formatted correctly.</li>
+</ul></li>
+<li><p>Refresh the page, and then <em>download each file</em> to make sure you submitted the right version.</p></li>
+</ol>
+<p>Remember, you can submit your files multiple times before the due date. So you can aim to submit your work early, and if you find an error or a place to improve before the due date, you can still make your changes and resubmit your work.</p>
+<p>After you’ve submitted your work, please give yourself a well-deserved pat on the back and go take a rest or do something fun or eat some chocolate!</p>
+
+
+</body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
