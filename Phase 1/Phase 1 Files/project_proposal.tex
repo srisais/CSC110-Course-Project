@@ -2,29 +2,56 @@
 \usepackage{amsmath}
 \usepackage[utf8]{inputenc}
 \usepackage[margin=0.75in]{geometry}
+\usepackage{indentfirst}
 
-\title{CSC110 Project Proposal: covid and stuff (why covid?)}
+\title{CSC110 Project Proposal: Secondary School Course Enrolment During the COVID-19 Pandemic}
 \author{Billy Guo and Sridhar Sairam}
-\date{Friday, November 5, 2021}
+\date{Friday, 5 November 2021}
 
 \begin{document}
 \maketitle
 
-\section*{Problem Description and Research Question}
+\section*{Problem Description and Research Question}  % Brief problem description and research question. (300–400 words)
 
-sample test
+Ontario secondary schools typically run on a semester system, where the first semester is from September to January and the second semester is from February to June. During each semester, students typically take 4 courses; students can drop (unenroll from) a course before the middle of the semester if they no longer wish to take it.
 
-\section*{Dataset Description}
+The COVID-19 pandemic started around March 2020, when students started learning from home for the remainder of the year. Since this was before the middle of the semester, students still had the opportunity to drop courses. However, due to the pandemic, the Ontario government said that final grades for semester 2 courses could not be lower than students’ grades before the March break (when the learning from home started). In addition, the number of hours per week of learning a teacher could assign was drastically reduced, causing some courses to be unable to achieve the same amount of learning it would otherwise have.
 
-TODO
+With experience for each course going to be very different from usual and considering that their mark would not decrease, would students still drop courses that they did not want to take? If many students dropped courses due to the pandemic, we would see a significant drop in overall course enrolments for that year, when compared to previous years. If course enrolments were similar when compared to other years, it would mean that the pandemic seemingly had not immediately impacted course enrollment.
 
-\section*{Computational Plan}
+Being students that experienced this situation, we wondered whether other students dropped courses. Given this, the following question arouse:
+\textbf{Did the COVID-19 pandemic have an immediate effect on the 2019 - 2020 school year’s course enrollment numbers in a significant manner?}
 
-TODO
+\section*{Dataset Description}  % A description of at least one relevant dataset you have found. (~150 words)
+
+The datasets we plan to use are a collection of .txt and .xlsx files. Each school year has its own pair of .txt and .xlsx files. Since the data in both file formats are the same, just formatted differently.
+
+The datasets were found on the Canadian government’s Open Government section. The datasets themselves originate from the Ontario government’s Data Catalogue.
+
+The .txt file is organized in a similar manner to a CSV file, but with a delimiter of a vertical bar, “$\mid$”. The courses that the dataset contains are courses defined by the Ontario Ministry of Education, for grades 9 - 12. Each row contains the following information about one specific course: course code, course description (course title), grade level, pathway or destination, and the number of students in that course.
+
+\section*{Computational Plan}  % A computational plan for your project. (300–500 words)
+
+Using the raw data from the datasets, we first need to transform the data into data that can be effectively processed. We plan to create a dataclass to represent each course, and another dataclass to represent a course and the number of students enrolled in it. This must be done for each school year and aggregate the data in an organized manner. This can be done by creating another data class to represent a school year which would contain all of the courses and the number of students enrolled in each respective course. Creating these structures will allow us to better visualize and analyze the data.
+
+With the data properly sanitized and organized, we will graph each course and show how the number of students enrolled in that course changes over time. This will allow us to get a more intuitive understanding as to how much the students enrolled in a course really fluctuates.
+
+Using mathematical models, we will use the data from the school years prior to the 2019 - 2020 school year to see how well the model predicts the number of students enrolled in courses during the 2019 - 2020 school year. Using this will allow us to see how much the pandemic really impacted the overall course enrolment numbers. We will also use the data from the 2019 - 2020 school year data to predict the course enrolment data for the 2020 - 2021 school year, for which the data we do not have access to.
+
+Using the tkinter library, we will create an interface that will allow the user to access all the data and calculations easily and quickly. tkinter is a great library for this as it allows for the creation of buttons, labels, and grids. The buttons can be used for navigating to and from the different sections, such as the graphs for each course, the predictions, and even just the raw data, which can be expressed using the grids that tkinter offers! Using the tkinter library will allow us to create a desktop-app style environment, where everything can be accessed through the same window. Precisely speaking, the content frames will be made using the Frame class (Frame()), widgets such as Entry(), Label(), Button(), and more.
+
+With so much data to deal with, it’s important to have a neat and organized way to access all this data. Having a GUI helps with this a lot, and tkinter is a great library for creating a GUI that can neatly contain all the data that we want to express.
+
+% https://tkdocs.com/tutorial/index.html
 
 \section*{References}
+% Course enrolment in secondary schools - https://open.canada.ca/data/en/dataset/83b53104-19f9-4a77-8e38-a56c5575ef1c
+% (don't really need to include this at the moment) Second language course enrolment - https://open.canada.ca/data/en/dataset/4546116e-e67f-4dcc-b2d7-9a701bd3be2f
 
-TODO
+Education, \& Government of Ontario. (2020). \emph{Course enrolment in secondary schools.} Retrieved from \linebreak https://open.canada.ca/data/en/dataset/83b53104-19f9-4a77-8e38-a56c5575ef1c.
+
+Education, \& Government of Ontario. (2021). \emph{Second language course enrolment.} Retrieved from \linebreak https://open.canada.ca/data/en/dataset/4546116e-e67f-4dcc-b2d7-9a701bd3be2f. 
+
 
 % NOTE: LaTeX does have a built-in way of generating references automatically,
 % but it's a bit tricky to use so we STRONGLY recommend writing your references

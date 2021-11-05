@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6.28) (preloaded format=pdflatex 2021.9.23)  4 NOV 2021 00:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6.28) (preloaded format=pdflatex 2021.9.23)  4 NOV 2021 22:20
 entering extended mode
 **"c:/Sridhar/School/University/aaa Year 1 Courses/aaa CSC110/b Assignments/CSC110-Course-Project/Phase 1/Phase 1 Files/project_proposal.tex"
 (c:/Sridhar/School/University/aaa Year 1 Courses/aaa CSC110/b Assignments/CSC110-Course-Project/Phase 1/Phase 1 Files/project_proposal.tex
@@ -99,7 +99,9 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layouthoffset=\dimen154
 \Gm@layoutvoffset=\dimen155
 \Gm@dimlist=\toks24
- (C:\Users\Sridhar\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Sridhar\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+ (C:\Users\Sridhar\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Sridhar\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) (C:\Users\Sridhar\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count271
 \l__pdf_internal_box=\box52
@@ -111,20 +113,20 @@ LaTeX Warning: Unused global option(s):
 (project_proposal.aux)
 \openout1 = `project_proposal.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -162,19 +164,24 @@ LaTeX Font Info:    ... okay on input line 10.
 
 [1
 
-{C:/Users/Sridhar/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (project_proposal.aux) ) 
+{C:/Users/Sridhar/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 1112) in paragraph at lines 53--54
+[]\OT1/cmr/m/n/10 Education, & Gov-ern-ment of On-tario. (2021). \OT1/cmr/m/it/10 Sec-ond lan-guage course en-rol-ment. \OT1/cmr/m/n/10 Re-trieved from
+ []
+
+[2] (project_proposal.aux) ) 
 Here is how much of TeX's memory you used:
- 1646 strings out of 478847
- 24942 string characters out of 2847438
- 329845 words of memory out of 3000000
- 19619 multiletter control sequences out of 15000+600000
- 407744 words of font info for 42 fonts, out of 8000000 for 9000
+ 1664 strings out of 478847
+ 25418 string characters out of 2847438
+ 337937 words of memory out of 3000000
+ 19631 multiletter control sequences out of 15000+600000
+ 408852 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,66p,358b,193s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Users/Sridhar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Sridhar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Sridhar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Sridhar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on project_proposal.pdf (1 page, 53202 bytes).
+ 57i,6n,66p,893b,193s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/Sridhar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Sridhar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Sridhar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Sridhar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Sridhar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Sridhar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Sridhar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on project_proposal.pdf (2 pages, 109214 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
