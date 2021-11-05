@@ -1,0 +1,1494 @@
+﻿Code du cours|Description du cours|Année d'études|Parcours ou destination|Effectif
+ADA1O|Théâtre|9e année|Ouvert|35062
+ADA2O|Théâtre|10e année|Ouvert|28687
+ADA3M|Théâtre|11e année|Filière préuniversitaire/précollégiale|12196
+ADA3O|Théâtre|11e année|Ouvert|2838
+ADA4E|Théâtre|12e année|Filière préemploi|197
+ADA4M|Théâtre|12e année|Filière préuniversitaire/précollégiale|8349
+ADA4O|Dramatic Arts|12e année|Ouvert|<10
+ADB1O|Théâtre musical|9e année|Ouvert|151
+ADB2O|Théâtre musical|10e année|Ouvert|213
+ADB3M|Théâtre musical|11e année|Filière préuniversitaire/précollégiale|591
+ADB3O|Théâtre musical|11e année|Ouvert|141
+ADB4M|Théâtre musical|12e année|Filière préuniversitaire/précollégiale|509
+ADC1O|Théâtre communautaire|9e année|Ouvert|160
+ADC2O|Théâtre communautaire|10e année|Ouvert|158
+ADC3M|Théâtre communautaire|11e année|Filière préuniversitaire/précollégiale|193
+ADC3O|Théâtre communautaire|11e année|Ouvert|90
+ADC4M|Théâtre communautaire|12e année|Filière préuniversitaire/précollégiale|308
+ADD1O|Théâtre - production|9e année|Ouvert|546
+ADD2O|Théâtre - production|10e année|Ouvert|710
+ADD3M|Théâtre - production|11e année|Filière préuniversitaire/précollégiale|1064
+ADD3O|Théâtre - production|11e année|Ouvert|220
+ADD4M|Théâtre - production|12e année|Filière préuniversitaire/précollégiale|1121
+ADD4O|Art dramatique - production|12e année|Ouvert|<10
+ADF3M|Travail de mise en scène|11e année|Filière préuniversitaire/précollégiale|45
+ADF4M|Travail de mise en scène|12e année|Filière préuniversitaire/précollégiale|170
+ADG3M|Théâtre - Jeu de l'acteur et travail d'improvisation|11e année|Filière préuniversitaire/précollégiale|248
+ADG3O|Théâtre - Jeu de l'acteur et travail d'improvisation|11e année|Ouvert|58
+ADG4M|Théâtre - Jeu de l'acteur et travail d'improvisation|12e année|Filière préuniversitaire/précollégiale|232
+ADH4T|Performing Arts Career Studies|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+ADP3M|Théâtre - dramaturgie et développement dramaturgique|11e année|Filière préuniversitaire/précollégiale|45
+ADP3O|Théâtre - dramaturgie et développement dramaturgique|11e année|Ouvert|25
+ADP4M|Théâtre - dramaturgie et développement dramaturgique|12e année|Filière préuniversitaire/précollégiale|126
+ADT4M|Théâtre - théâtre canadien|12e année|Filière préuniversitaire/précollégiale|<10
+ADV1O|Théâtre - cinéma/vidéo|9e année|Ouvert|95
+ADV2O|Théâtre - cinéma/video|10e année|Ouvert|178
+ADV3M|Théâtre - cinéma/video|11e année|Filière préuniversitaire/précollégiale|458
+ADV3O|Théâtre - cinéma/video|11e année|Ouvert|123
+ADV4M|Théâtre - cinéma/video|12e année|Filière préuniversitaire/précollégiale|394
+AEA3O|Exploration et création artistique|11e année|Ouvert|226
+AEA4O|Exploration et création artistique|12e année|Ouvert|1652
+AEB4T|Exploring Art and Design|12e année|Cours collégial, enseigné par le collège (DRC)|65
+AED4T|Art and Design Portfolio Development|12e année|Cours collégial, enseigné par le collège (DRC)|31
+AEF4T|Design|12e année|Cours collégial, enseigné par le collège (DRC)|17
+AEH4T|Elements of Décor|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+AEI4T|Colour in Décor|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+AEL4T|Basic  Design|12e année|Cours collégial, enseigné par le collège (DRC)|17
+AFB4T|Painting and Drawing|12e année|Cours collégial, enseigné par le collège (DRC)|11
+AFE4T|Basic Digital Photography|12e année|Cours collégial, enseigné par le collège (DRC)|11
+AFF4T|The Culture of Photography|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+AFG4T|2D Digital Art|12e année|Cours collégial, enseigné par le collège (DRC)|25
+AFI4T|Digital Photography and Image Editing|12e année|Cours collégial, enseigné par le collège (DRC)|43
+AFJ4T|Digital Art and Design|12e année|Cours collégial, enseigné par le collège (DRC)|22
+AFK4T|Digital Photography Techniques|12e année|Cours collégial, enseigné par le collège (DRC)|108
+AFL4T|Introduction à la photographie|12e année|Cours collégial, enseigné par le collège (DRC)|11
+AFQ4T|Editorial Illustrations|12e année|Cours collégial, enseigné par le collège (DRC)|17
+AFS4T|Painting and Drawing ¿ Theory|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+AHA4T|History of Popular Music|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+AHB4T|Musical Theatre Production|12e année|Cours collégial, enseigné par le collège (DRC)|14
+AHE4T|Music and Society|12e année|Cours collégial, enseigné par le collège (DRC)|38
+AHF4T|Good Vibrations: The Evolution of Popular Music|12e année|Cours collégial, enseigné par le collège (DRC)|20
+AHG4T|Canadian Music Industry|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+AHI4T|Art History and Appreciation|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+AHK4T|History of Popular Music II|12e année|Cours collégial, enseigné par le collège (DRC)|33
+ALC1O|Arts intégrés|9e année|Ouvert|3951
+ALC2O|Arts intégrés|11e année|Ouvert|236
+AMA4T|Jazz|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+AMB1O|Musique instrumentale - cuivres|9e année|Ouvert|76
+AMB2O|Musique instrumentale - cuivres|10e année|Ouvert|37
+AMB3M|Musique instrumentale - cuivres|11e année|Filière préuniversitaire/précollégiale|47
+AMB4M|Musique instrumentale - cuivres|12e année|Filière préuniversitaire/précollégiale|46
+AMC1O|Composition musicale|9e année|Ouvert|196
+AMC2O|Composition musicale|10e année|Ouvert|464
+AMC3M|Composition musicale|11e année|Filière préuniversitaire/précollégiale|287
+AMC3O|Composition musicale|11e année|Ouvert|252
+AMC4M|Composition musicale|12e année|Filière préuniversitaire/précollégiale|377
+AMD1O|Musique électronique|9e année|Ouvert|10
+AMD2O|Musique électronique|10e année|Ouvert|18
+AMD3M|Musique électronique|11e année|Filière préuniversitaire/précollégiale|66
+AMD3O|Musique électronique|11e année|Ouvert|101
+AMD4M|Musique électronique|12e année|Filière préuniversitaire/précollégiale|29
+AME1O|Petits ensembles|9e année|Ouvert|140
+AME2O|Petits ensembles|10e année|Ouvert|289
+AME3M|Petits ensembles|11e année|Filière préuniversitaire/précollégiale|237
+AME3O|Petits ensembles|11e année|Ouvert|149
+AME4M|Petits ensembles|12e année|Filière préuniversitaire/précollégiale|247
+AMG1O|Guitare|9e année|Ouvert|1930
+AMG2O|Guitare|10e année|Ouvert|9184
+AMG3M|Guitare|11e année|Filière préuniversitaire/précollégiale|1693
+AMG3O|Guitare|11e année|Ouvert|3594
+AMG4M|Guitare|12e année|Filière préuniversitaire/précollégiale|1620
+AMH1O|Harmonie de scène|9e année|Ouvert|64
+AMH2O|Harmonie de scène|10e année|Ouvert|379
+AMH3M|Harmonie de scène|11e année|Filière préuniversitaire/précollégiale|559
+AMH3O|Harmonie de scène|11e année|Ouvert|67
+AMH4M|Harmonie de scène|12e année|Filière préuniversitaire/précollégiale|632
+AMI1O|Musique instrumentale - harmonie|9e année|Ouvert|14037
+AMI2O|Musique instrumentale - harmonie|10e année|Ouvert|7284
+AMI3M|Musique instrumentale - harmonie|11e année|Filière préuniversitaire/précollégiale|4419
+AMI3O|Musique instrumentale - harmonie|11e année|Ouvert|239
+AMI4M|Musique instrumentale - harmonie|12e année|Filière préuniversitaire/précollégiale|3208
+AMJ2O|Jazz vocal|10e année|Ouvert|54
+AMJ3M|Jazz vocal|11e année|Filière préuniversitaire/précollégiale|198
+AMJ3O|Jazz vocal|11e année|Ouvert|28
+AMJ4M|Jazz vocal|12e année|Filière préuniversitaire/précollégiale|152
+AMK1O|Clavier|9e année|Ouvert|632
+AMK2O|Clavier|10e année|Ouvert|1777
+AMK3M|Clavier|11e année|Filière préuniversitaire/précollégiale|517
+AMK3O|Clavier|11e année|Ouvert|322
+AMK4M|Clavier|12e année|Filière préuniversitaire/précollégiale|331
+AMM1O|La musique et l'ordinateur|9e année|Ouvert|94
+AMM2O|La musique et l'ordinateur|10e année|Ouvert|596
+AMM3M|La musique et l'ordinateur|11e année|Filière préuniversitaire/précollégiale|481
+AMM3O|La musique et l'ordinateur|11e année|Ouvert|172
+AMM4M|La musique et l'ordinateur|12e année|Filière préuniversitaire/précollégiale|368
+AMO1O|Musique instrumentale - orchestre|9e année|Ouvert|364
+AMO2O|Musique instrumentale - orchestre|10e année|Ouvert|168
+AMO3M|Musique instrumentale - orchestre|11e année|Filière préuniversitaire/précollégiale|124
+AMO3O|Musique instrumentale - orchestre|11e année|Ouvert|<10
+AMO4M|Musique instrumentale - orchestre|12e année|Filière préuniversitaire/précollégiale|107
+AMP1O|Musique instrumentale - percussion|9e année|Ouvert|208
+AMP2O|Musique instrumentale - percussion|10e année|Ouvert|367
+AMP3M|Musique instrumentale - percussion|11e année|Filière préuniversitaire/précollégiale|110
+AMP3O|Musique instrumentale - percussion|11e année|Ouvert|73
+AMP4M|Musique instrumentale - percussion|12e année|Filière préuniversitaire/précollégiale|59
+AMQ1O|Tambours métalliques|9e année|Ouvert|181
+AMQ2O|Tambours métalliques|10e année|Ouvert|238
+AMQ3M|Tambours métalliques|11e année|Filière préuniversitaire/précollégiale|95
+AMQ3O|Tambours métalliques|11e année|Ouvert|39
+AMQ4M|Tambours métalliques|12e année|Filière préuniversitaire/précollégiale|64
+AMR1O|Répertoire|9e année|Ouvert|3774
+AMR2O|Répertoire|10e année|Ouvert|3702
+AMR3M|Répertoire|11e année|Filière préuniversitaire/précollégiale|2663
+AMR3O|Répertoire|11e année|Ouvert|1057
+AMR4M|Répertoire|12e année|Filière préuniversitaire/précollégiale|2563
+AMS1O|Musique instrumentale - cordes|9e année|Ouvert|2076
+AMS2O|Musique instrumentale - cordes|10e année|Ouvert|1315
+AMS3M|Musique instrumentale - cordes|11e année|Filière préuniversitaire/précollégiale|816
+AMS3O|Musique instrumentale - cordes|11e année|Ouvert|42
+AMS4M|Musique instrumentale - cordes|12e année|Filière préuniversitaire/précollégiale|671
+AMT1O|Théàtre musical|9e année|Ouvert|115
+AMT2O|Théàtre musical|10e année|Ouvert|300
+AMT3M|Théàtre musical|11e année|Filière préuniversitaire/précollégiale|688
+AMT3O|Théàtre musical|11e année|Ouvert|279
+AMT4M|Théàtre musical|12e année|Filière préuniversitaire/précollégiale|880
+AMU1O|Musique|9e année|Ouvert|15573
+AMU2O|Musique|10e année|Ouvert|7482
+AMU3M|Musique|11e année|Filière préuniversitaire/précollégiale|4223
+AMU3O|Musique|11e année|Ouvert|544
+AMU4E|Musique|12e année|Filière préemploi|145
+AMU4M|Musique|12e année|Filière préuniversitaire/précollégiale|3397
+AMV1O|Musique vocale ou chorale|9e année|Ouvert|4040
+AMV2O|Musique vocale ou chorale|10e année|Ouvert|4461
+AMV3M|Musique vocale ou chorale|11e année|Filière préuniversitaire/précollégiale|2726
+AMV3O|Musique vocale ou chorale|11e année|Ouvert|807
+AMV4M|Musique vocale ou chorale|12e année|Filière préuniversitaire/précollégiale|2434
+AMW1O|Musique - bois|9e année|Ouvert|122
+AMW2O|Musique - bois|10e année|Ouvert|74
+AMW3M|Musique - bois|11e année|Filière préuniversitaire/précollégiale|82
+AMW3O|Musique - bois|11e année|Ouvert|<10
+AMW4M|Musique - bois|12e année|Filière préuniversitaire/précollégiale|75
+AMX3M|Musique - externe(conservatoire)|11e année|Filière préuniversitaire/précollégiale|314
+AMX4M|Musique - externe(conservatoire)|12e année|Filière préuniversitaire/précollégiale|568
+ASA4T|Media and the Arts|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+ASM2O|Arts médiatiques|10e année|Ouvert|9963
+ASM3M|Arts médiatiques|11e année|Filière préuniversitaire/précollégiale|3471
+ASM3O|Arts médiatiques|11e année|Ouvert|4141
+ASM4E|Arts médiatiques|12e année|Filière préemploi|149
+ASM4M|Arts médiatiques|12e année|Filière préuniversitaire/précollégiale|2303
+ASM4O|Arts médiatiques|12e année|Ouvert|17
+ATB1O|Danse - ballet|9e année|Ouvert|285
+ATB2O|Danse - ballet|10e année|Ouvert|279
+ATB3M|Danse - ballet|11e année|Filière préuniversitaire/précollégiale|267
+ATB4M|Danse - ballet|12e année|Filière préuniversitaire/précollégiale|179
+ATC1O|Danse|9e année|Ouvert|3372
+ATC2O|Danse|10e année|Ouvert|5683
+ATC3M|Danse|11e année|Filière préuniversitaire/précollégiale|2317
+ATC3O|Danse|11e année|Ouvert|876
+ATC4E|Danse|12e année|Filière préemploi|12
+ATC4M|Danse|12e année|Filière préuniversitaire/précollégiale|1587
+ATD2O|Composition chorégraphique|10e année|Ouvert|<10
+ATD3M|Composition chorégraphique|11e année|Filière préuniversitaire/précollégiale|48
+ATD4M|Composition chorégraphique|12e année|Filière préuniversitaire/précollégiale|195
+ATF3M|Danse africaine|11e année|Filière préuniversitaire/précollégiale|<10
+ATF4M|Danse africaine|12e année|Filière préuniversitaire/précollégiale|<10
+ATJ2O|Danse - jazz|10e année|Ouvert|86
+ATJ3M|Danse - jazz|11e année|Filière préuniversitaire/précollégiale|51
+ATJ4M|Danse - jazz|12e année|Filière préuniversitaire/précollégiale|20
+ATL3M|Danse du Centre et du Sud de l'Amérique|11e année|Filière préuniversitaire/précollégiale|28
+ATM1O|Danse moderne|9e année|Ouvert|245
+ATM2O|Danse moderne|10e année|Ouvert|235
+ATM3M|Danse moderne|11e année|Filière préuniversitaire/précollégiale|246
+ATM4M|Danse moderne|12e année|Filière préuniversitaire/précollégiale|220
+ATO2O|Danse de l'Asie/du Cercle du Pacifique|10e année|Ouvert|38
+ATO3M|Danse de l'Asie/du Cercle du Pacifique|11e année|Filière préuniversitaire/précollégiale|18
+ATO3O|Danse de l'Asie/du Cercle du Pacifique|11e année|Ouvert|16
+ATO4M|Danse de l'Asie/du Cercle du Pacifique|12e année|Filière préuniversitaire/précollégiale|<10
+ATP1O|Danse - répétition du spectacle|9e année|Ouvert|166
+ATP2O|Danse - répétition du spectacle|10e année|Ouvert|246
+ATP3M|Danse - répétition du spectacle|11e année|Filière préuniversitaire/précollégiale|199
+ATP3O|Danse - répétition du spectacle|11e année|Ouvert|27
+ATP4M|Danse - répétition du spectacle|12e année|Filière préuniversitaire/précollégiale|253
+ATQ4T|Jazz|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+ATR3O|Danse urbaine : B-Boying, Gumboot, Dancehall et autres fusions de styles|11e année|Ouvert|36
+ATS2O|Danse de divertissement : danses populaires|10e année|Ouvert|19
+ATS4M|Danse de divertissement : danses populaires|12e année|Filière préuniversitaire/précollégiale|<10
+ATU2O|Danse de comédie musicale|10e année|Ouvert|18
+ATU3M|Danse de comédie musicale|11e année|Filière préuniversitaire/précollégiale|45
+ATU4M|Danse de comédie musicale|12e année|Filière préuniversitaire/précollégiale|75
+ATZ3O|Danses du monde : danses ethnoculturelles|11e année|Ouvert|<10
+AVA4T|Ideas and Imagery|12e année|Cours collégial, enseigné par le collège (DRC)|26
+AVI1O|Arts visuels|9e année|Ouvert|53575
+AVI2O|Arts visuels|10e année|Ouvert|34907
+AVI3M|Arts visuels|11e année|Filière préuniversitaire/précollégiale|18684
+AVI3O|Arts visuels|11e année|Ouvert|5686
+AVI4E|Arts visuels|12e année|Filière préemploi|537
+AVI4M|Arts visuels|12e année|Filière préuniversitaire/précollégiale|12947
+AWA1O|Métiers d'arts|9e année|Ouvert|270
+AWA2O|Métiers d'arts|10e année|Ouvert|2397
+AWA3M|Métiers d'arts|11e année|Filière préuniversitaire/précollégiale|65
+AWA3O|Métiers d'arts|11e année|Ouvert|1998
+AWA4M|Métiers d'arts|12e année|Filière préuniversitaire/précollégiale|365
+AWC2O|Céramique et poterie : façonnage, moulage, tournage|10e année|Ouvert|602
+AWC3M|Céramique et poterie : façonnage, moulage, tournage|11e année|Filière préuniversitaire/précollégiale|424
+AWC3O|Céramique et poterie : façonnage, moulage, tournage|11e année|Ouvert|641
+AWC4M|Céramique et poterie : façonnage, moulage, tournage|12e année|Filière préuniversitaire/précollégiale|496
+AWD1O|Arts visuels - design appliqué|9e année|Ouvert|291
+AWD2O|Arts visuels - design appliqué|10e année|Ouvert|729
+AWD3M|Arts visuels - design appliqué|11e année|Filière préuniversitaire/précollégiale|1187
+AWD3O|Arts visuels - design appliqué|11e année|Ouvert|361
+AWD4M|Arts visuels - design appliqué|12e année|Filière préuniversitaire/précollégiale|1425
+AWE2O|Arts visuels - graphisme de communication|10e année|Ouvert|80
+AWE3M|Arts visuels - graphisme de communication|11e année|Filière préuniversitaire/précollégiale|356
+AWE3O|Arts visuels - graphisme de communication|11e année|Ouvert|244
+AWE4M|Arts visuels - graphisme de communication|12e année|Filière préuniversitaire/précollégiale|642
+AWF2O|Arts visuels - design industriel|10e année|Ouvert|72
+AWF3M|Arts visuels - design industriel|11e année|Filière préuniversitaire/précollégiale|46
+AWF3O|Arts visuels - design industriel|11e année|Ouvert|18
+AWF4M|Arts visuels - design industriel|12e année|Filière préuniversitaire/précollégiale|79
+AWG3M|Arts visuels - design d'environnement|11e année|Filière préuniversitaire/précollégiale|23
+AWG3O|Arts visuels - design d'environnement|11e année|Ouvert|23
+AWG4M|Arts visuels - design d'environnement|12e année|Filière préuniversitaire/précollégiale|17
+AWH2O|Arts visuels - design d'intérieur|10e année|Ouvert|23
+AWH3M|Arts visuels - design d'intérieur|11e année|Filière préuniversitaire/précollégiale|85
+AWH3O|Arts visuels - design d'intérieur|11e année|Ouvert|111
+AWH4M|Arts visuels - design d'intérieur|12e année|Filière préuniversitaire/précollégiale|140
+AWI1O|Mode : stylisme et textile|9e année|Ouvert|51
+AWI2O|Mode : stylisme et textile|10e année|Ouvert|226
+AWI3M|Mode : stylisme et textile|11e année|Filière préuniversitaire/précollégiale|97
+AWI3O|Mode : stylisme et textile|11e année|Ouvert|267
+AWI4M|Mode : stylisme et textile|12e année|Filière préuniversitaire/précollégiale|147
+AWJ2O|Décor de spectacle : danse, musique, théâtre et autre|10e année|Ouvert|<10
+AWJ3M|Décor de spectacle : danse, musique, théâtre et autre|11e année|Filière préuniversitaire/précollégiale|119
+AWJ3O|Décor de spectacle : danse, musique, théâtre et autre|11e année|Ouvert|19
+AWJ4M|Décor de spectacle : danse, musique, théâtre et autre|12e année|Filière préuniversitaire/précollégiale|41
+AWK1O|Arts visuels - illustration|9e année|Ouvert|22
+AWK2O|Arts visuels - illustration|10e année|Ouvert|171
+AWK3M|Arts visuels - illustration|11e année|Filière préuniversitaire/précollégiale|138
+AWK3O|Arts visuels - illustration|11e année|Ouvert|125
+AWK4M|Arts visuels - illustration|12e année|Filière préuniversitaire/précollégiale|328
+AWL1O|Dessin|9e année|Ouvert|52
+AWL2O|Dessin|10e année|Ouvert|144
+AWL3M|Dessin|11e année|Filière préuniversitaire/précollégiale|391
+AWL3O|Dessin|11e année|Ouvert|117
+AWL4M|Dessin|12e année|Filière préuniversitaire/précollégiale|395
+AWM1O|Dessin et peinture|9e année|Ouvert|297
+AWM2O|Dessin et peinture|10e année|Ouvert|543
+AWM3M|Dessin et peinture|11e année|Filière préuniversitaire/précollégiale|869
+AWM3O|Dessin et peinture|11e année|Ouvert|309
+AWM4M|Dessin et peinture|12e année|Filière préuniversitaire/précollégiale|1478
+AWN2O|Peinture|10e année|Ouvert|<10
+AWN3M|Peinture|11e année|Filière préuniversitaire/précollégiale|73
+AWN3O|Peinture|11e année|Ouvert|165
+AWN4M|Peinture|12e année|Filière préuniversitaire/précollégiale|351
+AWO1O|Techniques d'impression|9e année|Ouvert|24
+AWO2O|Techniques d'impression|10e année|Ouvert|135
+AWO3M|Techniques d'impression|11e année|Filière préuniversitaire/précollégiale|207
+AWO3O|Techniques d'impression|11e année|Ouvert|282
+AWO4M|Techniques d'impression|12e année|Filière préuniversitaire/précollégiale|184
+AWP2O|Sculpture et travail à trois dimensions|10e année|Ouvert|179
+AWP3M|Sculpture et travail à trois dimensions|11e année|Filière préuniversitaire/précollégiale|293
+AWP3O|Sculpture et travail à trois dimensions|11e année|Ouvert|289
+AWP4M|Sculpture et travail à trois dimensions|12e année|Filière préuniversitaire/précollégiale|351
+AWQ1O|Arts visuels - photographie|9e année|Ouvert|58
+AWQ2O|Arts visuels - photographie|10e année|Ouvert|3736
+AWQ3M|Arts visuels - photographie|11e année|Filière préuniversitaire/précollégiale|7793
+AWQ3O|Arts visuels - photographie|11e année|Ouvert|5873
+AWQ4M|Arts visuels - photographie|12e année|Filière préuniversitaire/précollégiale|4960
+AWR1O|Arts visuels - cinéma/vidéo|9e année|Ouvert|43
+AWR2O|Arts visuels - cinéma/vidéo|10e année|Ouvert|118
+AWR3M|Arts visuels - cinéma/vidéo|11e année|Filière préuniversitaire/précollégiale|825
+AWR3O|Arts visuels - cinéma/vidéo|11e année|Ouvert|564
+AWR4M|Arts visuels - cinéma/vidéo|12e année|Filière préuniversitaire/précollégiale|1116
+AWS1O|Arts visuels - traitement informatisé de l'image|9e année|Ouvert|560
+AWS2O|Arts visuels - traitement informatisé de l'image|10e année|Ouvert|1225
+AWS3M|Arts visuels - traitement informatisé de l'image|11e année|Filière préuniversitaire/précollégiale|1059
+AWS3O|Arts visuels - traitement informatisé de l'image|11e année|Ouvert|431
+AWS4M|Arts visuels - traitement informatisé de l'image|12e année|Filière préuniversitaire/précollégiale|864
+AWT1O|Art expérimental|9e année|Ouvert|133
+AWT2O|Art expérimental|10e année|Ouvert|616
+AWT3M|Art expérimental|11e année|Filière préuniversitaire/précollégiale|353
+AWT3O|Art expérimental|11e année|Ouvert|250
+AWT4M|Art expérimental|12e année|Filière préuniversitaire/précollégiale|969
+AWU2O|Arts visuels - histoire de l'art et cultures mondiales|10e année|Ouvert|72
+AWU3M|Arts visuels - histoire de l'art et cultures mondiales|11e année|Filière préuniversitaire/précollégiale|34
+AWU3O|Arts visuels - histoire de l'art et cultures mondiales|11e année|Ouvert|<10
+AWU4M|Arts visuels - histoire de l'art et cultures mondiales|12e année|Filière préuniversitaire/précollégiale|163
+BAA4T|Accounting|12e année|Cours collégial, enseigné par le collège (DRC)|27
+BAB4T|Accounting Basics|12e année|Cours collégial, enseigné par le collège (DRC)|13
+BAE4T|Financial Accounting Basics|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+BAF3M|Introduction a la comptabilité financière|11e année|Filière préuniversitaire/précollégiale|27025
+BAI3E|Introduction a la comptabilité|11e année|Filière préemploi|578
+BAJ4T|Accounting Basics II|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+BAN4E|comptabilité de la petite entreprise|12e année|Filière préemploi|80
+BAT4M|Principes de comptabilité financière|12e année|Filière préuniversitaire/précollégiale|10069
+BBA4T|Introduction to Business|12e année|Cours collégial, enseigné par le collège (DRC)|39
+BBB4E|Introduction au commerce international|12e année|Filière préemploi|75
+BBB4M|Principes de commerce international|12e année|Filière préuniversitaire/précollégiale|16447
+BBF4T|Business, Its Nature and Environment|12e année|Cours collégial, enseigné par le collège (DRC)|21
+BBG4T|Principes de gestion|12e année|Cours collégial, enseigné par le collège (DRC)|11
+BBI1O|Initiation aux affaires|9e année|Ouvert|4043
+BBI2O|Initiation aux affaires|10e année|Ouvert|26044
+BBJ4T|Introduction to Business Management|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+BBJ4Z|Introduction to Business Management|12e année|Cours universitaire enseigné par l'université (DRC)|<10
+BBK4T|Droit et Affaires|12e année|Cours collégial, enseigné par le collège (DRC)|17
+BBL4T|Business Law|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+BBN4T|Foundations of Operations|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+BBO4T|Business Law I|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+BBS4Z|Introduction to Business Management II|12e année|Cours universitaire enseigné par l'université (DRC)|<10
+BBU4T|Business Fundamentals II|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+BBV4T|Operational Management|12e année|Cours collégial, enseigné par le collège (DRC)|15
+BCA4T|Business Communications|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+BCF4T|Customer Service|12e année|Cours collégial, enseigné par le collège (DRC)|112
+BCG4T|Customer Relations|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+BCM4T|Carpentry Customer Communications|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+BCN4T|Social Understanding for Customer Care II|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+BDA4T|Entrepreneurship|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+BDB4T|Entrepreneurship and Small Business|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+BDI3C|Introduction a l'entrepreneuriat|11e année|Filière précollégiale|11034
+BDP3O|Esprit entrepreneurial|11e année|Ouvert|1413
+BDV4C|Entrepreneuriat : planification d'une entreprise|12e année|Filière précollégiale|1721
+BMA4T|Introduction to Marketing|12e année|Cours collégial, enseigné par le collège (DRC)|54
+BMB4T|Marketing|12e année|Cours collégial, enseigné par le collège (DRC)|36
+BME4T|Principes de marketing|12e année|Cours collégial, enseigné par le collège (DRC)|13
+BMF4T|Marketing and Advertising Principles in Graphics/Packaging|12e année|Cours collégial, enseigné par le collège (DRC)|27
+BMI3C|Introduction au marketing|11e année|Filière précollégiale|17261
+BMK4T|Pitching the Campaign|12e année|Cours collégial, enseigné par le collège (DRC)|24
+BMX3E|Marketing de la vente au détail et des services|11e année|Filière préemploi|1993
+BOA4T|Human Relations|12e année|Cours collégial, enseigné par le collège (DRC)|29
+BOB4T|Organizational Behaviour|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+BOC4T|Office Procedures|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+BOE4T|Gestion de projets|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+BOG4E|Gestion d'une entreprise|12e année|Filière préemploi|1337
+BOH4M|Principes de gestion|12e année|Filière préuniversitaire/précollégiale|17182
+BOI4T|Introductory Human Resources|12e année|Cours collégial, enseigné par le collège (DRC)|12
+BON4T|Conflict Management|12e année|Cours collégial, enseigné par le collège (DRC)|17
+BOO4T|Principles of Human Resource Management|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+BTA3O|Technologies de l'information et de la communication : environnement informatisé|11e année|Ouvert|9255
+BTG4T|Computer Applications for Business and Technology|12e année|Cours collégial, enseigné par le collège (DRC)|14
+BTT1O|Introduction aux technologies de l'information et de la communication|9e année|Ouvert|45611
+BTT2O|Introduction aux technologies de l'information et de la communication|10e année|Ouvert|5639
+BTX4C|Technologies de l'information et de la communication : environnement informatisé|12e année|Filière précollégiale|647
+BTX4E|Technologies de l'information et de la communication : environnement informatisé|12e année|Filière préemploi|523
+CCL3O|Cours de compétences linguistiques des écoles secondaires de l'Ontario|11e année|Ouvert|<10
+CCL4O|Cours de compétences linguistiques des écoles secondaires de l'Ontario|12e année|Ouvert|1003
+CGA4T|World Destinations I|12e année|Cours collégial, enseigné par le collège (DRC)|15
+CGC1D|Enjeux géographiques du Canada|9e année|Cours théorique|106338
+CGC1P|Principes de Géographie du Canada|9e année|Cours appliqué|49777
+CGD3M|Géographie de l'Amérique: une perspective continentale|11e année|Filière préuniversitaire/précollégiale|146
+CGF3M|Géographie physique: tendances, processus et interactions|11e année|Filière préuniversitaire/précollégiale|4711
+CGG3O|Voyages et tourisme : une perspective géographique régionale|11e année|Ouvert|16826
+CGO4M|Géomatique: la géotecnologie en action|12e année|Filière préuniversitaire/précollégiale|496
+CGR4E|Environnement et gestion des ressources|12e année|Filière préemploi|684
+CGR4M|Environnement et gestion des ressources|12e année|Filière préuniversitaire/précollégiale|6449
+CGT3E|Géographie et technologie: les outils du géographe|11e année|Filière préemploi|317
+CGU4C|Géographie mondiale: le milieu urbain|12e année|Filière précollégiale|618
+CGU4U|Géographie mondiale: le milieu humain|12e année|Filière préuniversitaire|1051
+CGW4U|Le Canada et le monde: une analyse géographique|12e année|Filière préuniversitaire|18057
+CHA3U|Historie des États-Unis|11e année|Filière préuniversitaire|7382
+CHC2D|Histoire du Canada depuis la Première Guerre mondiale|10e année|Cours théorique|102799
+CHC2P|Histoire du Canada depuis la Première Guerre mondiale|10e année|Cours appliqué|51203
+CHF4U|Ontario français|12e année|Filière préuniversitaire|<10
+CHH3C|Histoire et politique canadiennes depuis 1945|11e année|Filière précollégiale|194
+CHH3E|Histoire et politique canadiennes depuis 1945|11e année|Filière préemploi|67
+CHI4U|Histoire canadienne : identité et culture|12e année|Filière préuniversitaire|3450
+CHM4E|Aventures en histoire mondiale|12e année|Filière préemploi|1758
+CHT3O|Histoire mondiale depuis 1900|11e année|Ouvert|3459
+CHV2O|Éducation a la citoyenneté (0,5 crédit)|10e année|Ouvert|155447
+CHW3M|Histoire mondiale jusqu'au XVIe siècle|11e année|Filière préuniversitaire/précollégiale|22711
+CHY4C|Histoire de l'Occident et du monde|12e année|Filière précollégiale|2245
+CHY4U|Histoire de l'Occident et du monde|12e année|Filière préuniversitaire|19694
+CIA4U|Analyse des grands enjeux économiques contemporains|12e année|Filière préuniversitaire|11122
+CIC3E|L'individu et les choix économiques|11e année|Filière préemploi|74
+CIE3M|L'individu et l'économie|11e année|Filière préuniversitaire/précollégiale|3195
+CLC4T|Technique de defense|12e année|Cours collégial, enseigné par le collège (DRC)|23
+CLE4T|Crime|12e année|Cours collégial, enseigné par le collège (DRC)|38
+CLK4T|Law Enforcement Communications|12e année|Cours collégial, enseigné par le collège (DRC)|18
+CLN4U|Le droit canadien et international|12e année|Filière préuniversitaire|24051
+CLU3E|Comprendre le droit canadien|11e année|Filière préemploi|2652
+CLU3M|Comprendre le droit canadien|11e année|Filière préuniversitaire/précollégiale|34278
+CPA4T|Active Citizenship|12e année|Cours collégial, enseigné par le collège (DRC)|213
+CPB4T|Canadian Government|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+CPC3O|Politique et citoyenneté canadienne|11e année|Ouvert|139
+CPF4T|Contemporary Canada|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+CPW4U|Politique canadienne et mondiale|12e année|Filière préuniversitaire|5754
+EAB3O|Communications for the World of Business and Technology|11e année|Ouvert|18
+EAC4C|The Writer's Craft|12e année|Filière précollégiale|<10
+EAC4U|The Writer's Craft|12e année|Filière préuniversitaire|428
+EAE1D|English|9e année|Cours théorique|4178
+EAE1P|English|9e année|Cours appliqué|1386
+EAE2D|English|10e année|Cours théorique|3979
+EAE2P|English|10e année|Cours appliqué|1562
+EAE3C|English|11e année|Filière précollégiale|1780
+EAE3E|English|11e année|Filière préemploi|111
+EAE3R|English, Grade 11 Transfer Course, Workplace Preparation to College Preparation|11e année|Préparation au collège (transfert) (2e cours)|<10
+EAE3U|English|11e année|Filière préuniversitaire|3632
+EAE4C|English|12e année|Filière précollégiale|1661
+EAE4E|English|12e année|Filière préemploi|60
+EAE4U|English|12e année|Filière préuniversitaire|2885
+EAL4U|English Literature|12e année|Filière préuniversitaire|111
+EANAO|Anglais pour débutants 1 (APD1)|Niveau 1|Ouvert|300
+EANBO|Anglais pour débutants 2 (APD2)|Niveau 2|Ouvert|309
+EANCO|Anglais pour débutants 3 (APD3)|Niveau 3|Ouvert|94
+EANDO|Anglais pour débutants 4 (APD4)|Niveau 4|Ouvert|88
+EAT3M|Canadian Literature|11e année|Filière préuniversitaire/précollégiale|13
+EBA4T|Communications I|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+EBC4T|Communications|12e année|Cours collégial, enseigné par le collège (DRC)|88
+EBF4T|Communications II|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+EBH4T|Introductory College Communications|12e année|Cours collégial, enseigné par le collège (DRC)|10
+EBT4O|Communications in the World of Busienss and Technology|12e année|Ouvert|772
+ELDAO|Beginning Literacy|Niveau 1|Ouvert|668
+ELDBO|Basic Literacy Skills|Niveau 2|Ouvert|574
+ELDCO|Literacy in Daily Life|Niveau 3|Ouvert|575
+ELDDO|Literacy in Social and Work|Niveau 4|Ouvert|442
+ELDEO|English Literacy Dev|Niveau 5|Ouvert|220
+ELS2O|Literacy Skills, Gr 10, Open|10e année|Ouvert|2615
+ELS3O|Literacy Schools:Reading and Writing|11e année|Ouvert|306
+EMS3O|Media Studies|11e année|Ouvert|12805
+ENG1D|English|9e année|Cours théorique|105245
+ENG1P|English|9e année|Cours appliqué|37622
+ENG2D|English|10e année|Cours théorique|111169
+ENG2H|English Transfer, Grade 10, Applied to Academic|10e année|Transition: théorique|<10
+ENG2P|English|10e année|Cours appliqué|45929
+ENG3C|English|11e année|Filière précollégiale|61149
+ENG3E|English|11e année|Filière préemploi|9705
+ENG3K|English Transfer, Grade 11, College Preparation to University Preparation|11e année|Préparation à l'université (transfert)|<10
+ENG3R|English Transfer, Grade 11, Workplace Preparation to College Preparation|11e année|Préparation au collège (transfert) (2e cours)|11
+ENG3U|English|11e année|Filière préuniversitaire|105345
+ENG4C|English|12e année|Filière précollégiale|66509
+ENG4E|English|12e année|Filière préemploi|5878
+ENG4U|English|12e année|Filière préuniversitaire|93898
+EPS3O|Presentation and Speaking Skills|11e année|Ouvert|1635
+ESLAO|Beginner Communication in English|Niveau 1|Ouvert|2843
+ESLBO|English in Daily Life|Niveau 2|Ouvert|4449
+ESLCO|English for School and Work|Niveau 3|Ouvert|6747
+ESLDO|Study Skills in English|Niveau 4|Ouvert|7512
+ESLEO|Bridge to English|Niveau 5|Ouvert|5559
+ETB4T|Introduction to Journalism|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+ETC3M|Canadian Literature|11e année|Filière préuniversitaire/précollégiale|178
+ETH4T|Social Media and the Citizen Journalist|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+ETS4C|Studies in Literature|12e année|Filière précollégiale|277
+ETS4U|Studies in Literature|12e année|Filière préuniversitaire|5029
+ETT4T|Technical Writing|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+EWC4C|The Writer's Craft|12e année|Filière précollégiale|1459
+EWC4U|The Writer's Craft|12e année|Filière préuniversitaire|17686
+EWD4T|Persuasive Writing|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+EWG4T|Introduction to Freelance Writing|12e année|Cours collégial, enseigné par le collège (DRC)|26
+FAE4O|Atelier d'écriture|12e année|Ouvert|12
+FAF4O|Français des affaires et de la technologie|12e année|Ouvert|14
+FCC3O|Compétence fonctionnelle en communication orale, en lecture et en écriture|11e année|Ouvert|24
+FEF1D|Extended French|9e année|Cours théorique|3481
+FEF2D|Extended French|10e année|Cours théorique|2739
+FEF3U|Extended French|11e année|Filière préuniversitaire|2384
+FEF4U|Extended French|12e année|Filière préuniversitaire|1875
+FFAAO|Actualisation linguestique en français (ALF1)|Niveau 1|Ouvert|27
+FFABO|Actualisation linguestique en français (ALF2)|Niveau 2|Ouvert|27
+FFACO|Actualisation linguestique en français (ALF3)|Niveau 3|Ouvert|18
+FFM3O|Français des médias|11e année|Ouvert|75
+FFPAO|Programme d'appui aux nouveaux arrivants 1|Niveau 1|Ouvert|33
+FFPBO|Programme d'appui aux nouveaux arrivants 2|Niveau 2|Ouvert|56
+FFPCO|Programme d'appui aux nouveaux arrivants 3|Niveau 3|Ouvert|28
+FFPDO|Programme d'appui aux nouveaux arrivants 4|Niveau 4|Ouvert|10
+FIF1D|French Immersion|9e année|Cours théorique|7731
+FIF2D|French Immersion|10e année|Cours théorique|6868
+FIF3U|French Immersion|11e année|Filière préuniversitaire|6172
+FIF4U|French Immersion|12e année|Filière préuniversitaire|5186
+FLC4M|Litérature du Canada Français|12e année|Filière préuniversitaire/précollégiale|12
+FLO4U|Grandes oeuvres de la littérature|12e année|Filière préuniversitaire|97
+FRA1D|Français|9e année|Cours théorique|4221
+FRA1P|Français|9e année|Cours appliqué|1474
+FRA2D|Français|10e année|Cours théorique|4136
+FRA2P|Français|10e année|Cours appliqué|1708
+FRA3C|Français|11e année|Filière précollégiale|2172
+FRA3E|Français|11e année|Filière préemploi|496
+FRA3U|Français|11e année|Filière préuniversitaire|3857
+FRA4C|Français|12e année|Filière précollégiale|2064
+FRA4E|Français|12e année|Filière préemploi|218
+FRA4U|Français|12e année|Filière préuniversitaire|3237
+FSF1D|Core French|9e année|Cours théorique|70267
+FSF1P|Core French|9e année|Cours appliqué|43630
+FSF2D|Core French|10e année|Cours théorique|28160
+FSF2P|Core French|10e année|Cours appliqué|889
+FSF3O|Core French|11e année|Ouvert|290
+FSF3U|Core French|11e année|Filière préuniversitaire|15036
+FSF4O|Core French|12e année|Ouvert|100
+FSF4U|Core French|12e année|Filière préuniversitaire|10044
+GCC4T|Career and College Success|12e année|Cours collégial, enseigné par le collège (DRC)|77
+GCI4T|Exploration en métiers|12e année|Cours collégial, enseigné par le collège (DRC)|44
+GLC2O|Exploration de carrière|10e année|Ouvert|172940
+GLD2O|Découvrir le milieu de travail|10e année|Ouvert|7370
+GLE1O|Stratégies d'apprentissage pour réussir à l'école secondaire|9e année|Ouvert|15063
+GLE2O|Stratégies d'apprentissage pour réussir à l'école secondaire|10e année|Ouvert|8450
+GLE3O|Stratégies d'apprentissage pour réussir après l'école secondaire|11e année|Ouvert|6884
+GLE4O|Stratégies d'apprentissage pour réussir après l'école secondaire|12e année|Ouvert|3437
+GLG4T|Effective Workplace Skills|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+GLH4T|College Connection|12e année|Cours collégial, enseigné par le collège (DRC)|29
+GLN4O|Saisir le milieu de travail|12e année|Ouvert|13147
+GLS1O|Stratégies d'apprentissage pour réussir à l'école secondaire|9e année|Ouvert|14802
+GLS4O|Stratégies d'apprentissage pour réussir après l'école secondaire|12e année|Ouvert|5281
+GPL4T|Developing Leadership|12e année|Cours collégial, enseigné par le collège (DRC)|52
+GPP3O|Leadership et entraide|11e année|Ouvert|20436
+GWB4T|Personal and Academic Success Strategies|12e année|Cours collégial, enseigné par le collège (DRC)|36
+GWD4T|Personal Success|12e année|Cours collégial, enseigné par le collège (DRC)|16
+GWL3O|Planification de carrière|11e année|Ouvert|15806
+HBA4T|Psychology|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HBB4T|Introduction à la psychologie|12e année|Cours collégial, enseigné par le collège (DRC)|226
+HBC4T|Social Psychology|12e année|Cours collégial, enseigné par le collège (DRC)|106
+HBD4T|Psychologie du développement|12e année|Cours collégial, enseigné par le collège (DRC)|24
+HBG4T|Psychology - Police Foundations|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HBH4T|Psychology and Group Dynamics|12e année|Cours collégial, enseigné par le collège (DRC)|37
+HBI4T|Forensic Psychology|12e année|Cours collégial, enseigné par le collège (DRC)|54
+HBL4T|Psychology of Games|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HBQ4T|Crisis Intervention|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HBR4T|Developmental Psychology for the PSW|12e année|Cours collégial, enseigné par le collège (DRC)|12
+HBV4T|Métacognition|12e année|Cours collégial, enseigné par le collège (DRC)|23
+HCB4T|Criminal Justice System|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HCC4T|Criminology|12e année|Cours collégial, enseigné par le collège (DRC)|112
+HCE4T|Criminal Code: Civil and Federal Statutes|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HCF4T|Canadian Criminal Justice Systems|12e année|Cours collégial, enseigné par le collège (DRC)|110
+HDB4T|Interpersonal Skills and Group Dynamics|12e année|Cours collégial, enseigné par le collège (DRC)|58
+HDC4T|Communications et relations interpersonnelles|12e année|Cours collégial, enseigné par le collège (DRC)|27
+HDD4T|Contemporary Social Problems|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HDG4Z|Introduction to Social Welfare|12e année|Cours universitaire enseigné par l'université (DRC)|<10
+HDH4T|Popular Culture|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HDI4T|Social Sciences|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HDJ4T|Social Deviance|12e année|Cours collégial, enseigné par le collège (DRC)|39
+HDK4T|Creative Expressions|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HDP4T|Popular Culture, Film and Society|12e année|Cours collégial, enseigné par le collège (DRC)|74
+HDQ4T|Popular Culture and Social Influence|12e année|Cours collégial, enseigné par le collège (DRC)|31
+HDS4T|Popular Culture II|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HDV4T|Introduction au travail social|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HDW4T|Leadership in Society|12e année|Cours collégial, enseigné par le collège (DRC)|11
+HDX4T|Substance Abuse|12e année|Cours collégial, enseigné par le collège (DRC)|18
+HDY4T|Interpersonal Communications|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HEC4T|Professional Ethics|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HEE4T|Is That Ethical?|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HEG4T|Contemporary Ethical Issues|12e année|Cours collégial, enseigné par le collège (DRC)|63
+HFA4M|Étude de l'alimentation et de la nutrition|12e année|Filière préuniversitaire/précollégiale|16965
+HFC4T|Nutrition|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HFE4T|Nutrition Connections ¿ Children and Youth|12e année|Cours collégial, enseigné par le collège (DRC)|12
+HFN1O|Alimentation et nutrition|9e année|Ouvert|7175
+HFN2O|Alimentation et nutrition|10e année|Ouvert|28374
+HHA4T|Human Relationships|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HHE4T|Understanding Families|12e année|Cours collégial, enseigné par le collège (DRC)|44
+HHG4M|Développement humain|12e année|Filière préuniversitaire/précollégiale|8110
+HHH4T|The Art of Counseling Children and Youth|12e année|Cours collégial, enseigné par le collège (DRC)|21
+HHI4T|Principles of Learning|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HHK4T|Human Services|12e année|Cours collégial, enseigné par le collège (DRC)|10
+HHS4M|Individus, familles et sociétés|12e année|Filière préuniversitaire/précollégiale|24753
+HIA4T|Dealing with Difficult People|12e année|Cours collégial, enseigné par le collège (DRC)|18
+HIB4T|Personal Growth and Development|12e année|Cours collégial, enseigné par le collège (DRC)|42
+HIC4T|PSW Practice|12e année|Cours collégial, enseigné par le collège (DRC)|30
+HID4T|Interviewing/Counselling|12e année|Cours collégial, enseigné par le collège (DRC)|18
+HIE4T|Mediation and Conflict Resolution|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HIF1O|Vie personnelle et familiale|9e année|Ouvert|10683
+HIF2O|Vie personnelle et familiale|10e année|Ouvert|3039
+HIJ4T|PSW Practice B|12e année|Cours collégial, enseigné par le collège (DRC)|11
+HIP3E|Gestion des ressources personelles|11e année|Filière préemploi|5674
+HIR3C|Gestion des ressources personelles et familiales|11e année|Filière précollégiale|4622
+HLS3O|Habitation|11e année|Ouvert|2222
+HNA4T|World of Fashion|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HNB4O|The Fashion Industry|12e année|Ouvert|2124
+HNC3O|Mode|11e année|Ouvert|7779
+HND4T|Introduction to Fashion|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HPA4T|Families and Parenting|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HPC3O|Rôle parental|11e année|Ouvert|25274
+HPD4E|Développement humain|12e année|Filière préemploi|2422
+HPE4T|Santé et sécurité de l'enfant|12e année|Cours collégial, enseigné par le collège (DRC)|16
+HPF4T|Apprentissage par le jeu|12e année|Cours collégial, enseigné par le collège (DRC)|42
+HPW3C|Interactions avec les enfants|11e année|Filière précollégiale|8730
+HRE1O|Enseignement religieux|9e année|Ouvert|48075
+HRE2O|Enseignement religieux|10e année|Ouvert|48857
+HRE3M|Enseignement religieux|11e année|Filière préuniversitaire/précollégiale|6423
+HRE3O|Enseignement religieux|11e année|Ouvert|3212
+HRE4M|Enseignement religieux|12e année|Filière préuniversitaire/précollégiale|26363
+HRE4O|Enseignement religieux|12e année|Ouvert|14271
+HRF3O|Études des religions|11e année|Ouvert|17066
+HRT3M|Croyances et traditions religieuses dans le monde, cours préuniversitaire/précol|11e année|Filière préuniversitaire/précollégiale|31729
+HSB4M|Changements et défis sociaux|12e année|Filière préuniversitaire/précollégiale|23722
+HSC4T|Sociology of Family|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HSD4T|Sociology and Canadian Society|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HSF4T|Sociology in Canadian Society|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HSH4T|Introduction à la sociologie|12e année|Cours collégial, enseigné par le collège (DRC)|122
+HSJ4T|Perspectives on World Issues|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HSM4T|Réalités et relations interculturelles|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HSN4T|Violence against Women|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+HSP3M|Introduction a la psychologie, la sociologie et l'anthropologie|11e année|Filière préuniversitaire/précollégiale|49733
+HSS4T|Sociology|12e année|Cours collégial, enseigné par le collège (DRC)|31
+HZB3O|Philosophie: les grandes questions|11e année|Ouvert|4383
+HZT4U|Philosophie: approches et problématiques|12e année|Filière préuniversitaire|21075
+IBG4T|Microsoft Office Excel 2007|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+IBI4T|Microsoft Office Application|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+IBJ4T|Architecture d'un système d'exploitation Linux|12e année|Cours collégial, enseigné par le collège (DRC)|27
+IBK4T|Computer Applications|12e année|Cours collégial, enseigné par le collège (DRC)|128
+IBL4T|Introduction to Programming|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+IBM4T|Introduction au HTML|12e année|Cours collégial, enseigné par le collège (DRC)|11
+IBP4T|Graphics Theory and Application|12e année|Cours collégial, enseigné par le collège (DRC)|33
+IBQ4T|Programmation Internet|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+IBS4T|Web Page Design|12e année|Cours collégial, enseigné par le collège (DRC)|24
+IBU4T|Introduction to Game Program/Design|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+IBY4T|Unix/Linux and the Internet|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+ICE3E|Systèmes informatiques|11e année|Filière préemploi|24
+ICS2O|Introduction à l'informatique|10e année|Ouvert|12265
+ICS3C|Introduction à la programmation informatique|11e année|Filière précollégiale|3118
+ICS3M|Études informatiques|11e année|Filière préuniversitaire/précollégiale|<10
+ICS3U|Introduction au génie informatique|11e année|Filière préuniversitaire|12781
+ICS4C|Programmation informatique|12e année|Filière précollégiale|689
+ICS4M|Études informatiques|12e année|Filière préuniversitaire/précollégiale|<10
+ICS4U|Génie informatique|12e année|Filière préuniversitaire|5324
+IDC3O|Études interdisciplinaires|11e année|Ouvert|6987
+IDC4O|Études interdisciplinaires|12e année|Ouvert|3746
+IDC4U|Études interdisciplinaires|12e année|Filière préuniversitaire|16085
+IDP3O|Études interdisciplinaires|11e année|Ouvert|661
+IDP4O|Études interdisciplinaires|12e année|Ouvert|299
+IDP4U|Études interdisciplinaires|12e année|Filière préuniversitaire|1006
+JAL4T|Film Studies|12e année|Cours collégial, enseigné par le collège (DRC)|53
+JBC4T|College Seminar|12e année|Cours collégial, enseigné par le collège (DRC)|49
+JBD4T|College Success|12e année|Cours collégial, enseigné par le collège (DRC)|12
+JCB4T|Stick Handling Through History|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+JDC4T|Stress Management|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+JDE4T|Enjeux et Survie|12e année|Cours collégial, enseigné par le collège (DRC)|34
+JEB4T|Making the Grade|12e année|Cours collégial, enseigné par le collège (DRC)|126
+JEC4T|Success Matters|12e année|Cours collégial, enseigné par le collège (DRC)|25
+JED4T|Critical Thinking|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+JEE4T|Professional Effectiveness|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+JEG4T|Skills for Success|12e année|Cours collégial, enseigné par le collège (DRC)|39
+JEH4T|Speaking with Confidence|12e année|Cours collégial, enseigné par le collège (DRC)|49
+JEJ4T|Independent Study|12e année|Cours collégial, enseigné par le collège (DRC)|18
+JEL4T|Roots to Success|12e année|Cours collégial, enseigné par le collège (DRC)|48
+JEM4T|Success Strategies for College|12e année|Cours collégial, enseigné par le collège (DRC)|21
+JFB4T|Introduction to libraries|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+JFC4T|Social Entrepreneurship|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+JFD4T|The Creative Journey|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+JFE4T|Current Events|12e année|Cours collégial, enseigné par le collège (DRC)|82
+JFF4T|Issues in Diversity|12e année|Cours collégial, enseigné par le collège (DRC)|72
+JFG4T|Visual Gestural Communication|12e année|Cours collégial, enseigné par le collège (DRC)|16
+JGB4T|Culture technologique|12e année|Cours collégial, enseigné par le collège (DRC)|228
+JGC4T|Society, Technology and Social Issues|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+JGE4T|Growing Up Digital|12e année|Cours collégial, enseigné par le collège (DRC)|28
+JGG4T|Introduction to Photojournalism|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+JGH4T|Fundamentals -  Photojournalism|12e année|Cours collégial, enseigné par le collège (DRC)|14
+JGJ4T|Techno World: Emerging Issues|12e année|Cours collégial, enseigné par le collège (DRC)|236
+JMB4T|Introduction à la profession|12e année|Cours collégial, enseigné par le collège (DRC)|11
+KALAN|L'art de s'exprimer et de s'amuser|Niveau 1|Cours non-crédité d'enfance en difficulté (tous les niveaux)|1788
+KALBN|L'art de s'exprimer et de s'amuser|Niveau 2|Cours non-crédité d'enfance en difficulté (tous les niveaux)|1233
+KALCN|L'art de s'exprimer et de s'amuser|Niveau 3|Cours non-crédité d'enfance en difficulté (tous les niveaux)|801
+KALDN|L'art de s'exprimer et de s'amuser|Niveau 4|Cours non-crédité d'enfance en difficulté (tous les niveaux)|846
+KALEN|L'art de s'exprimer et de s'amuser|Niveau 5|Cours non-crédité d'enfance en difficulté (tous les niveaux)|312
+KALFN|L'art de s'exprimer et de s'amuser|Niveau 6|Cours non-crédité d'enfance en difficulté (tous les niveaux)|190
+KALGN|L'art de s'exprimer et de s'amuser|Niveau 7|Cours non-crédité d'enfance en difficulté (tous les niveaux)|118
+KALHN|L'art de s'exprimer et de s'amuser|Niveau 8|Cours non-crédité d'enfance en difficulté (tous les niveaux)|20
+KALIN|L'art de s'exprimer et de s'amuser|Niveau 9|Cours non-crédité d'enfance en difficulté (tous les niveaux)|25
+KALJN|L'art de s'exprimer et de s'amuser|Niveau 10|Cours non-crédité d'enfance en difficulté (tous les niveaux)|26
+KALKN|L'art de s'exprimer et de s'amuser|Niveau 11|Cours non-crédité d'enfance en difficulté (tous les niveaux)|72
+KALLN|L'art de s'exprimer et de s'amuser|Niveau 12|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KALMN|L'art de s'exprimer et de s'amuser|Niveau 13|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KALNN|L'art de s'exprimer et de s'amuser|Niveau 14|Cours non-crédité d'enfance en difficulté (tous les niveaux)|10
+KALON|L'art de s'exprimer et de s'amuser|Niveau 15|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KBBAN|La gestion de l'argent et les opérations bancaires personnelles|Niveau 1|Cours non-crédité d'enfance en difficulté (tous les niveaux)|460
+KBBBN|La gestion de l'argent et les opérations bancaires personnelles|Niveau 2|Cours non-crédité d'enfance en difficulté (tous les niveaux)|293
+KBBCN|La gestion de l'argent et les opérations bancaires personnelles|Niveau 3|Cours non-crédité d'enfance en difficulté (tous les niveaux)|246
+KBBDN|La gestion de l'argent et les opérations bancaires personnelles|Niveau 4|Cours non-crédité d'enfance en difficulté (tous les niveaux)|214
+KBBEN|La gestion de l'argent et les opérations bancaires personnelles|Niveau 5|Cours non-crédité d'enfance en difficulté (tous les niveaux)|489
+KBBFN|La gestion de l'argent et les opérations bancaires personnelles|Niveau 7|Cours non-crédité d'enfance en difficulté (tous les niveaux)|32
+KBBGN|La gestion de l'argent et les opérations bancaires personnelles|Niveau 7|Cours non-crédité d'enfance en difficulté (tous les niveaux)|22
+KBBHN|La gestion de l'argent et les opérations bancaires personnelles|Niveau 8|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KBBIN|La gestion de l'argent et les opérations bancaires personnelles|Niveau 9|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KBBLN|La gestion de l'argent et les opérations bancaires personnelles|Niveau 12|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KBBMN|La gestion de l'argent et les opérations bancaires personnelles|Niveau 13|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KBBPN|La gestion de l'argent et les opérations bancaires personnelles|Niveau 16|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KCCAN|Initiation aux transports en commun et exploration de son milieu|Niveau 1|Cours non-crédité d'enfance en difficulté (tous les niveaux)|271
+KCCBN|Initiation aux transports en commun et exploration de son milieu|Niveau 2|Cours non-crédité d'enfance en difficulté (tous les niveaux)|294
+KCCCN|Initiation aux transports en commun et exploration de son milieu|Niveau 3|Cours non-crédité d'enfance en difficulté (tous les niveaux)|490
+KCCDN|Initiation aux transports en commun et exploration de son milieu|Niveau 4|Cours non-crédité d'enfance en difficulté (tous les niveaux)|308
+KCCEN|Initiation aux transports en commun et exploration de son milieu|Niveau 5|Cours non-crédité d'enfance en difficulté (tous les niveaux)|326
+KCCFN|Initiation aux transports en commun et exploration de son milieu|Niveau 6|Cours non-crédité d'enfance en difficulté (tous les niveaux)|87
+KCCGN|Initiation aux transports en commun et exploration de son milieu|Niveau 7|Cours non-crédité d'enfance en difficulté (tous les niveaux)|50
+KCCHN|Initiation aux transports en commun et exploration de son milieu|Niveau 8|Cours non-crédité d'enfance en difficulté (tous les niveaux)|20
+KCCIN|Initiation aux transports en commun et exploration de son milieu|Niveau 9|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KCWAN|É la découverte du monde|Niveau 1|Cours non-crédité d'enfance en difficulté (tous les niveaux)|1361
+KCWBN|É la découverte du monde|Niveau 2|Cours non-crédité d'enfance en difficulté (tous les niveaux)|487
+KCWCN|É la découverte du monde|Niveau 3|Cours non-crédité d'enfance en difficulté (tous les niveaux)|505
+KCWDN|É la découverte du monde|Niveau 4|Cours non-crédité d'enfance en difficulté (tous les niveaux)|675
+KCWEN|É la découverte du monde|Niveau 5|Cours non-crédité d'enfance en difficulté (tous les niveaux)|397
+KCWFN|É la découverte du monde|Niveau 6|Cours non-crédité d'enfance en difficulté (tous les niveaux)|130
+KCWGN|É la découverte du monde|Niveau 7|Cours non-crédité d'enfance en difficulté (tous les niveaux)|151
+KCWHN|É la découverte du monde|Niveau 8|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KCWJN|É la découverte du monde|Niveau 10|Cours non-crédité d'enfance en difficulté (tous les niveaux)|17
+KCWKN|É la découverte du monde|Niveau 11|Cours non-crédité d'enfance en difficulté (tous les niveaux)|24
+KCWMN|É la découverte du monde|Niveau 13|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KCWON|É la découverte du monde|Niveau 15|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KENAN|Développement du langage et de la communication|Niveau 1|Cours non-crédité d'enfance en difficulté (tous les niveaux)|3874
+KENBN|Développement du langage et de la communication|Niveau 2|Cours non-crédité d'enfance en difficulté (tous les niveaux)|2165
+KENCN|Développement du langage et de la communication|Niveau 3|Cours non-crédité d'enfance en difficulté (tous les niveaux)|1917
+KENDN|Développement du langage et de la communication|Niveau 4|Cours non-crédité d'enfance en difficulté (tous les niveaux)|1997
+KENEN|Développement du langage et de la communication|Niveau 5|Cours non-crédité d'enfance en difficulté (tous les niveaux)|1275
+KENFN|Développement du langage et de la communication|Niveau 6|Cours non-crédité d'enfance en difficulté (tous les niveaux)|541
+KENGN|Développement du langage et de la communication|Niveau 7|Cours non-crédité d'enfance en difficulté (tous les niveaux)|459
+KENHN|Développement du langage et de la communication|Niveau 8|Cours non-crédité d'enfance en difficulté (tous les niveaux)|177
+KENIN|Développement du langage et de la communication|Niveau 9|Cours non-crédité d'enfance en difficulté (tous les niveaux)|28
+KENJN|Développement du langage et de la communication|Niveau 10|Cours non-crédité d'enfance en difficulté (tous les niveaux)|17
+KENKN|Développement du langage et de la communication|Niveau 11|Cours non-crédité d'enfance en difficulté (tous les niveaux)|16
+KENLN|Développement du langage et de la communication|Niveau 12|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KENMN|Développement du langage et de la communication|Niveau 13|Cours non-crédité d'enfance en difficulté (tous les niveaux)|11
+KENNN|Développement du langage et de la communication|Niveau 14|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KGLAN|Aptitudes a la vie quotidienne|Niveau 1|Cours non-crédité d'enfance en difficulté (tous les niveaux)|2789
+KGLBN|Aptitudes a la vie quotidienne|Niveau 2|Cours non-crédité d'enfance en difficulté (tous les niveaux)|1566
+KGLCN|Aptitudes a la vie quotidienne|Niveau 3|Cours non-crédité d'enfance en difficulté (tous les niveaux)|1288
+KGLDN|Aptitudes a la vie quotidienne|Niveau 4|Cours non-crédité d'enfance en difficulté (tous les niveaux)|1281
+KGLEN|Aptitudes a la vie quotidienne|Niveau 5|Cours non-crédité d'enfance en difficulté (tous les niveaux)|1198
+KGLFN|Aptitudes a la vie quotidienne|Niveau 6|Cours non-crédité d'enfance en difficulté (tous les niveaux)|334
+KGLGN|Aptitudes a la vie quotidienne|Niveau 7|Cours non-crédité d'enfance en difficulté (tous les niveaux)|281
+KGLHN|Aptitudes a la vie quotidienne|Niveau 8|Cours non-crédité d'enfance en difficulté (tous les niveaux)|120
+KGLIN|Aptitudes a la vie quotidienne|Niveau 9|Cours non-crédité d'enfance en difficulté (tous les niveaux)|43
+KGLJN|Aptitudes a la vie quotidienne|Niveau 10|Cours non-crédité d'enfance en difficulté (tous les niveaux)|39
+KGLKN|Aptitudes a la vie quotidienne|Niveau 11|Cours non-crédité d'enfance en difficulté (tous les niveaux)|18
+KGLLN|Aptitudes a la vie quotidienne|Niveau 12|Cours non-crédité d'enfance en difficulté (tous les niveaux)|11
+KGLMN|Aptitudes a la vie quotidienne|Niveau 13|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KGLNN|Aptitudes a la vie quotidienne|Niveau 14|Cours non-crédité d'enfance en difficulté (tous les niveaux)|11
+KGLON|Aptitudes a la vie quotidienne|Niveau 15|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KGWAN|É la découverte du monde du travail|Niveau 1|Cours non-crédité d'enfance en difficulté (tous les niveaux)|1466
+KGWBN|É la découverte du monde du travail|Niveau 2|Cours non-crédité d'enfance en difficulté (tous les niveaux)|748
+KGWCN|É la découverte du monde du travail|Niveau 3|Cours non-crédité d'enfance en difficulté (tous les niveaux)|754
+KGWDN|É la découverte du monde du travail|Niveau 4|Cours non-crédité d'enfance en difficulté (tous les niveaux)|1094
+KGWEN|É la découverte du monde du travail|Niveau 5|Cours non-crédité d'enfance en difficulté (tous les niveaux)|800
+KGWFN|É la découverte du monde du travail|Niveau 6|Cours non-crédité d'enfance en difficulté (tous les niveaux)|331
+KGWGN|É la découverte du monde du travail|Niveau 7|Cours non-crédité d'enfance en difficulté (tous les niveaux)|158
+KGWHN|É la découverte du monde du travail|Niveau 8|Cours non-crédité d'enfance en difficulté (tous les niveaux)|39
+KGWIN|É la découverte du monde du travail|Niveau 9|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KGWKN|É la découverte du monde du travail|Niveau 11|Cours non-crédité d'enfance en difficulté (tous les niveaux)|18
+KGWLN|É la découverte du monde du travail|Niveau 12|Cours non-crédité d'enfance en difficulté (tous les niveaux)|10
+KGWMN|É la découverte du monde du travail|Niveau 13|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KGWNN|É la découverte du monde du travail|Niveau 14|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KGWON|É la découverte du monde du travail|Niveau 15|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KHDAN|Développement des habilités sociales|Niveau 1|Cours non-crédité d'enfance en difficulté (tous les niveaux)|1709
+KHDBN|Développement des habilités sociales|Niveau 2|Cours non-crédité d'enfance en difficulté (tous les niveaux)|854
+KHDCN|Développement des habilités sociales|Niveau 3|Cours non-crédité d'enfance en difficulté (tous les niveaux)|1139
+KHDDN|Développement des habilités sociales|Niveau 4|Cours non-crédité d'enfance en difficulté (tous les niveaux)|753
+KHDEN|Développement des habilités sociales|Niveau 5|Cours non-crédité d'enfance en difficulté (tous les niveaux)|649
+KHDFN|Développement des habilités sociales|Niveau 6|Cours non-crédité d'enfance en difficulté (tous les niveaux)|294
+KHDGN|Développement des habilités sociales|Niveau 7|Cours non-crédité d'enfance en difficulté (tous les niveaux)|158
+KHDHN|Développement des habilités sociales|Niveau 8|Cours non-crédité d'enfance en difficulté (tous les niveaux)|60
+KHDIN|Développement des habilités sociales|Niveau 9|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KHDJN|Développement des habilités sociales|Niveau 10|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KHDLN|Développement des habilités sociales|Niveau 12|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KHDON|Développement des habilités sociales|Niveau 15|Cours non-crédité d'enfance en difficulté (tous les niveaux)|12
+KHDPN|Développement des habilités sociales|Niveau 16|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KHIAN|Les talents culinaires|Niveau 1|Cours non-crédité d'enfance en difficulté (tous les niveaux)|617
+KHIBN|Les talents culinaires|Niveau 2|Cours non-crédité d'enfance en difficulté (tous les niveaux)|489
+KHICN|Les talents culinaires|Niveau 3|Cours non-crédité d'enfance en difficulté (tous les niveaux)|366
+KHIDN|Les talents culinaires|Niveau 4|Cours non-crédité d'enfance en difficulté (tous les niveaux)|517
+KHIEN|Les talents culinaires|Niveau 5|Cours non-crédité d'enfance en difficulté (tous les niveaux)|138
+KHIFN|Les talents culinaires|Niveau 6|Cours non-crédité d'enfance en difficulté (tous les niveaux)|104
+KHIGN|Les talents culinaires|Niveau 7|Cours non-crédité d'enfance en difficulté (tous les niveaux)|62
+KHIHN|Les talents culinaires|Niveau 8|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KMMAN|Savoir compter et calculer|Niveau 1|Cours non-crédité d'enfance en difficulté (tous les niveaux)|3332
+KMMBN|Savoir compter et calculer|Niveau 2|Cours non-crédité d'enfance en difficulté (tous les niveaux)|1818
+KMMCN|Savoir compter et calculer|Niveau 3|Cours non-crédité d'enfance en difficulté (tous les niveaux)|1494
+KMMDN|Savoir compter et calculer|Niveau 4|Cours non-crédité d'enfance en difficulté (tous les niveaux)|1561
+KMMEN|Savoir compter et calculer|Niveau 5|Cours non-crédité d'enfance en difficulté (tous les niveaux)|1069
+KMMFN|Savoir compter et calculer|Niveau 6|Cours non-crédité d'enfance en difficulté (tous les niveaux)|402
+KMMGN|Savoir compter et calculer|Niveau 7|Cours non-crédité d'enfance en difficulté (tous les niveaux)|344
+KMMHN|Savoir compter et calculer|Niveau 8|Cours non-crédité d'enfance en difficulté (tous les niveaux)|112
+KMMIN|Savoir compter et calculer|Niveau 9|Cours non-crédité d'enfance en difficulté (tous les niveaux)|27
+KMMJN|Savoir compter et calculer|Niveau 10|Cours non-crédité d'enfance en difficulté (tous les niveaux)|11
+KMMKN|Savoir compter et calculer|Niveau 11|Cours non-crédité d'enfance en difficulté (tous les niveaux)|32
+KMMLN|Savoir compter et calculer|Niveau 12|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KMMMN|Savoir compter et calculer|Niveau 13|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KMMNN|Savoir compter et calculer|Niveau 14|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KMMPN|Savoir compter et calculer|Niveau 16|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KNAAN|Les premiers Canadiens|Niveau 1|Cours non-crédité d'enfance en difficulté (tous les niveaux)|66
+KNABN|Les premiers Canadiens|Niveau 2|Cours non-crédité d'enfance en difficulté (tous les niveaux)|44
+KNACN|Les premiers Canadiens|Niveau 3|Cours non-crédité d'enfance en difficulté (tous les niveaux)|46
+KNADN|Les premiers Canadiens|Niveau 4|Cours non-crédité d'enfance en difficulté (tous les niveaux)|35
+KNAEN|Les premiers Canadiens|Niveau 5|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KNAFN|Les premiers Canadiens|Niveau 6|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KNAGN|Les premiers Canadiens|Niveau 7|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KNAHN|Les premiers Canadiens|Niveau 8|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KNAIN|Les premiers Canadiens|Niveau 9|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KPFAN|santé personnelle et condition physique|Niveau 1|Cours non-crédité d'enfance en difficulté (tous les niveaux)|1941
+KPFBN|santé personnelle et condition physique|Niveau 2|Cours non-crédité d'enfance en difficulté (tous les niveaux)|1197
+KPFCN|santé personnelle et condition physique|Niveau 3|Cours non-crédité d'enfance en difficulté (tous les niveaux)|1024
+KPFDN|santé personnelle et condition physique|Niveau 4|Cours non-crédité d'enfance en difficulté (tous les niveaux)|1154
+KPFEN|santé personnelle et condition physique|Niveau 5|Cours non-crédité d'enfance en difficulté (tous les niveaux)|492
+KPFFN|Santé personnelle et condition physique|Niveau 6|Cours non-crédité d'enfance en difficulté (tous les niveaux)|279
+KPFGN|Santé personnelle et condition physique|Niveau 7|Cours non-crédité d'enfance en difficulté (tous les niveaux)|197
+KPFHN|Santé personnelle et condition physique|Niveau 8|Cours non-crédité d'enfance en difficulté (tous les niveaux)|48
+KPFIN|Santé personnelle et condition physique|Niveau 9|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KPFJN|Santé personnelle et condition physique|Niveau 10|Cours non-crédité d'enfance en difficulté (tous les niveaux)|26
+KPFKN|Santé personnelle et condition physique|Niveau 11|Cours non-crédité d'enfance en difficulté (tous les niveaux)|19
+KPFLN|Santé personnelle et condition physique|Niveau 12|Cours non-crédité d'enfance en difficulté (tous les niveaux)|21
+KPFMN|Santé personnelle et condition physique|Niveau 13|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KPFNN|Santé personnelle et condition physique|Niveau 14|Cours non-crédité d'enfance en difficulté (tous les niveaux)|19
+KPFPN|Santé personnelle et condition physique|Niveau 16|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KPHAN|Des choix pour vivre sainement|Niveau 1|Cours non-crédité d'enfance en difficulté (tous les niveaux)|911
+KPHBN|Des choix pour vivre sainement|Niveau 2|Cours non-crédité d'enfance en difficulté (tous les niveaux)|682
+KPHCN|Des choix pour vivre sainement|Niveau 3|Cours non-crédité d'enfance en difficulté (tous les niveaux)|283
+KPHDN|Des choix pour vivre sainement|Niveau 4|Cours non-crédité d'enfance en difficulté (tous les niveaux)|305
+KPHEN|Des choix pour vivre sainement|Niveau 5|Cours non-crédité d'enfance en difficulté (tous les niveaux)|194
+KPHFN|Des choix pour vivre sainement|Niveau 6|Cours non-crédité d'enfance en difficulté (tous les niveaux)|108
+KPHGN|Des choix pour vivre sainement|Niveau 7|Cours non-crédité d'enfance en difficulté (tous les niveaux)|60
+KPHHN|Des choix pour vivre sainement|Niveau 8|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KPHIN|Des choix pour vivre sainement|Niveau 9|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KPHJN|Des choix pour vivre sainement|Niveau 10|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KPHKN|Des choix pour vivre sainement|Niveau 11|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KPHLN|Des choix pour vivre sainement|Niveau 12|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KPHMN|Des choix pour vivre sainement|Niveau 13|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KPHNN|Des choix pour vivre sainement|Niveau 14|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KPHON|Des choix pour vivre sainement|Niveau 15|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KPHPN|Des choix pour vivre sainement|Niveau 16|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KPPAN|Autonomie|Niveau 1|Cours non-crédité d'enfance en difficulté (tous les niveaux)|929
+KPPBN|Autonomie|Niveau 2|Cours non-crédité d'enfance en difficulté (tous les niveaux)|453
+KPPCN|Autonomie|Niveau 3|Cours non-crédité d'enfance en difficulté (tous les niveaux)|407
+KPPDN|Autonomie|Niveau 4|Cours non-crédité d'enfance en difficulté (tous les niveaux)|421
+KPPEN|Autonomie|Niveau 5|Cours non-crédité d'enfance en difficulté (tous les niveaux)|257
+KPPFN|Autonomie|Niveau 6|Cours non-crédité d'enfance en difficulté (tous les niveaux)|227
+KPPGN|Autonomie|Niveau 7|Cours non-crédité d'enfance en difficulté (tous les niveaux)|128
+KPPHN|Autonomie|Niveau 8|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KPPJN|Autonomie|Niveau 10|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KSNAN|É la découverte de notre environnement|Niveau 1|Cours non-crédité d'enfance en difficulté (tous les niveaux)|991
+KSNBN|É la découverte de notre environnement|Niveau 2|Cours non-crédité d'enfance en difficulté (tous les niveaux)|553
+KSNCN|É la découverte de notre environnement|Niveau 3|Cours non-crédité d'enfance en difficulté (tous les niveaux)|323
+KSNDN|É la découverte de notre environnement|Niveau 4|Cours non-crédité d'enfance en difficulté (tous les niveaux)|350
+KSNEN|É la découverte de notre environnement|Niveau 5|Cours non-crédité d'enfance en difficulté (tous les niveaux)|541
+KSNFN|É la découverte de notre environnement|Niveau 6|Cours non-crédité d'enfance en difficulté (tous les niveaux)|67
+KSNGN|É la découverte de notre environnement|Niveau 7|Cours non-crédité d'enfance en difficulté (tous les niveaux)|63
+KSNJN|É la découverte de notre environnement|Niveau 10|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KSNMN|É la découverte de notre environnement|Niveau 13|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KSNON|É la découverte de notre environnement|Niveau 15|Cours non-crédité d'enfance en difficulté (tous les niveaux)|13
+KTTAN|habilités en informatique|Niveau 1|Cours non-crédité d'enfance en difficulté (tous les niveaux)|521
+KTTBN|habilités en informatique|Niveau 2|Cours non-crédité d'enfance en difficulté (tous les niveaux)|296
+KTTCN|habilités en informatique|Niveau 3|Cours non-crédité d'enfance en difficulté (tous les niveaux)|202
+KTTDN|habilités en informatique|Niveau 4|Cours non-crédité d'enfance en difficulté (tous les niveaux)|202
+KTTEN|habilités en informatique|Niveau 5|Cours non-crédité d'enfance en difficulté (tous les niveaux)|397
+KTTFN|Habilités en informatique|Niveau 6|Cours non-crédité d'enfance en difficulté (tous les niveaux)|72
+KTTGN|Habilités en informatique|Niveau 7|Cours non-crédité d'enfance en difficulté (tous les niveaux)|26
+KTTHN|Habilités en informatique|Niveau 8|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KTTIN|Habilités en informatique|Niveau 9|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KTTJN|Habilités en informatique|Niveau 10|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KTTMN|Habilités en informatique|Niveau 13|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+KTTPN|Habilités en informatique|Niveau 16|Cours non-crédité d'enfance en difficulté (tous les niveaux)|<10
+LDLBD|Somali|Niveau 2|Cours théorique|20
+LDLCU|Somali|Niveau 3|Filière préuniversitaire|<10
+LKABD|Chinois traditionnel (Mandarin)|Niveau 2|Cours théorique|44
+LKACU|Chinois traditionnel (Mandarin)|Niveau 3|Filière préuniversitaire|99
+LKADO|Chinois traditionnel (Mandarin)|Niveau 4|Ouvert|<10
+LKADU|Chinois traditionnel (Mandarin)|Niveau 4|Filière préuniversitaire|91
+LKCBD|Cantonais|Niveau 2|Cours théorique|29
+LKCCU|Cantonais|Niveau 3|Filière préuniversitaire|<10
+LKCDU|Cantonais|Niveau 4|Filière préuniversitaire|<10
+LKDBD|Cantonais|Niveau 2|Cours théorique|12
+LKDCU|Cantonais|Niveau 3|Filière préuniversitaire|<10
+LKDDU|Cantonais|Niveau 4|Filière préuniversitaire|<10
+LKEAD|Chinois simplifié|Niveau 1|Cours théorique|<10
+LKECU|Chinois simplifié|Niveau 3|Filière préuniversitaire|<10
+LKIBD|Japonais|Niveau 2|Cours théorique|<10
+LKJAD|Japonais|Niveau 1|Cours théorique|36
+LKJBD|Japonais|Niveau 2|Cours théorique|179
+LKJCU|Japonais|Niveau 3|Filière préuniversitaire|59
+LKJDU|Japonais|Niveau 4|Filière préuniversitaire|45
+LKMAD|Chinois traditionnel (Mandarin)|Niveau 1|Cours théorique|<10
+LKMAO|Chinois traditionnel (Mandarin)|Niveau 1|Ouvert|25
+LKMBD|Chinois traditionnel (Mandarin)|Niveau 2|Cours théorique|48
+LKMCU|Chinois traditionnel (Mandarin)|Niveau 3|Filière préuniversitaire|18
+LKMDU|Chinois traditionnel (Mandarin)|Niveau 4|Filière préuniversitaire|26
+LNCAO|Cri|Niveau 1|Ouvert|15
+LNCBO|Cri|Niveau 2|Ouvert|<10
+LNDAO|Delaware|Niveau 1|Ouvert|16
+LNDBO|Delaware|Niveau 2|Ouvert|<10
+LNDCO|Delaware|Niveau 3|Ouvert|<10
+LNMAO|Mohawk|Niveau 1|Ouvert|60
+LNMBO|Mohawk|Niveau 2|Ouvert|48
+LNMCO|Mohawk|Niveau 3|Ouvert|24
+LNMDO|Mohawk|Niveau 4|Ouvert|<10
+LNMEO|Mohawk|Niveau 5|Ouvert|<10
+LNNAO|Oneida|Niveau 1|Ouvert|56
+LNNBO|Oneida|Niveau 2|Ouvert|10
+LNNCO|Oneida|Niveau 3|Ouvert|<10
+LNOAO|Ojibway|Niveau 1|Ouvert|815
+LNOBO|Ojibway|Niveau 2|Ouvert|319
+LNOCO|Ojibway|Niveau 3|Ouvert|150
+LNODO|Ojibway|Niveau 4|Ouvert|43
+LNOEO|Ojibway|Niveau 5|Ouvert|<10
+LPTAO|Thai|Niveau 1|Ouvert|<10
+LVGBU|Grec ancien|Niveau 2|Filière préuniversitaire|<10
+LVLAD|Latin|Niveau 1|Cours théorique|1149
+LVLBU|Latin|Niveau 2|Filière préuniversitaire|351
+LVLCU|Latin|Niveau 3|Filière préuniversitaire|183
+LVV4U|Civilisation classique|12e année|Filière préuniversitaire|1822
+LWCAD|Gaélique|Niveau 1|Cours théorique|14
+LWEAD|Espagnol|Niveau 1|Cours théorique|16
+LWEAO|Espagnol|Niveau 1|Ouvert|121
+LWEBD|Espagnol|Niveau 2|Cours théorique|128
+LWEBO|Espagnol|Niveau 2|Ouvert|11
+LWECO|Espagnol|Niveau 3|Ouvert|<10
+LWECU|Espagnol|Niveau 3|Filière préuniversitaire|60
+LWEDO|Espagnol|Niveau 4|Ouvert|<10
+LWEDU|Espagnol|Niveau 4|Filière préuniversitaire|37
+LWGAD|Allemand|Niveau 1|Cours théorique|90
+LWGAO|Allemand|Niveau 1|Ouvert|49
+LWGBD|Allemand|Niveau 2|Cours théorique|684
+LWGBO|Allemand|Niveau 2|Ouvert|39
+LWGCO|Allemand|Niveau 3|Ouvert|<10
+LWGCU|Allemand|Niveau 3|Filière préuniversitaire|197
+LWGDU|Allemand|Niveau 4|Filière préuniversitaire|113
+LWIAD|Italien|Niveau 1|Cours théorique|104
+LWIAO|Italien|Niveau 1|Ouvert|51
+LWIBD|Italien|Niveau 2|Cours théorique|1161
+LWIBO|Italien|Niveau 2|Ouvert|43
+LWICO|Italien|Niveau 3|Ouvert|15
+LWICU|Italien|Niveau 3|Filière préuniversitaire|338
+LWIDU|Italien|Niveau 4|Filière préuniversitaire|177
+LWJBO|Italien|Niveau 2|Ouvert|<10
+LWJCO|Italien|Niveau 3|Ouvert|<10
+LWJCU|Italien|Niveau 3|Filière préuniversitaire|26
+LWJDU|Italien|Niveau 4|Filière préuniversitaire|<10
+LWPAO|Portugais|Niveau 1|Ouvert|<10
+LWPBD|Portugais|Niveau 2|Cours théorique|48
+LWPBO|Portugais|Niveau 2|Ouvert|10
+LWPCO|Portugais|Niveau 3|Ouvert|<10
+LWPCU|Portugais|Niveau 3|Filière préuniversitaire|<10
+LWPDU|Portugais|Niveau 4|Filière préuniversitaire|15
+LWSAD|Espagnol|Niveau 1|Cours théorique|515
+LWSAO|Espagnol|Niveau 1|Ouvert|640
+LWSBD|Espagnol|Niveau 2|Cours théorique|6553
+LWSBO|Espagnol|Niveau 2|Ouvert|632
+LWSCO|Espagnol|Niveau 3|Ouvert|69
+LWSCU|Espagnol|Niveau 3|Filière préuniversitaire|2353
+LWSDO|Espagnol|Niveau 4|Ouvert|14
+LWSDU|Espagnol|Niveau 4|Filière préuniversitaire|1233
+LYBAD|Arabe|Niveau 1|Cours théorique|<10
+LYBAO|Arabe|Niveau 1|Ouvert|16
+LYBBD|Arabe|Niveau 2|Cours théorique|<10
+LYBBO|Arabe|Niveau 2|Ouvert|<10
+LYBCU|Arabe|Niveau 3|Filière préuniversitaire|10
+LYBDU|Arabe|Niveau 4|Filière préuniversitaire|<10
+MAB4T|Math Fundamentals|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+MAD4T|Mathematics I|12e année|Cours collégial, enseigné par le collège (DRC)|20
+MAP4C|Méthodes de mathématiques|12e année|Filière précollégiale|31773
+MBD4T|Mathematics of Finance|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+MBF3C|Méthodes de mathématiques|11e année|Filière précollégiale|53745
+MCF3M|Fonctions et applications|11e année|Filière préuniversitaire/précollégiale|38491
+MCR3K|Mathématiques, 11e année, transition du cours préuniversitaire / précollégial au|11e année|Préparation à l'université (transfert)|<10
+MCR3U|Fonctions|11e année|Filière préuniversitaire|74139
+MCT4C|Mathématiques de la technologie au collège|12e année|Filière précollégiale|4584
+MCV4U|Calcul différentiel et vecteurs|12e année|Filière préuniversitaire|37155
+MDM4U|Mathématiques de la gestion des données|12e année|Filière préuniversitaire|35639
+MEL3E|Mathématiques de la vie courante|11e année|Filière préemploi|23890
+MEL4E|Mathématiques de la vie courante|12e année|Filière préemploi|6376
+MFM1P|Méthodes de Mathématiques|9e année|Cours appliqué|49374
+MFM2P|Méthodes de Mathématiques|10e année|Cours appliqué|63174
+MHF4U|Fonctions avancées|12e année|Filière préuniversitaire|57835
+MIC4T|Computer Mathematics|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+MID4T|Statistics for Behavioural Science Technology|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+MIE4T|Mathematics for Health Sciences|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+MIG4T|Mathematics for Technology|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+MIH4T|Mechanical Basic Algebra|12e année|Cours collégial, enseigné par le collège (DRC)|13
+MII4T|Pre-Technology Mathematics|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+MIJ4T|Technical Mathematics|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+MIK4T|Trade Math|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+MPM1D|Principes de Mathématiques|9e année|Cours théorique|105385
+MPM1H|Mathématiques, 9e année, transition du cours appliqué au cours théorique|9e année|Transition: théorique|30
+MPM2D|Principes de Mathématiques|10e année|Cours théorique|99581
+MPM2H|Mathématiques, 10e année, transition du cours appliqué au cours théorique|10e année|Transition: théorique|<10
+NAC1O|Expression des cultures autochtones|9e année|Ouvert|3056
+NAC2O|Peuples autochtones du Canada|10e année|Ouvert|1498
+NAE4T|Aboriginal People and Canadian Society - Introduction|12e année|Cours collégial, enseigné par le collège (DRC)|17
+NBA4T|Contemporary Issues in Aboriginal Society|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+NBE3C|English: Contemporary Aboriginal Voices|11e année|Filière précollégiale|946
+NBE3E|English: Contemporary Aboriginal Voices|11e année|Filière préemploi|232
+NBE3U|English: Contemporary Aboriginal Voices|11e année|Filière préuniversitaire|592
+NBI4Z|Introduction to Native Social Welfare|12e année|Cours universitaire enseigné par l'université (DRC)|<10
+NBV3C|Les croyances, les valeurs et les ambitions autochtones dans la société|11e année|Filière précollégiale|1637
+NBV3E|Les croyances, les valeurs et les ambitions autochtones dans la société|11e année|Filière préemploi|2160
+NDA3M|Les questions autochtones d'actualité dans un contexte canadien|11e année|Filière préuniversitaire/précollégiale|1181
+NDC4T|First Nations People and Issues in Diversity II|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+NDG4M|Les gouvernements autochtones - orientations émergentes|12e année|Filière préuniversitaire/précollégiale|145
+NDW4M|Les questions aoutochtones d'actualité dans un contexte mondial|12e année|Filière préuniversitaire/précollégiale|1823
+OLC3O|Ontario Secondary School Literacy Course|11e année|Ouvert|1061
+OLC4O|Ontario Secondary School Literacy Course|12e année|Ouvert|20007
+PAA4T|Guiding and Outdoor Skills|12e année|Cours collégial, enseigné par le collège (DRC)|44
+PAB4T|Fire Fitness Management|12e année|Cours collégial, enseigné par le collège (DRC)|19
+PAD1O|Activités de plein air|9e année|Ouvert|191
+PAD2O|Activités de plein air|10e année|Ouvert|1399
+PAD3O|Activités de plein air|11e année|Ouvert|5059
+PAD4O|Activités de plein air|12e année|Ouvert|1710
+PAF1O|Activités personnelles et de conditionnement|9e année|Ouvert|1235
+PAF2O|Activités personnelles et de conditionnement|10e année|Ouvert|12617
+PAF3O|Activités personnelles et de conditionnement|11e année|Ouvert|34438
+PAF4O|Activités personnelles et de conditionnement|12e année|Ouvert|22089
+PAI1O|Activités individuelles et en petits groupes|9e année|Ouvert|447
+PAI2O|Activités individuelles et en petits groupes|10e année|Ouvert|1314
+PAI3O|Activités individuelles et en petits groupes|11e année|Ouvert|2604
+PAI4O|Activités individuelles et en petits groupes|12e année|Ouvert|1636
+PAL1O|Activités en grand groupe|9e année|Ouvert|941
+PAL2O|Activités en grand groupe|10e année|Ouvert|3917
+PAL3O|Activités en grand groupe|11e année|Ouvert|5298
+PAL4O|Activités en grand groupe|12e année|Ouvert|2229
+PAQ1O|Activités aquatiques|9e année|Ouvert|26
+PAQ2O|Activités aquatiques|10e année|Ouvert|200
+PAQ3O|Activités aquatiques|11e année|Ouvert|313
+PAQ4O|Activités aquatiques|12e année|Ouvert|111
+PAR1O|Activités liées au rythme et au mouvement|9e année|Ouvert|253
+PAR2O|Activités liées au rythme et au mouvement|10e année|Ouvert|627
+PAR3O|Activités liées au rythme et au mouvement|11e année|Ouvert|740
+PAR4O|Activités liées au rythme et au mouvement|12e année|Ouvert|255
+PHA4T|Client Care Issues|12e année|Cours collégial, enseigné par le collège (DRC)|16
+PHC4T|Developmental Disabilities|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+PHF4T|Emergency Patient Care|12e année|Cours collégial, enseigné par le collège (DRC)|42
+PHJ4T|Health Sciences Careers|12e année|Cours collégial, enseigné par le collège (DRC)|23
+PHK4T|Supporting People with Developmental Disabilities|12e année|Cours collégial, enseigné par le collège (DRC)|49
+PHM4T|Health Care in Canada|12e année|Cours collégial, enseigné par le collège (DRC)|78
+PHS4T|Terminologie médicale|12e année|Cours collégial, enseigné par le collège (DRC)|70
+PHV4T|Sociology of Sport|12e année|Cours collégial, enseigné par le collège (DRC)|26
+PHW4T|Anatomy and Physiology|12e année|Cours collégial, enseigné par le collège (DRC)|42
+PHX4T|Introduction à la profession de préposé|12e année|Cours collégial, enseigné par le collège (DRC)|34
+PLA4T|Animation d'une activité de loisir|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+PLF4C|Leadership et animation récréative|12e année|Filière précollégiale|6314
+PLH4T|Running Quality Recreation Programs|12e année|Cours collégial, enseigné par le collège (DRC)|13
+PLI4T|Fitness|12e année|Cours collégial, enseigné par le collège (DRC)|79
+PLJ4T|Activity Leadership|12e année|Cours collégial, enseigné par le collège (DRC)|14
+PLL4T|Conditionnement physique et mieux-être|12e année|Cours collégial, enseigné par le collège (DRC)|102
+PLM4T|Techniques d'autodéfense|12e année|Cours collégial, enseigné par le collège (DRC)|103
+PPA4T|Addictions|12e année|Cours collégial, enseigné par le collège (DRC)|70
+PPB4T|Agony and Ecstasy: Addictions|12e année|Cours collégial, enseigné par le collège (DRC)|22
+PPC4T|Introduction to Addictions|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+PPF1O|Vie active et santé (filles)|9e année|Ouvert|1141
+PPF2O|Vie active et santé (filles)|10e année|Ouvert|277
+PPG4T|Exploration en santé|12e année|Cours collégial, enseigné par le collège (DRC)|69
+PPH4T|Lifestyle Management|12e année|Cours collégial, enseigné par le collège (DRC)|66
+PPI4T|Health and Wellness|12e année|Cours collégial, enseigné par le collège (DRC)|114
+PPJ4T|Stress, Wellness and Nutrition|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+PPL1O|Vie active et santé|9e année|Ouvert|135641
+PPL2O|Vie active et santé|10e année|Ouvert|57206
+PPL3O|Vie active et santé|11e année|Ouvert|45150
+PPL4O|Vie active et santé|12e année|Ouvert|31311
+PPM1O|Vie active et santé (gartons)|9e année|Ouvert|1076
+PPM2O|Vie active et santé (gartons)|10e année|Ouvert|349
+PPO4T|Health and Safety|12e année|Cours collégial, enseigné par le collège (DRC)|63
+PPP4T|The Science of Addictions|12e année|Cours collégial, enseigné par le collège (DRC)|11
+PPR4T|Health Literacy: From Individual to Communities|12e année|Cours collégial, enseigné par le collège (DRC)|34
+PPU4T|Health and Wellness Safety Awareness Training|12e année|Cours collégial, enseigné par le collège (DRC)|19
+PPV4T|Health and Wellness for Children|12e année|Cours collégial, enseigné par le collège (DRC)|17
+PPX4T|Addictions II|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+PPY4T|L'enfant en santé|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+PPZ3O|Action santé|11e année|Ouvert|12840
+PSA4T|Applied Anatomy and Kinesiology|12e année|Cours collégial, enseigné par le collège (DRC)|14
+PSE4U|Sciences de l'activité physique|12e année|Filière préuniversitaire|17888
+SBE4T|Biologie humaine général|12e année|Cours collégial, enseigné par le collège (DRC)|15
+SBF4T|Biology Fundamentals|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+SBH4T|Human Biology|12e année|Cours collégial, enseigné par le collège (DRC)|18
+SBI3C|Biologie|11e année|Filière précollégiale|25217
+SBI3U|Biologie|11e année|Filière préuniversitaire|66095
+SBI4U|Biologie|12e année|Filière préuniversitaire|40570
+SBS4T|Introduction to Biotechnology|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+SBT4T|Trends in Biotechnology|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+SCH3U|Chimie|11e année|Filière préuniversitaire|63136
+SCH4C|Chimie|12e année|Filière précollégiale|14573
+SCH4U|Chimie|12e année|Filière préuniversitaire|41315
+SCP4T|Principles of Chemistry|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+SES4U|Sciences de la Terre et de l'espace|12e année|Filière préuniversitaire|4325
+SNC1D|Sciences|9e année|Cours théorique|107909
+SNC1P|Sciences|9e année|Cours appliqué|42283
+SNC2D|Sciences|10e année|Cours théorique|109048
+SNC2H|Sciences, 10e année, transition du cours appliqué au cours théorique|10e année|Transition: théorique|<10
+SNC2P|Sciences|10e année|Cours appliqué|47902
+SNC3E|Sciences|11e année|Filière préemploi|129
+SNC3M|Sciences|11e année|Filière préuniversitaire/précollégiale|24
+SNC4E|Sciences|12e année|Filière préemploi|1391
+SNC4M|Sciences|12e année|Filière préuniversitaire/précollégiale|3301
+SPH3U|Physique|11e année|Filière préuniversitaire|45114
+SPH4C|Physique|12e année|Filière précollégiale|6944
+SPH4U|Physique|12e année|Filière préuniversitaire|24885
+SVC4T|Geotechnical Drilling|12e année|Cours collégial, enseigné par le collège (DRC)|31
+SVD4T|Ecology|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+SVI4T|Environmental Concerns|12e année|Cours collégial, enseigné par le collège (DRC)|34
+SVL4T|Environmental and Natural Resource Studies|12e année|Cours collégial, enseigné par le collège (DRC)|40
+SVN3E|Sciences de l'environnement|11e année|Filière préemploi|6872
+SVN3M|Sciences de l'environnement|11e année|Filière préuniversitaire/précollégiale|6038
+SVO4T|Environmental Leadership|12e année|Cours collégial, enseigné par le collège (DRC)|14
+TAA4T|Lighting Technology|12e année|Cours collégial, enseigné par le collège (DRC)|13
+TAB4T|Introduction to AutoCAD|12e année|Cours collégial, enseigné par le collège (DRC)|16
+TAD4T|CAD Fundamentals|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TAE4T|CAD for the Building Trades|12e année|Cours collégial, enseigné par le collège (DRC)|44
+TAI4T|Drafting and AutoCAD|12e année|Cours collégial, enseigné par le collège (DRC)|58
+TAJ4T|Computer Aided Draft/Design|12e année|Cours collégial, enseigné par le collège (DRC)|37
+TAO4T|Welding /Millwright/CAD|12e année|Cours collégial, enseigné par le collège (DRC)|14
+TAP4T|Technological Studies|12e année|Cours collégial, enseigné par le collège (DRC)|56
+TBA4T|History of Design|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TBB4T|Architectural Drafting|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TBG4T|Dimensional Design|12e année|Cours collégial, enseigné par le collège (DRC)|47
+TBJ4T|Engineering Drawing|12e année|Cours collégial, enseigné par le collège (DRC)|56
+TBO4T|Residential Prints and Standards|12e année|Cours collégial, enseigné par le collège (DRC)|65
+TBP4T|Technical Drawing|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TBS4T|Dessin|12e année|Cours collégial, enseigné par le collège (DRC)|19
+TBT4T|Décoration intérieure I|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TBW4T|Creative Thinking Problem Solving|12e année|Cours collégial, enseigné par le collège (DRC)|15
+TCB4T|Coffrage|12e année|Cours collégial, enseigné par le collège (DRC)|28
+TCC3E|Technologie de la construction : Charpenterie|11e année|Filière préemploi|543
+TCC4E|Technologie de la construction : Charpenterie|12e année|Filière préemploi|252
+TCE3E|Technologie de la construction : Câblage électrique et de réseau|11e année|Filière préemploi|753
+TCE4E|Technologie de la construction : Câblage électrique et de réseau|12e année|Filière préemploi|428
+TCF4T|Renovation Tools and Techniques|12e année|Cours collégial, enseigné par le collège (DRC)|26
+TCG4T|Masonry Theory|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TCH3E|Technologie de la construction : Chauffage, ventilation et climatisation|11e année|Filière préemploi|67
+TCH4E|Technologie de la construction : Chauffage, ventilation et climatisation|12e année|Filière préemploi|65
+TCI4T|Masonry Safety and Math|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TCJ1O|Technologie de la construction|9e année|Ouvert|2408
+TCJ2O|Technologie de la construction|10e année|Ouvert|18596
+TCJ3C|Technologie de la construction|11e année|Filière précollégiale|13364
+TCJ3E|Technologie de la construction|11e année|Filière préemploi|6232
+TCJ4C|Technologie de la construction|12e année|Filière précollégiale|5724
+TCJ4E|Technologie de la construction|12e année|Filière préemploi|2647
+TCK4T|Masonry Practice|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TCL4T|Charpente et divisions|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TCM3E|Technologie de la construction : Maçonnerie|11e année|Filière préemploi|38
+TCM4E|Technologie de la construction : Maçonnerie|12e année|Filière préemploi|16
+TCP3E|Technologie de la construction : Plomberie|11e année|Filière préemploi|116
+TCP4E|Technologie de la construction : Plomberie|12e année|Filière préemploi|68
+TCS3C|Technologie de la construction : Gestion de la construction|11e année|Filière précollégiale|77
+TCS4C|Technologie de la construction : Gestion de la construction|12e année|Filière précollégiale|27
+TDA3M|Technologie du design : architecture|11e année|Filière préuniversitaire/précollégiale|1128
+TDA4M|Technologie du design : architecture|12e année|Filière préuniversitaire/précollégiale|710
+TDD4T|Blueprint Reading|12e année|Cours collégial, enseigné par le collège (DRC)|50
+TDF4T|Blueprints and Specifications|12e année|Cours collégial, enseigné par le collège (DRC)|40
+TDH4T|Mechanical Drafting Fundamentals|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TDI4T|Blueprints, Specifications and Layout|12e année|Cours collégial, enseigné par le collège (DRC)|11
+TDJ1O|Technologie du design|9e année|Ouvert|1403
+TDJ2O|Technologie du design|10e année|Ouvert|8868
+TDJ3E|Technologie du design|11e année|Filière préemploi|<10
+TDJ3M|Technologie du design|11e année|Filière préuniversitaire/précollégiale|9631
+TDJ3O|Technologie du design et l'environnement|11e année|Ouvert|1226
+TDJ4E|Technologie du design|12e année|Filière préemploi|<10
+TDJ4M|Technologie du design|12e année|Filière préuniversitaire/précollégiale|3897
+TDJ4O|Technologie du design : Le design au XXIe siècle|12e année|Ouvert|454
+TDK4T|Building Systems|12e année|Cours collégial, enseigné par le collège (DRC)|16
+TDM3M|Technologie du design : mécanique et industriel|11e année|Filière préuniversitaire/précollégiale|154
+TDM4M|Technologie du design : mécanique et industriel|12e année|Filière préuniversitaire/précollégiale|64
+TDP3M|Technologie du design : mode et textile|11e année|Filière préuniversitaire/précollégiale|267
+TDP4M|Technologie du design : mode et textile|12e année|Filière préuniversitaire/précollégiale|146
+TDR3M|Technologie du design : robotique et système de commande|11e année|Filière préuniversitaire/précollégiale|129
+TDR4M|Technologie du design : robotique et système de commande|12e année|Filière préuniversitaire/précollégiale|42
+TDV3M|Technologie du design : orientation design intérieur|11e année|Filière préuniversitaire/précollégiale|319
+TDV4M|Technologie du design : orientation design intérieur|12e année|Filière préuniversitaire/précollégiale|170
+TEA4T|Network|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TEC3E|Technologie des systèmes informatiques : Réparation d'ordinateurs|11e année|Filière préemploi|26
+TEE2O|Systèmes informatiques|10e année|Ouvert|<10
+TEF4T|Network Security|12e année|Cours collégial, enseigné par le collège (DRC)|11
+TEG4T|Network Technologies|12e année|Cours collégial, enseigné par le collège (DRC)|23
+TEH4T|Computers|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TEI3M|Technologie des systèmes informatiques : Interface|11e année|Filière préuniversitaire/précollégiale|13
+TEI4M|Technologie des systèmes informatiques : Interface|12e année|Filière préuniversitaire/précollégiale|16
+TEJ1O|Initiation à la technologie des systèmes informatiques|9e année|Ouvert|1529
+TEJ2O|Technologie des systèmes informatiques|10e année|Ouvert|6314
+TEJ3E|Technologie des systèmes informatiques|11e année|Filière préemploi|622
+TEJ3M|Technologie des systèmes informatiques|11e année|Filière préuniversitaire/précollégiale|6987
+TEJ4E|Technologie des systèmes informatiques|12e année|Filière préemploi|104
+TEJ4M|Technologie des systèmes informatiques|12e année|Filière préuniversitaire/précollégiale|2634
+TEL3M|Technologie des systèmes informatiques : Électronique|11e année|Filière préuniversitaire/précollégiale|192
+TEL4M|Technologie des systèmes informatiques : Électronique|12e année|Filière préuniversitaire/précollégiale|81
+TEM4T|Information Technology|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TEN3M|Technologie des systèmes informatiques : Réseautique|11e année|Filière préuniversitaire/précollégiale|201
+TEN4M|Technologie des systèmes informatiques : Réseautique|12e année|Filière préuniversitaire/précollégiale|87
+TEP4T|Practical Electronics|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TEQ4T|Électronique en prétechnologie|12e année|Cours collégial, enseigné par le collège (DRC)|14
+TER3M|Technologie des systèmes informatiques : Robotique et systèmes de commande|11e année|Filière préuniversitaire/précollégiale|241
+TER4M|Technologie des systèmes informatiques : Robotique et systèmes de commande|12e année|Filière préuniversitaire/précollégiale|89
+TES4T|Electronic Lab|12e année|Cours collégial, enseigné par le collège (DRC)|13
+TFA4T|Introduction to Hospitality|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TFB3E|Hôtellerie et tourisme : Boulangerie et pâtisserie|11e année|Filière préemploi|2004
+TFB4E|Hôtellerie et tourisme : Boulangerie et pâtisserie|12e année|Filière préemploi|610
+TFC3E|Hôtellerie et tourisme : Cuisine|11e année|Filière préemploi|1973
+TFC4E|Hôtellerie et tourisme : Cuisine|12e année|Filière préemploi|716
+TFE3E|Hôtellerie et tourisme : Organisation d'événements|11e année|Filière préemploi|157
+TFE4E|Hôtellerie et tourisme : Organisation d'événements|12e année|Filière préemploi|44
+TFF4T|International Culinary Appreciation|12e année|Cours collégial, enseigné par le collège (DRC)|49
+TFG4T|Event Planning and Delivery|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TFH3E|Hôtellerie et tourisme|11e année|Filière préemploi|94
+TFH4E|Hôtellerie et tourisme|12e année|Filière préemploi|36
+TFI4T|Safety, Sanitation and Equipment|12e année|Cours collégial, enseigné par le collège (DRC)|17
+TFJ1O|Initiation à l'hôtellerie et au tourisme|9e année|Ouvert|2359
+TFJ2O|Hôtellerie et tourisme|10e année|Ouvert|15385
+TFJ3C|Hôtellerie et tourisme|11e année|Filière précollégiale|9242
+TFJ3E|Hôtellerie et tourisme|11e année|Filière préemploi|5913
+TFJ4C|Hôtellerie et tourisme|12e année|Filière précollégiale|2841
+TFJ4E|Hôtellerie et tourisme|12e année|Filière préemploi|2553
+TFL4T|Dining Room|12e année|Cours collégial, enseigné par le collège (DRC)|24
+TFN3C|Hôtellerie et tourisme : Nutrition|11e année|Filière précollégiale|50
+TFN4C|Hôtellerie et tourisme : Nutrition|12e année|Filière précollégiale|<10
+TFO4T|Hospitality and Tourism|12e année|Cours collégial, enseigné par le collège (DRC)|65
+TFP4T|Hospitality and Tourism Management|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TFR3C|Hôtellerie et tourisme : Arts culinaires et gestion hôtelière|11e année|Filière précollégiale|807
+TFR4C|Hôtellerie et tourisme : Arts culinaires et gestion hôtelière|12e année|Filière précollégiale|362
+TFS4C|Tourisme|12e année|Filière précollégiale|36
+TFT3C|Hôtellerie|11e année|Filière précollégiale|524
+TFT4C|Hôtellerie et tourisme : Tourisme et organisation de voyage|12e année|Filière précollégiale|63
+TFV4T|Dining Room Theory|12e année|Cours collégial, enseigné par le collège (DRC)|16
+TFY4T|Professional Customer Service|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TGB4T|Graphic Design - Computer Imagery|12e année|Cours collégial, enseigné par le collège (DRC)|13
+TGC4T|Digital Imaging|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TGD4T|Theory and Practice of Film and Television|12e année|Cours collégial, enseigné par le collège (DRC)|20
+TGE4T|Radio Reporting|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TGG3M|Technologie des communications : communication graphique et impression|11e année|Filière préuniversitaire/précollégiale|2299
+TGG4M|Technologie des communications : communication graphique et impression|12e année|Filière préuniversitaire/précollégiale|1511
+TGI3M|Technologie des communications : nouveaux médias et animation|11e année|Filière préuniversitaire/précollégiale|1168
+TGI4M|Technologie des communications : nouveaux médias et animation|12e année|Filière préuniversitaire/précollégiale|500
+TGJ1O|Initiation à la technologie des communications|9e année|Ouvert|2632
+TGJ2O|Technologie des communications|10e année|Ouvert|19048
+TGJ3E|Technologie des communications|11e année|Filière préemploi|19
+TGJ3M|Technologie des communications|11e année|Filière préuniversitaire/précollégiale|17587
+TGJ3O|Technologie des communications : Production et diffusion|11e année|Ouvert|2025
+TGJ4M|Technologie des communications|12e année|Filière préuniversitaire/précollégiale|8867
+TGJ4O|Technologie des communications : L'image à l'ère du numérique|12e année|Ouvert|1252
+TGN4T|Introduction to Vidography|12e année|Cours collégial, enseigné par le collège (DRC)|20
+TGO4T|TV Production|12e année|Cours collégial, enseigné par le collège (DRC)|17
+TGP3M|Technologie des communications : photographie et image numérique|11e année|Filière préuniversitaire/précollégiale|2869
+TGP4M|Technologie des communications : photographie et image numérique|12e année|Filière préuniversitaire/précollégiale|1170
+TGQ4T|Introduction to Studio Production|12e année|Cours collégial, enseigné par le collège (DRC)|12
+TGR3M|Technologie des communications : production audio|11e année|Filière préuniversitaire/précollégiale|272
+TGR4M|Technologie des communications : production audio|12e année|Filière préuniversitaire/précollégiale|127
+TGV3M|Technologie des communications : production télévisuelle|11e année|Filière préuniversitaire/précollégiale|2445
+TGV4M|Technologie des communications : production télévisuelle|12e année|Filière préuniversitaire/précollégiale|1495
+THA3M|Technologie agricole, forestière et paysagère : Agroalimentaire|11e année|Filière préuniversitaire/précollégiale|44
+THA4M|Technologie agricole, forestière et paysagère : Agroalimentaire|12e année|Filière préuniversitaire/précollégiale|14
+THD3M|Technologie agricole, forestière et paysagère : Architecture paysager|11e année|Filière préuniversitaire/précollégiale|48
+THD4M|Technologie agricole, forestière et paysagère : Architecture paysager|12e année|Filière préuniversitaire/précollégiale|22
+THE4T|Energy Efficiencies and Sustainable Construction|12e année|Cours collégial, enseigné par le collège (DRC)|22
+THF3E|Technologie agricole, forestière et paysagère : Fleuriste|11e année|Filière préemploi|76
+THF4E|Technologie agricole, forestière et paysagère : Fleuriste|12e année|Filière préemploi|17
+THG3E|Technologie agricole, forestière et paysagère : Agriculture|11e année|Filière préemploi|14
+THG4E|Technologie agricole, forestière et paysagère : Agriculture|12e année|Filière préemploi|<10
+THH3E|Technologie agricole, forestière et paysagère : Horticulture|11e année|Filière préemploi|302
+THH4E|Technologie agricole, forestière et paysagère : Horticulture|12e année|Filière préemploi|119
+THJ1O|Initiation à technologie agricole, forestière et paysagère|9e année|Ouvert|416
+THJ2O|Technologie agricole, forestière et paysagère|10e année|Ouvert|1171
+THJ3E|Technologie agricole, forestière et paysagère|11e année|Filière préemploi|1220
+THJ3M|Technologie agricole, forestière et paysagère|11e année|Filière préuniversitaire/précollégiale|942
+THJ4E|Technologie agricole, forestière et paysagère|12e année|Filière préemploi|325
+THJ4M|Technologie agricole, forestière et paysagère|12e année|Filière préuniversitaire/précollégiale|358
+THK4T|Horticulture|12e année|Cours collégial, enseigné par le collège (DRC)|17
+THL3E|Technologie agricole, forestière et paysagère: Aménagement paysager et entretien|11e année|Filière préemploi|175
+THL4E|Technologie agricole, forestière et paysagère: Aménagement paysager et entretien|12e année|Filière préemploi|159
+THN4T|Energy and Environmental Sustainability|12e année|Cours collégial, enseigné par le collège (DRC)|16
+THO3E|Technologie agricole, forestière et paysagère : Foresterie|11e année|Filière préemploi|45
+THO3M|Technologie agricole, forestière et paysagère : Foresterie|11e année|Filière préuniversitaire/précollégiale|20
+THO4E|Technologie agricole, forestière et paysagère : Foresterie|12e année|Filière préemploi|17
+THO4M|Technologie agricole, forestière et paysagère : Foresterie|12e année|Filière préuniversitaire/précollégiale|13
+THP4T|Renewable Energy Technologies|12e année|Cours collégial, enseigné par le collège (DRC)|38
+THQ4T|Landscape Construction|12e année|Cours collégial, enseigné par le collège (DRC)|70
+THS3M|Technologie agricole, forestière et paysagère : Gestion en horticulture|11e année|Filière préuniversitaire/précollégiale|17
+THS4M|Technologie agricole, forestière et paysagère : Gestion en horticulture|12e année|Filière préuniversitaire/précollégiale|85
+THU4T|Wildlife for Naturalists|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TIB4T|Trades Exploration Lab|12e année|Cours collégial, enseigné par le collège (DRC)|15
+TIJ1O|Initiation à la technologie|9e année|Ouvert|46311
+TIK2O|Études informatiques|10e année|Ouvert|<10
+TJB4T|Tourism Industry and Careers|12e année|Cours collégial, enseigné par le collège (DRC)|17
+TJC4T|Dimensions of Tourism|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TJF4T|Trends and Issues in Tourism|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TJG4T|Dynamics of Global Tourism|12e année|Cours collégial, enseigné par le collège (DRC)|30
+TJJ4T|Destinations d'Amérique du Nord|12e année|Cours collégial, enseigné par le collège (DRC)|32
+TJK4T|The Canadian Experience|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TJM4T|Destinations soleil et Amérique du Sud|12e année|Cours collégial, enseigné par le collège (DRC)|12
+TKA4Y|Cuisinier/Cuisinière|12e année|Programme d'apprentissage (Double reconnaissance de crédit)|211
+TKB4T|Food Preparation|12e année|Cours collégial, enseigné par le collège (DRC)|30
+TKC4T|Preliminary Food Preparation|12e année|Cours collégial, enseigné par le collège (DRC)|10
+TKD4T|Quantity Food and Dining Room Preparation|12e année|Cours collégial, enseigné par le collège (DRC)|13
+TKF4T|Basic Food Theory|12e année|Cours collégial, enseigné par le collège (DRC)|18
+TKG4T|Food Preparation and Theory II|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TKI4T|Food Processing|12e année|Cours collégial, enseigné par le collège (DRC)|14
+TKL4T|Cuisine and Culture CHEF|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TKM4T|Food and Kitchen Safety|12e année|Cours collégial, enseigné par le collège (DRC)|19
+TKP4T|Food Theory|12e année|Cours collégial, enseigné par le collège (DRC)|21
+TKQ4T|Healthy Cooking Made Easy|12e année|Cours collégial, enseigné par le collège (DRC)|11
+TKU4T|Quantity Food Production|12e année|Cours collégial, enseigné par le collège (DRC)|33
+TKW4T|Boulangerie et pâtisserie|12e année|Cours collégial, enseigné par le collège (DRC)|84
+TKY4T|Bonne bouffe, belle bouffe|12e année|Cours collégial, enseigné par le collège (DRC)|56
+TKZ4T|Démonstration pratique I|12e année|Cours collégial, enseigné par le collège (DRC)|16
+TLA4Y|Soudeur/soudeuse|12e année|Programme d'apprentissage (Double reconnaissance de crédit)|71
+TLD4T|Welding Quality|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TLF4T|Steamfitting - Welding|12e année|Cours collégial, enseigné par le collège (DRC)|21
+TLG4T|Shielded Metal Arc Welding|12e année|Cours collégial, enseigné par le collège (DRC)|17
+TLH4T|Welding Fundamentals|12e année|Cours collégial, enseigné par le collège (DRC)|60
+TLI4T|Welding Techniques|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TLJ4T|Welding and Cutting|12e année|Cours collégial, enseigné par le collège (DRC)|55
+TLL4T|Welding and Fabrication|12e année|Cours collégial, enseigné par le collège (DRC)|87
+TLM4T|T-joints - Welding|12e année|Cours collégial, enseigné par le collège (DRC)|11
+TLO4T|Oxy-Fuel Cutting, Welding, Brazing|12e année|Cours collégial, enseigné par le collège (DRC)|45
+TLP4T|Trades: Autobody and Welding|12e année|Cours collégial, enseigné par le collège (DRC)|16
+TLS4T|Introduction au Soudage|12e année|Cours collégial, enseigné par le collège (DRC)|16
+TLU4T|Soudeur/soudeuse II|12e année|Cours collégial, enseigné par le collège (DRC)|77
+TLV4T|Steamfitting - Welding II|12e année|Cours collégial, enseigné par le collège (DRC)|23
+TMB4T|CNC Manual Programming|12e année|Cours collégial, enseigné par le collège (DRC)|26
+TMC3C|Technologie de la fabrication : Fabrication assistée par ordinateur|11e année|Filière précollégiale|<10
+TMD4T|CNC Applications|12e année|Cours collégial, enseigné par le collège (DRC)|19
+TME4T|Manufacturing Safety|12e année|Cours collégial, enseigné par le collège (DRC)|103
+TMH4T|Equipment Operation and Maintenance|12e année|Cours collégial, enseigné par le collège (DRC)|32
+TMI3C|Technologie de la fabrication : Maintenance industriel|11e année|Filière précollégiale|143
+TMI4C|Technologie de la fabrication : Maintenance industriel|12e année|Filière précollégiale|49
+TMJ1O|Initiation à la technologie de la fabrication|9e année|Ouvert|1192
+TMJ2O|Technologie de la fabrication|10e année|Ouvert|7491
+TMJ3C|Technologie de la fabrication|11e année|Filière précollégiale|5638
+TMJ3E|Technologie de la fabrication|11e année|Filière préemploi|3025
+TMJ3M|Technology de la fabrication|11e année|Filière préuniversitaire/précollégiale|965
+TMJ4C|Technologie de la fabrication|12e année|Filière précollégiale|2188
+TMJ4E|Technologie de la fabrication|12e année|Filière préemploi|1211
+TMJ4M|Technology de la fabrication|12e année|Filière préuniversitaire/précollégiale|461
+TMM3M|Technologie de la fabrication : Génie mécanique|11e année|Filière préuniversitaire/précollégiale|85
+TMM4M|Technology de la fabrication : Génie mécanique|12e année|Filière préuniversitaire/précollégiale|33
+TMN4T|Electromechanical Systems|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TMO3E|Technologie de la fabrication : Opérateur de machines industrielles|11e année|Filière préemploi|48
+TMO4E|Technologie de la fabrication : Opérateur de machines industrielles|12e année|Filière préemploi|31
+TMP3C|Technologie de la fabrication : Usinage de précision|11e année|Filière précollégiale|197
+TMP4C|Technologie de la fabrication : Usinage de précision|12e année|Filière précollégiale|95
+TMR3M|Technologie de la fabrication : Robotique et systèmes de commande|11e année|Filière préuniversitaire/précollégiale|121
+TMR4M|Technologie de la fabrication : Robotique et systèmes de commande|12e année|Filière préuniversitaire/précollégiale|41
+TMS3E|Technologie de la fabrication : Tôlerie|11e année|Filière préemploi|58
+TMT3C|Technologie de la fabrication : Robotique et technicien de commande|11e année|Filière précollégiale|<10
+TMW3E|Technologie de la fabrication : Soudure et assemblage|11e année|Filière préemploi|1074
+TMW4E|Technologie de la fabrication : Soudure et assemblage|12e année|Filière préemploi|576
+TMY3C|Technologie de la fabrication : Technicien de soudure|11e année|Filière précollégiale|495
+TMY4C|Technologie de la fabrication : Technicien de soudure|12e année|Filière précollégiale|210
+TNA4Y|Électricien de construction et d'entretien|12e année|Programme d'apprentissage (Double reconnaissance de crédit)|108
+TNC4T|Electrical Fundamentals|12e année|Cours collégial, enseigné par le collège (DRC)|80
+TND4T|Basic Electrical Installation|12e année|Cours collégial, enseigné par le collège (DRC)|121
+TNE4T|Initiation à l'électricité|12e année|Cours collégial, enseigné par le collège (DRC)|14
+TNF4T|Electrical Wiring|12e année|Cours collégial, enseigné par le collège (DRC)|32
+TNJ4T|Electrical Construction Skills Training|12e année|Cours collégial, enseigné par le collège (DRC)|67
+TNK4T|Electrical Installation|12e année|Cours collégial, enseigné par le collège (DRC)|14
+TNL4T|Electrician Trade Safety|12e année|Cours collégial, enseigné par le collège (DRC)|67
+TNN4T|Electrical Techniques - Theory|12e année|Cours collégial, enseigné par le collège (DRC)|11
+TNO4T|Electrical Techniques - Practical|12e année|Cours collégial, enseigné par le collège (DRC)|11
+TOA4T|Gerontology|12e année|Cours collégial, enseigné par le collège (DRC)|19
+TOB4T|Learning Through Play|12e année|Cours collégial, enseigné par le collège (DRC)|85
+TOC4C|Soins de santé des enfants|12e année|Filière précollégiale|34
+TOE4T|Child and Youth Worker|12e année|Cours collégial, enseigné par le collège (DRC)|25
+TOE4Y|Child and Youth Worker|12e année|Programme d'apprentissage (Double reconnaissance de crédit)|50
+TOF4T|Child Development|12e année|Cours collégial, enseigné par le collège (DRC)|125
+TOJ4C|Soins de santé des enfants et des personnes âgées|12e année|Filière précollégiale|1925
+TOK4T|Children's Literature|12e année|Cours collégial, enseigné par le collège (DRC)|28
+TOL4Y|Praticienne ou praticien du développement de l'enfant|12e année|Cours collégial, enseigné par le collège (DRC)|143
+TOM4T|Early Childhood Educator High Scope|12e année|Cours collégial, enseigné par le collège (DRC)|13
+TON4Y|Aide-enseignant/Aide-enseignante Programme d'apprentissage (Modules)|12e année|Programme d'apprentissage (Double reconnaissance de crédit)|13
+TOP4T|Child and Youth Practice|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TOQ4T|Early Childhood Education|12e année|Cours collégial, enseigné par le collège (DRC)|184
+TOR4T|Positive Child Guidance|12e année|Cours collégial, enseigné par le collège (DRC)|17
+TOT4T|Child Development II|12e année|Cours collégial, enseigné par le collège (DRC)|15
+TOV4T|Early Childhood Education II|12e année|Cours collégial, enseigné par le collège (DRC)|14
+TPD3M|Soins de santé : Services dentaires|11e année|Filière préuniversitaire/précollégiale|13
+TPD4M|Soins de santé : Services dentaires|12e année|Filière préuniversitaire/précollégiale|16
+TPE3E|Coiffure et esthétique|11e année|Filière préemploi|<10
+TPE4E|Coiffure et esthétique|12e année|Filière préemploi|<10
+TPJ1O|Initiation aux soins de santé|9e année|Ouvert|275
+TPJ2O|Soins de santé|10e année|Ouvert|1001
+TPJ3C|Soins de santé|11e année|Filière précollégiale|3054
+TPJ3M|Soins de santé|11e année|Filière préuniversitaire/précollégiale|3231
+TPJ4C|Soins de santé|12e année|Filière précollégiale|1052
+TPJ4E|Soins de santé : services de soutien|12e année|Filière préemploi|220
+TPJ4M|Soins de santé|12e année|Filière préuniversitaire/précollégiale|1360
+TPO4C|Développement de l'enfant et gérontologie|12e année|Filière précollégiale|66
+TPT4M|Soins de santé : Services de thérapeutiques|12e année|Filière préuniversitaire/précollégiale|<10
+TQC4T|Introductory Multimedia|12e année|Cours collégial, enseigné par le collège (DRC)|18
+TQH4T|Multimédia|12e année|Cours collégial, enseigné par le collège (DRC)|12
+TQL4T|Computer Skills - Communications Media|12e année|Cours collégial, enseigné par le collège (DRC)|31
+TRB4Y|Atelier d'usinage (machiniste)|12e année|Programme d'apprentissage (Double reconnaissance de crédit)|15
+TRC4Y|Mécanicien  monteur - industriel|12e année|Programme d'apprentissage (Double reconnaissance de crédit)|<10
+TRD4Y|Metal Fabricator (Fitter)|12e année|Programme d'apprentissage (Double reconnaissance de crédit)|<10
+TRG4T|HVAC - Sheet Metal Fabrication|12e année|Cours collégial, enseigné par le collège (DRC)|47
+TRH4T|Basic Shop Practice|12e année|Cours collégial, enseigné par le collège (DRC)|30
+TRQ4T|Industrial Trades|12e année|Cours collégial, enseigné par le collège (DRC)|61
+TSA4T|Charpentier-menuisier|12e année|Cours collégial, enseigné par le collège (DRC)|13
+TSA4Y|Charpentier-menuisier|12e année|Programme d'apprentissage (Double reconnaissance de crédit)|121
+TSB4T|Plombier|12e année|Cours collégial, enseigné par le collège (DRC)|76
+TSB4Y|Plombier|12e année|Programme d'apprentissage (Double reconnaissance de crédit)|44
+TSC4T|Introducation to Residential Construction|12e année|Cours collégial, enseigné par le collège (DRC)|11
+TSD4T|Maçonnerie de base|12e année|Cours collégial, enseigné par le collège (DRC)|63
+TSF4T|Construction Tools|12e année|Cours collégial, enseigné par le collège (DRC)|13
+TSG4T|Construction and Facilities Maintenance|12e année|Cours collégial, enseigné par le collège (DRC)|37
+TSJ4T|Plumbing Theory|12e année|Cours collégial, enseigné par le collège (DRC)|16
+TSK4T|Construction Basics|12e année|Cours collégial, enseigné par le collège (DRC)|22
+TSL4T|Introduction to Construction Trades|12e année|Cours collégial, enseigné par le collège (DRC)|103
+TSM4T|Plumbing Practical|12e année|Cours collégial, enseigné par le collège (DRC)|16
+TSN4T|Home Renovation - Safety|12e année|Cours collégial, enseigné par le collège (DRC)|20
+TSO4T|Scaffolding, Earthwork Barriers, and Controls|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TSP4T|Home Renovation Trade Skills|12e année|Cours collégial, enseigné par le collège (DRC)|42
+TSQ4T|Building Construction Techniques|12e année|Cours collégial, enseigné par le collège (DRC)|101
+TSR4T|Hand Tools and Safety of the Construction Industry|12e année|Cours collégial, enseigné par le collège (DRC)|14
+TST4T|Mathematics for Construction|12e année|Cours collégial, enseigné par le collège (DRC)|78
+TSV4T|Building Construction Codes and Standards|12e année|Cours collégial, enseigné par le collège (DRC)|10
+TSX4T|Construction Health, Safety Awareness|12e année|Cours collégial, enseigné par le collège (DRC)|49
+TSY4Y|Manueuvre en construction|12e année|Programme d'apprentissage (Double reconnaissance de crédit)|57
+TSZ4Y|Briqueteur-maçon|12e année|Programme d'apprentissage (Double reconnaissance de crédit)|11
+TTA3C|Technologie des transports : Service de réparation automobile|11e année|Filière précollégiale|1990
+TTA4C|Technologie des transports : Service de réparation automobile|12e année|Filière précollégiale|1000
+TTB3C|Technologie des transports : Débosselage|11e année|Filière précollégiale|908
+TTB4C|Technologie des transports : Débosselage|12e année|Filière précollégiale|359
+TTC4T|Introduction to Transportation Technology|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TTD4T|Technicien(ne) de camions et d'autobus|12e année|Cours collégial, enseigné par le collège (DRC)|19
+TTD4Y|Technicien(ne) de camions et d'autobus|12e année|Programme d'apprentissage (Double reconnaissance de crédit)|25
+TTE4Y|Technicien/technicienne d'entretien automobile|12e année|Programme d'apprentissage (Double reconnaissance de crédit)|204
+TTG4T|Engine Function and Design|12e année|Cours collégial, enseigné par le collège (DRC)|29
+TTH3C|Technologie des transports : Machinerie lourde et agricole|11e année|Filière précollégiale|49
+TTH4C|Technologie des transports : Machinerie lourde et agricole|12e année|Filière précollégiale|47
+TTI1O|Introduction a la technologie|9e année|Ouvert|344
+TTJ1O|Initiation à la technologie des transports|9e année|Ouvert|1572
+TTJ2O|Technologie des transports|10e année|Ouvert|19266
+TTJ3C|Technologie des transports|11e année|Filière précollégiale|16307
+TTJ3E|Technologie des transports|11e année|Filière préemploi|222
+TTJ3O|Technologie des transports : Véhicule personnel|11e année|Ouvert|2964
+TTJ4C|Technologie des transports|12e année|Filière précollégiale|7032
+TTJ4E|Technologie des transports : Entretien d'un véhicule|12e année|Filière préemploi|1747
+TTK4T|Motorcycle and Small Engine|12e année|Cours collégial, enseigné par le collège (DRC)|16
+TTL3C|Technologie des transports : Aéronef de faible tonnage|11e année|Filière précollégiale|32
+TTL4C|Technologie des transports : Aéronef de faible tonnage|12e année|Filière précollégiale|<10
+TTM4T|Automotive Basic Skills|12e année|Cours collégial, enseigné par le collège (DRC)|47
+TTO4Y|Technicien/technicienne d'équipement lourd|12e année|Programme d'apprentissage (Double reconnaissance de crédit)|<10
+TTP4T|Technical Practices|12e année|Cours collégial, enseigné par le collège (DRC)|61
+TTQ4T|Technical Practices II|12e année|Cours collégial, enseigné par le collège (DRC)|61
+TTR4Y|Small Engine Technician|12e année|Programme d'apprentissage (Double reconnaissance de crédit)|<10
+TTS3C|Technologie des transports : Petits moteurs et équipement récréatifs|11e année|Filière précollégiale|862
+TTS4C|Technologie des transports : Petits moteurs et équipement récréatifs|12e année|Filière précollégiale|263
+TTT3C|Technologie des transports : Camions et autobus|11e année|Filière précollégiale|41
+TTT4C|Technologie des transports : Camions et autobus|12e année|Filière précollégiale|<10
+TTU4T|Introduction to theTrades - Marine and Small Powered Equipment|12e année|Cours collégial, enseigné par le collège (DRC)|17
+TTW4T|Aeronautics|12e année|Cours collégial, enseigné par le collège (DRC)|19
+TUA4T|Baking Techniques - Basic|12e année|Cours collégial, enseigné par le collège (DRC)|25
+TUB4T|Introduction to Baking|12e année|Cours collégial, enseigné par le collège (DRC)|41
+TUC4T|Arts culinaires - Pratique|12e année|Cours collégial, enseigné par le collège (DRC)|73
+TUD4Y|Baker|12e année|Programme d'apprentissage (Double reconnaissance de crédit)|<10
+TUE4T|Baking and Pastry|12e année|Cours collégial, enseigné par le collège (DRC)|249
+TUF4T|Baking Techniques|12e année|Cours collégial, enseigné par le collège (DRC)|25
+TUI4T|Culinary Techniques|12e année|Cours collégial, enseigné par le collège (DRC)|51
+TUS4T|Culinary Essentials|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TUX4T|Culinary Techniques II|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TVA4T|Kitchen Management One Chef|12e année|Cours collégial, enseigné par le collège (DRC)|12
+TVB4T|Kitchen Management|12e année|Cours collégial, enseigné par le collège (DRC)|39
+TVC4T|Basic Kitchen Production|12e année|Cours collégial, enseigné par le collège (DRC)|31
+TVD4T|Kitchen Production|12e année|Cours collégial, enseigné par le collège (DRC)|18
+TVE4T|Advanced Kitchen Production|12e année|Cours collégial, enseigné par le collège (DRC)|13
+TVF4T|Advanced Kitchen Production II|12e année|Cours collégial, enseigné par le collège (DRC)|14
+TWB4T|Cabinetmaker|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TWB4Y|Cabinetmaker|12e année|Programme d'apprentissage (Double reconnaissance de crédit)|<10
+TWJ3E|Technologie de la menuiserie et de l'ébénisterie|11e année|Filière préemploi|6094
+TWJ4E|Technologie de la menuiserie et de l'ébénisterie|12e année|Filière préemploi|2231
+TXA3E|Coiffure et esthétique : Technique d'esthétique|11e année|Filière préemploi|176
+TXA4E|Coiffure et esthétique : Technique d'esthétique|12e année|Filière préemploi|74
+TXB4T|Coiffure de base|12e année|Cours collégial, enseigné par le collège (DRC)|12
+TXC4T|Make-up Artistry and Applications|12e année|Cours collégial, enseigné par le collège (DRC)|77
+TXD4T|Body Treatments|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TXE4T|Hairstyling and Cutting Techniques|12e année|Cours collégial, enseigné par le collège (DRC)|101
+TXF4Y|Coiffeur|12e année|Programme d'apprentissage (Double reconnaissance de crédit)|157
+TXG4T|Introduction Spa Management|12e année|Cours collégial, enseigné par le collège (DRC)|45
+TXH3E|Coiffure et esthétique : Design de coiffure|11e année|Filière préemploi|512
+TXH4E|Coiffure et esthétique : Design de coiffure|12e année|Filière préemploi|225
+TXI4T|Make-Up|12e année|Cours collégial, enseigné par le collège (DRC)|75
+TXJ1O|Initiation à la coiffure et l'esthétique|9e année|Ouvert|1140
+TXJ2O|Coiffure et esthétique|10e année|Ouvert|7245
+TXJ3E|Coiffure et esthétique|11e année|Filière préemploi|6782
+TXJ4E|Coiffure et esthétique|12e année|Filière préemploi|2037
+TXK4T|Manicures|12e année|Cours collégial, enseigné par le collège (DRC)|108
+TXL4T|Manicure Theory|12e année|Cours collégial, enseigné par le collège (DRC)|17
+TXM4T|Maquillage|12e année|Cours collégial, enseigné par le collège (DRC)|60
+TXP4T|Pedicures|12e année|Cours collégial, enseigné par le collège (DRC)|18
+TXS4T|Cosmétologie|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TXT4T|Pedicure Theory|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TXU4T|Exploration coiffure et esthétique|12e année|Cours collégial, enseigné par le collège (DRC)|24
+TXV4T|Hand Anatomy, Physiology and Care|12e année|Cours collégial, enseigné par le collège (DRC)|13
+TYA4T|Domestic Animal Science|12e année|Cours collégial, enseigné par le collège (DRC)|13
+TYB4T|Animal Grooming|12e année|Cours collégial, enseigné par le collège (DRC)|13
+TZA4T|Precision Machining|12e année|Cours collégial, enseigné par le collège (DRC)|11
+TZB4Y|Refrigeration and Air Conditioning Systems Mechanics|12e année|Programme d'apprentissage (Double reconnaissance de crédit)|<10
+TZE4T|Arboriculture/Chainsaw Practices|12e année|Cours collégial, enseigné par le collège (DRC)|40
+TZF4T|Instrumentation|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+TZG4T|Gas fitting, Pipe Fitting and Sheet Metal|12e année|Cours collégial, enseigné par le collège (DRC)|14
+TZW4T|Coupage et de brasage|12e année|Cours collégial, enseigné par le collège (DRC)|10

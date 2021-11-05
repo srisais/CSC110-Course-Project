@@ -1,0 +1,65 @@
+﻿Course Code|Course description|Grade|Pathway or destination|Enrolment
+EANAO|Anglais pour débutants 1 (APD1)|Level 1|Open (Grade 9 - 12 level)|250
+EANBO|Anglais pour débutants 2 (APD2)|Level 2|Open (Grade 9 - 12 level)|267
+EANCO|Anglais pour débutants 3 (APD3)|Level 3|Open (Grade 9 - 12 level)|96
+EANDO|Anglais pour débutants 4 (APD4)|Level 4|Open (Grade 9 - 12 level)|78
+ELA4T|Introduction to Literature|Grade 12|College Delivered (Dual Credits)|<10
+ELDAO|Beginning Literacy|Level 1|Open (Grade 9 - 12 level)|648
+ELDBO|Basic Literacy Skills|Level 2|Open (Grade 9 - 12 level)|530
+ELDCO|Literacy in Daily Life|Level 3|Open (Grade 9 - 12 level)|497
+ELDDO|Literacy in Social and Work|Level 4|Open (Grade 9 - 12 level)|387
+ELDEO|English Literacy Dev|Level 5|Open (Grade 9 - 12 level)|171
+ELS2O|Literacy Skills, Gr 10, Open|Grade 10|Open (Grade 9 - 12 level)|2319
+ELS3O|Literacy Schools:Reading and Writing|Grade 11|Open (Grade 9 - 12 level)|233
+ESLAO|Beginner Communication in English|Level 1|Open (Grade 9 - 12 level)|2613
+ESLBO|English in Daily Life|Level 2|Open (Grade 9 - 12 level)|4434
+ESLCO|English for School and Work|Level 3|Open (Grade 9 - 12 level)|6719
+ESLDO|Study Skills in English|Level 4|Open (Grade 9 - 12 level)|7342
+ESLEO|Bridge to English|Level 5|Open (Grade 9 - 12 level)|5420
+FEF1D|Extended French|Grade 9|Academic (Grade 9 & 10 level)|3475
+FEF2D|Extended French|Grade 10|Academic (Grade 9 & 10 level)|2880
+FEF3U|Extended French|Grade 11|University Preparation (Grade 11 & 12 level)|2285
+FEF4U|Extended French|Grade 12|University Preparation (Grade 11 & 12 level)|2029
+FFAAO|Actualisation linguestique en français (ALF1)|Level 1|Open (Grade 9 - 12 level)|19
+FFABO|Actualisation linguestique en français (ALF2)|Level 2|Open (Grade 9 - 12 level)|13
+FFACO|Actualisation linguestique en français (ALF3)|Level 3|Open (Grade 9 - 12 level)|<10
+FFADO|Actualisation linguestique en français (ALF4)|Level 4|Open (Grade 9 - 12 level)|10
+FFM3O|Français des médias|Grade 11|Open (Grade 9 - 12 level)|65
+FFPAO|Programme d'appui aux nouveaux arrivants 1|Level 1|Open (Grade 9 - 12 level)|38
+FFPBO|Programme d'appui aux nouveaux arrivants 2|Level 2|Open (Grade 9 - 12 level)|51
+FFPCO|Programme d'appui aux nouveaux arrivants 3|Level 3|Open (Grade 9 - 12 level)|15
+FFPDO|Programme d'appui aux nouveaux arrivants 4|Level 4|Open (Grade 9 - 12 level)|<10
+FIF1D|French Immersion|Grade 9|Academic (Grade 9 & 10 level)|8090
+FIF2D|French Immersion|Grade 10|Academic (Grade 9 & 10 level)|7192
+FIF3U|French Immersion|Grade 11|University Preparation (Grade 11 & 12 level)|6412
+FIF4U|French Immersion|Grade 12|University Preparation (Grade 11 & 12 level)|5641
+FSF1D|Core French|Grade 9|Academic (Grade 9 & 10 level)|69874
+FSF1P|Core French|Grade 9|Applied (Grade 9 & 10 level)|41416
+FSF2D|Core French|Grade 10|Academic (Grade 9 & 10 level)|27852
+FSF2P|Core French|Grade 10|Applied (Grade 9 & 10 level)|847
+FSF3O|Core French|Grade 11|Open (Grade 9 - 12 level)|281
+FSF3U|Core French|Grade 11|University Preparation (Grade 11 & 12 level)|15493
+FSF4O|Core French|Grade 12|Open (Grade 9 - 12 level)|85
+FSF4U|Core French|Grade 12|University Preparation (Grade 11 & 12 level)|10561
+LNB4T|Conversational Ojibway|Grade 12|College Delivered (Dual Credits)|<10
+LNCAO|Cree|Level 1|Open (Grade 9 - 12 level)|60
+LNCBO|Cree|Level 2|Open (Grade 9 - 12 level)|<10
+LNDAO|Delaware|Level 1|Open (Grade 9 - 12 level)|<10
+LNDBO|Delaware|Level 2|Open (Grade 9 - 12 level)|<10
+LNDCO|Delaware|Level 3|Open (Grade 9 - 12 level)|<10
+LNLAO|Ojicree|Level 1|Open (Grade 9 - 12 level)|39
+LNLBO|Ojicree|Level 2|Open (Grade 9 - 12 level)|10
+LNLCO|Ojicree|Level 3|Open (Grade 9 - 12 level)|<10
+LNMAO|Mohawk|Level 1|Open (Grade 9 - 12 level)|30
+LNMBO|Mohawk|Level 2|Open (Grade 9 - 12 level)|37
+LNMCO|Mohawk|Level 3|Open (Grade 9 - 12 level)|17
+LNMDO|Mohawk|Level 4|Open (Grade 9 - 12 level)|<10
+LNMEO|Mohawk|Level 5|Open (Grade 9 - 12 level)|<10
+LNNAO|Oneida|Level 1|Open (Grade 9 - 12 level)|32
+LNNBO|Oneida|Level 2|Open (Grade 9 - 12 level)|10
+LNNCO|Oneida|Level 3|Open (Grade 9 - 12 level)|<10
+LNOAO|Ojibwe|Level 1|Open (Grade 9 - 12 level)|798
+LNOBO|Ojibwe|Level 2|Open (Grade 9 - 12 level)|275
+LNOCO|Ojibwe|Level 3|Open (Grade 9 - 12 level)|108
+LNODO|Ojibwe|Level 4|Open (Grade 9 - 12 level)|34
+LNOEO|Ojibwe|Level 5|Open (Grade 9 - 12 level)|13

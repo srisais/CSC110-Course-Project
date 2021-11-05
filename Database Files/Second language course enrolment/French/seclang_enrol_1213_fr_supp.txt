@@ -1,0 +1,65 @@
+﻿Code du cours|Description du cours|Année d’études|Parcours ou destination|Effectif
+EANAO|Anglais pour débutants 1 (APD1)|Niveau 1|Ouvert|250
+EANBO|Anglais pour débutants 2 (APD2)|Niveau 2|Ouvert|267
+EANCO|Anglais pour débutants 3 (APD3)|Niveau 3|Ouvert|96
+EANDO|Anglais pour débutants 4 (APD4)|Niveau 4|Ouvert|78
+ELA4T|Introduction to Literature|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+ELDAO|Beginning Literacy|Niveau 1|Ouvert|648
+ELDBO|Basic Literacy Skills|Niveau 2|Ouvert|530
+ELDCO|Literacy in Daily Life|Niveau 3|Ouvert|497
+ELDDO|Literacy in Social and Work|Niveau 4|Ouvert|387
+ELDEO|English Literacy Dev|Niveau 5|Ouvert|171
+ELS2O|Literacy Skills, Gr 10, Open|10e année|Ouvert|2319
+ELS3O|Literacy Schools:Reading and Writing|11e année|Ouvert|233
+ESLAO|Beginner Communication in English|Niveau 1|Ouvert|2613
+ESLBO|English in Daily Life|Niveau 2|Ouvert|4434
+ESLCO|English for School and Work|Niveau 3|Ouvert|6719
+ESLDO|Study Skills in English|Niveau 4|Ouvert|7342
+ESLEO|Bridge to English|Niveau 5|Ouvert|5420
+FEF1D|Extended French|9e année|Cours théorique|3475
+FEF2D|Extended French|10e année|Cours théorique|2880
+FEF3U|Extended French|11e année|Filière préuniversitaire|2285
+FEF4U|Extended French|12e année|Filière préuniversitaire|2029
+FFAAO|Actualisation linguestique en français (ALF1)|Niveau 1|Ouvert|19
+FFABO|Actualisation linguestique en français (ALF2)|Niveau 2|Ouvert|13
+FFACO|Actualisation linguestique en français (ALF3)|Niveau 3|Ouvert|<10
+FFADO|Actualisation linguestique en français (ALF4)|Niveau 4|Ouvert|10
+FFM3O|Français des médias|11e année|Ouvert|65
+FFPAO|Programme d'appui aux nouveaux arrivants 1|Niveau 1|Ouvert|38
+FFPBO|Programme d'appui aux nouveaux arrivants 2|Niveau 2|Ouvert|51
+FFPCO|Programme d'appui aux nouveaux arrivants 3|Niveau 3|Ouvert|15
+FFPDO|Programme d'appui aux nouveaux arrivants 4|Niveau 4|Ouvert|<10
+FIF1D|French Immersion|9e année|Cours théorique|8090
+FIF2D|French Immersion|10e année|Cours théorique|7192
+FIF3U|French Immersion|11e année|Filière préuniversitaire|6412
+FIF4U|French Immersion|12e année|Filière préuniversitaire|5641
+FSF1D|Core French|9e année|Cours théorique|69874
+FSF1P|Core French|9e année|Cours appliqué|41416
+FSF2D|Core French|10e année|Cours théorique|27852
+FSF2P|Core French|10e année|Cours appliqué|847
+FSF3O|Core French|11e année|Ouvert|281
+FSF3U|Core French|11e année|Filière préuniversitaire|15493
+FSF4O|Core French|12e année|Ouvert|85
+FSF4U|Core French|12e année|Filière préuniversitaire|10561
+LNB4T|Conversational Ojibway|12e année|Cours collégial, enseigné par le collège (DRC)|<10
+LNCAO|Cri|Niveau 1|Ouvert|60
+LNCBO|Cri|Niveau 2|Ouvert|<10
+LNDAO|Delaware|Niveau 1|Ouvert|<10
+LNDBO|Delaware|Niveau 2|Ouvert|<10
+LNDCO|Delaware|Niveau 3|Ouvert|<10
+LNLAO|Oji-cri|Niveau 1|Ouvert|39
+LNLBO|Oji-cri|Niveau 2|Ouvert|10
+LNLCO|Oji-cri|Niveau 3|Ouvert|<10
+LNMAO|Mohawk|Niveau 1|Ouvert|30
+LNMBO|Mohawk|Niveau 2|Ouvert|37
+LNMCO|Mohawk|Niveau 3|Ouvert|17
+LNMDO|Mohawk|Niveau 4|Ouvert|<10
+LNMEO|Mohawk|Niveau 5|Ouvert|<10
+LNNAO|Oneida|Niveau 1|Ouvert|32
+LNNBO|Oneida|Niveau 2|Ouvert|10
+LNNCO|Oneida|Niveau 3|Ouvert|<10
+LNOAO|Ojibway|Niveau 1|Ouvert|798
+LNOBO|Ojibway|Niveau 2|Ouvert|275
+LNOCO|Ojibway|Niveau 3|Ouvert|108
+LNODO|Ojibway|Niveau 4|Ouvert|34
+LNOEO|Ojibway|Niveau 5|Ouvert|13

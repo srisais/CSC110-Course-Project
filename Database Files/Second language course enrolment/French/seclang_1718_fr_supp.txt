@@ -1,0 +1,67 @@
+Code du cours|Description du cours|Années d’études|Parcours ou destination|Effectif
+EANAO|Anglais pour débutants 1 (APD1)|Niveau 1|Ouvert|172
+EANBO|Anglais pour débutants 2 (APD2)|Niveau 2|Ouvert|182
+EANCO|Anglais pour débutants 3 (APD3)|Niveau 3|Ouvert|122
+EANDO|Anglais pour débutants 4 (APD4)|Niveau 4|Ouvert|67
+ELDAO|English Literacy Development, ELD Level 1|Niveau 1|Ouvert|1177
+ELDBO|English Literacy Development, ELD Level 2|Niveau 2|Ouvert|1096
+ELDCO|English Literacy Development, ELD Level 3|Niveau 3|Ouvert|765
+ELDDO|English Literacy Development, ELD Level 4|Niveau 4|Ouvert|502
+ELDEO|English Literacy Development, ELD Level 5|Niveau 5|Ouvert|155
+ESLAO|English as a Second Language, ESL Level 1|Niveau 1|Ouvert|2611
+ESLBO|English as a Second Language, ESL Level 2|Niveau 2|Ouvert|5176
+ESLCO|English as a Second Language, ESL Level 3|Niveau 3|Ouvert|8442
+ESLDO|English as a Second Language, ESL Level 4|Niveau 4|Ouvert|9903
+ESLEO|English as a Second Language, ESL Level 5|Niveau 5|Ouvert|6765
+FEF1D|Extended French|9e année|Cours théorique|2788
+FEF2D|Extended French|10e année|Cours théorique|2878
+FEF3U|Extended French|11e année|Filière préuniversitaire|2676
+FEF4U|Extended French|12e année|Filière préuniversitaire|2261
+FFAAO|Actualisation linguistique en français 1|Niveau 1|Ouvert|37
+FFABO|Actualisation linguistique en français 2|Niveau 2|Ouvert|38
+FFACO|Actualisation linguistique en français 3|Niveau 3|Ouvert|14
+FFM3O|Français des médias|11e année|Ouvert|<10
+FFPAO|Programme d'appui aux nouveaux arrivants 1|Niveau 1|Ouvert|93
+FFPBO|Programme d'appui aux nouveaux arrivants 2|Niveau 2|Ouvert|28
+FFPCO|Programme d'appui aux nouveaux arrivants 3|Niveau 3|Ouvert|11
+FFPDO|Programme d'appui aux nouveaux arrivants 4|Niveau 4|Ouvert|<10
+FIF1D|French Immersion|9e année|Cours théorique|11591
+FIF1P|French Immersion|9e année|Cours appliqué|106
+FIF2D|French Immersion|10e année|Cours théorique|9123
+FIF2P|French Immersion|10e année|Cours appliqué|54
+FIF3O|French Immersion|11e année|Ouvert|63
+FIF3U|French Immersion|11e année|Filière préuniversitaire|8041
+FIF4O|French Immersion|12e année|Ouvert|95
+FIF4U|French Immersion|12e année|Filière préuniversitaire|6757
+FSF1D|Core French|9e année|Cours théorique|67204
+FSF1O|Core French|9e année|Ouvert|3934
+FSF1P|Core French|9e année|Cours appliqué|35397
+FSF2D|Core French|10e année|Cours théorique|25758
+FSF2O|Core French|10e année|Ouvert|99
+FSF2P|Core French|10e année|Cours appliqué|571
+FSF3O|Core French|11e année|Ouvert|210
+FSF3U|Core French|11e année|Filière préuniversitaire|14286
+FSF4O|Core French|12e année|Ouvert|72
+FSF4U|Core French|12e année|Filière préuniversitaire|10389
+LNAAO|Cayuga|Niveau 1|Ouvert|68
+LNACO|Cayuga|Niveau 3|Ouvert|<10
+LNADO|Cayuga|Niveau 4|Ouvert|<10
+LNCAO|Cri|Niveau 1|Ouvert|16
+LNDAO|Delaware|Niveau 1|Ouvert|18
+LNDCO|Delaware|Niveau 3|Ouvert|<10
+LNLAO|Oji-cri|Niveau 1|Ouvert|62
+LNLBO|Oji-cri|Niveau 2|Ouvert|19
+LNLCO|Oji-cri|Niveau 3|Ouvert|<10
+LNMAO|Mohawk|Niveau 1|Ouvert|143
+LNMBO|Mohawk|Niveau 2|Ouvert|35
+LNMCO|Mohawk|Niveau 3|Ouvert|32
+LNMDO|Mohawk|Niveau 4|Ouvert|<10
+LNMEO|Mohawk|Niveau 5|Ouvert|<10
+LNNAO|Oneida|Niveau 1|Ouvert|25
+LNNBO|Oneida|Niveau 2|Ouvert|13
+LNNCO|Oneida|Niveau 3|Ouvert|<10
+LNOAO|Ojibway|Niveau 1|Ouvert|776
+LNOBO|Ojibway|Niveau 2|Ouvert|327
+LNOCO|Ojibway|Niveau 3|Ouvert|147
+LNODO|Ojibway|Niveau 4|Ouvert|37
+LNOEO|Ojibway|Niveau 5|Ouvert|14
