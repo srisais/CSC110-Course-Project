@@ -12,7 +12,6 @@ NOTE: "enrollment" vs "enrolment"
 """
 from dataclasses import dataclass
 
-,
 @dataclass
 class Course:
     """A data type that represents the data for
