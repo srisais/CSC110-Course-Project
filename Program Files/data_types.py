@@ -7,15 +7,24 @@ Module Description
 This module contains all of the datatypes that will be used,
 enabling the data to be easily manipulate and analyzed.
 
-NOTE: "enrollment" vs "enrolment"
+NOTES:
+    - "enrollment" vs "enrolment"
       I will be spelling the word "enrollment" (with 2 'l's).
+    - These classes are implemented as dataclasses as
+      checking for equality will check their attributes,
+      rather than their memory id.
+      (I didn't want to mess with the __eq__ magic method)
+      (I also didn't want to use the vars function, as I would need to
+      remember to use it each time while checking object equality)
+      (Unfortunately, this makes them unhashable)
 
 TODO: add __str__ magic methods to the classes so debugging is much easier
       (have __str__ show all the object attributes or something)
 TODO: Fix line lengths and other PEP8 formatting issues
 """
+from dataclasses import dataclass
 
-
+@dataclass
 class Course:
     """This class regarding the datatype that represents the data
     for an Ontario Secondary School Course
@@ -37,7 +46,11 @@ class Course:
         self.grade_or_level = grade_or_level  # Ex: "Grade 9" or "Level 2"
         self.pathway_or_destination = pathway_or_destination
 
+    def __str__(self) -> str:
+        """Returns a string summarizing the object's contents"""
+        return f"{self.code}: {self.title} - {self.grade_or_level} ({self.pathway_or_destination})"
 
+@dataclass
 class CourseEnrollment:
     """A class regarding the data type that represents the data for
     a specific Course object and the number of students enrolled
@@ -64,8 +77,13 @@ class CourseEnrollment:
         self.start_year = start_year
         self.end_year = end_year
         self.school_year_str = f"{self.start_year} - {self.end_year}"
+    
+    def __str__(self) -> str:
+        """Returns a string summarizing the object's contents"""
+        return self.course.__str__() + f" ||| [{self.school_year_str}]: {self.num_enrollments} enrollments"
 
 
+@dataclass
 class SchoolYearAllCourseEnrollments:
     """A class regarding the data type that represents a specific school year
     and all of the courses offered in that school year
@@ -99,7 +117,14 @@ class SchoolYearAllCourseEnrollments:
         self.school_year_str = f"{self.start_year} - {self.end_year}"
         self.list_of_course_enrollments = list_of_course_enrollments
 
+    def __str__(self) -> str:
+        """Returns a string representation of the object"""
+        return f"[{self.school_year_str}]:" + "\n" + "\n".join(
+            ['['] + [cur_course.__str__() for cur_course in self.list_of_course_enrollments] + [']']
+        )
 
+
+@dataclass
 class CourseEnrollmentHistory:
     """A class regarding the data type that represents the same course and
     its enrolment data over a number of school years
@@ -131,5 +156,8 @@ class CourseEnrollmentHistory:
             for course_enrollment in course_enrollment_list
         }
 
-
-
+    def __str__(self) -> str:
+        """Returns a representation of this object as a string"""
+        return f"--- {self.course} ---" + "\n" + "\n".join(
+            ['['] + [cur_course.__str__() for cur_course in self.year_str_to_course_enrollment.values()] + [']']
+        )

@@ -10,6 +10,8 @@ import, sanitize, and sort the data in accordance with how the
 dataclasses and other required structures are defined.
 
 TODO: Fix line lengths and other PEP8 formatting issues
+TODO: make a function that gets all of the txt files from a given folder path
+TODO: merge functions.py and data_types.py into one file?
 """
 
 from data_types import *
@@ -69,23 +71,24 @@ def format_line_list_elements(line_list: list[str]) -> \
     ['LYBBO', 'Arabic', 'Level 2', 'Open (Grade 9 - 12 level)', 9]
     """
 
-    num_enrolments = line_list[4]
+    num_enrollments = line_list[4]
+    num_enrollments = num_enrollments.replace(',', '')
 
-    for i in range(len(num_enrolments)):
-        if num_enrolments[i] == "<":
-            num_enrolments = num_enrolments[0:i] + num_enrolments[i + 1:]
-            # I probably don't need the num_enrolments[0:i], but
+    for i in range(len(num_enrollments)):
+        if num_enrollments[i] == "<":
+            num_enrollments = num_enrollments[0:i] + num_enrollments[i + 1:]
+            # I probably don't need the num_enrollments[0:i], but
             # just in case something comes before '<' in the string...
 
             # This loop will just remove the first instance of '<'
-            # from num_enrolments
+            # from num_enrollments
 
-            num_enrolments = int(num_enrolments) - 1
+            num_enrollments = int(num_enrollments) - 1
             break
     else:
-        num_enrolments = int(num_enrolments)
+        num_enrollments = int(num_enrollments)
 
-    n_en = int(num_enrolments)
+    n_en = int(num_enrollments)
 
     # IMPORTANT NOTE ABOUT num_enrollments:
     # Since the dataset shows "<10" as the smallest values,
@@ -189,6 +192,8 @@ def get_course_enrollment_history_for_all_courses(list_of_file_paths: list[str])
 
     course_enrollment_history_for_all_courses_list = []
     course_enrollment_history_for_all_courses_dict = {}
+    course_enrollment_history_for_all_courses_reference_list = []
+
     school_year_all_course_enrollments_list = []
 
     for file_path in list_of_file_paths:
@@ -202,6 +207,7 @@ def get_course_enrollment_history_for_all_courses(list_of_file_paths: list[str])
         for course_enrollment in school_year.list_of_course_enrollments:
             if course_enrollment.course not in course_enrollment_history_for_all_courses_dict:
                 course_enrollment_history_for_all_courses_dict[course_enrollment.course] = []
+
             course_enrollment_history_for_all_courses_dict[course_enrollment.course].append(
                 course_enrollment
             )

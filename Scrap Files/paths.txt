@@ -1,0 +1,13 @@
+['mdc_1516_en_supp.xlsx', 'mdc_1617_en_supp.xlsx', 'mdc_enrol_1112_en_supp_2.txt', 'mdc_enrol_1112_en_supp_2.xlsx', 'mdc_enrol_1213_en_supp_2.txt', 'mdc_enrol_1213_en_supp_2.xlsx', 'mdc_enrol_1314_en_supp_2.txt', 'mdc_enrol_1314_en_supp_2.xlsx', 'mdc_enrol_1415_en_supp_2.txt', 'mdc_enrol_1415_en_supp_2.xlsx', 'mdc_enrol_1516_en_supp.txt', 'mdc_enrol_1617_en_supp.txt', 'mdc_enrol_1718_en_supp.txt', 'mdc_enrol_1718_en_supp_0.xlsx', 'mdc_enrol_1819_en_supp.txt', 'mdc_enrol_1819_en_supp.xlsx', 'mdc_enrol_1920_en_supp.txt', 'mdc_enrol_1920_en_supp.xlsx']
+
+
+
+
+
+
+only txt files:
+['mdc_enrol_1112_en_supp_2.txt', 'mdc_enrol_1213_en_supp_2.txt', 'mdc_enrol_1314_en_supp_2.txt', 'mdc_enrol_1415_en_supp_2.txt', 'mdc_enrol_1516_en_supp.txt', 'mdc_enrol_1617_en_supp.txt', 'mdc_enrol_1718_en_supp.txt', 'mdc_enrol_1819_en_supp.txt', 'mdc_enrol_1920_en_supp.txt']
+
+
+'C:\\Sridhar\\School\\University\\aaa Year 1 Courses\\aaa CSC110\\b Assignments\\CSC110-Course-Project\\Database Files\\Course enrolment in secondary schools\\English'
+
