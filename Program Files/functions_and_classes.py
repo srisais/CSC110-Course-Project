@@ -22,7 +22,7 @@ TODO: Fix line lengths and other PEP8 formatting issues
 
 TODO: Fix line lengths and other PEP8 formatting issues
 TODO: make a function that gets all of the txt files from a given folder path
-TODO: add a search function for courses? (based on the course in Course.MASTER_COURSE_OBJECT_LIST
+TODO: add a search function for courses? (based on the course in Course.MASTER_COURSE_OBJECT_LIST)
 """
 
 
