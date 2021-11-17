@@ -10,27 +10,20 @@ enabling the data to be easily manipulate and analyzed.
 NOTES:
     - "enrollment" vs "enrolment"
       I will be spelling the word "enrollment" (with 2 'l's).
-    - These classes are implemented as dataclasses as
-      checking for equality will check their attributes,
-      rather than their memory id.
-      (I didn't want to mess with the __eq__ magic method)
-      (I also didn't want to use the vars function, as I would need to
-      remember to use it each time while checking object equality)
-      (Unfortunately, this makes them unhashable)
 
 TODO: add __str__ magic methods to the classes so debugging is much easier
       (have __str__ show all the object attributes or something)
 TODO: Fix line lengths and other PEP8 formatting issues
 """
-from dataclasses import dataclass
 
-@dataclass
+
 class Course:
     """This class regarding the datatype that represents the data
     for an Ontario Secondary School Course
 
     This class includes relevant methods for using Course objects.
     """
+
     def __init__(self, code: str, title: str, grade_or_level: str, pathway_or_destination: str) -> None:
         """Creates a Course object
 
@@ -41,6 +34,12 @@ class Course:
                        pathway_or_destination="College Delivered (Dual Credits)")
         """
 
+        # Check if the object for the course has already been made
+        # If it has, then have this new instance be an alias the one already made.
+        for co in MASTER_COURSE_OBJECTS_LIST:
+            if vars(self) == vars(co):
+                return
+
         self.code = code
         self.title = title  # sometimes referred to course_description
         self.grade_or_level = grade_or_level  # Ex: "Grade 9" or "Level 2"
@@ -50,7 +49,24 @@ class Course:
         """Returns a string summarizing the object's contents"""
         return f"{self.code}: {self.title} - {self.grade_or_level} ({self.pathway_or_destination})"
 
-@dataclass
+    @classmethod
+    def get_master_course_objects_list(cls, file_paths: list[str]) -> list[Course]:
+        """Returns a master list of Course objects.
+        This master list contains 1 Course object per course.
+        This is used to prevent creating duplicate Course objects where their
+        attributes are the same, but their identities are not.
+
+        (This is used rather than changing these classes to dataclasses as
+        hashing objects is not allowed with dataclass objects)
+        """
+        master_list = []
+
+        for file in file_paths:
+            cur_school_year_course_enrollments = get_school_year_all_course_enrollments(file)
+            # TODO: check all of the years, if there is no duplicate course in the master list, add it (compare using vars)
+            # TODO: finish
+
+
 class CourseEnrollment:
     """A class regarding the data type that represents the data for
     a specific Course object and the number of students enrolled
@@ -83,7 +99,6 @@ class CourseEnrollment:
         return self.course.__str__() + f" ||| [{self.school_year_str}]: {self.num_enrollments} enrollments"
 
 
-@dataclass
 class SchoolYearAllCourseEnrollments:
     """A class regarding the data type that represents a specific school year
     and all of the courses offered in that school year
@@ -124,7 +139,6 @@ class SchoolYearAllCourseEnrollments:
         )
 
 
-@dataclass
 class CourseEnrollmentHistory:
     """A class regarding the data type that represents the same course and
     its enrolment data over a number of school years
