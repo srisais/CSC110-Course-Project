@@ -22,6 +22,7 @@ TODO: add a search function for courses? (based on the courses in Course.master_
 TODO: Figure out how pathlib.Path works, and change the functions so that they work using these paths.
     This should allow cross-platform compatability with ease.
     https://docs.python.org/3/library/pathlib.html
+TODO: Write representation invariants as Python code
 """
 from pathlib import Path
 
