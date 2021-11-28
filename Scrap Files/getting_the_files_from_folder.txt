@@ -1,0 +1,4 @@
+from os import listdir
+a = 'C:\\Sridhar\\School\\University\\aaa Year 1 Courses\\aaa CSC110\\b Assignments\\CSC110-Course-Project\\Database Files\\Course enrolment in secondary schools\\English\\'
+b = listdir(a)
+c = [a + asdf for asdf in b if asdf[-4:] == ".txt"]

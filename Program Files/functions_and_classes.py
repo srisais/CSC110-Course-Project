@@ -16,15 +16,14 @@ NOTES:
     - "enrollment" vs "enrolment"
       I will be spelling the word "enrollment" (with 2 'l's).
 
-TODO: add __str__ magic methods to the classes so debugging is much easier
-      (have __str__ show all the object attributes or something)
-TODO: Fix line lengths and other PEP8 formatting issues
-
 TODO: Fix line lengths and other PEP8 formatting issues
 TODO: make a function that gets all of the txt files from a given folder path
-TODO: add a search function for courses? (based on the course in Course.MASTER_COURSE_OBJECT_LIST)
+TODO: add a search function for courses? (based on the courses in Course.master_course_object_list)
+TODO: Figure out how pathlib.Path works, and change the functions so that they work using these paths.
+    This should allow cross-platform compatability with ease.
+    https://docs.python.org/3/library/pathlib.html
 """
-
+from pathlib import Path
 
 ###############################################################################
 # Classes
@@ -33,20 +32,42 @@ class Course:
     """This class regarding the datatype that represents the data
     for an Ontario Secondary School Course
 
+    *** IMPORTANT ***
+    Course.get_course_object should be used when "creating" a new Course object.
+    This is to prevent creating multiple <Course> objects for the same course.
+
     This class includes relevant methods for using Course objects.
+
+    Class Attributes:
+        - master_course_object_list: A master list of all <Course> objects.
+            This is to prevent creating duplicate <Course> objects that are
+            essentially equal. Using this list and the proper class method
+            to create <Course> objects, aliases can be created to make checking
+            for equality betweeen two courses easier.
+
+    Instance Attributes:
+        - code: The course code given by the Ministry of Education.
+        - title: The course title given by the Minstry of Education.
+        - grade_or_level: The grade/level of the given course.
+        - pathway_or_destination: The suggestd pathway/destination the student
+            should be striving for if they take this course.
+
+    >>> # Example Course object
+    >>> c = Course(code="TKQ4T",\
+                   title="Healthy Cooking Made Easy",\
+                   grade_or_level="Grade 12",\
+                   pathway_or_destination="College Delivered (Dual Credits)")
+    >>> # NOTE: use get_course_object to create a Course object (to reduce redundant Course objects)
     """
-    MASTER_COURSE_OBJECT_LIST = []
+    master_course_object_list: list["Course"] = []
+
+    code: str
+    title: str
+    grade_or_level: str
+    pathway_or_destination: str
 
     def __init__(self, code: str, title: str, grade_or_level: str, pathway_or_destination: str) -> None:
-        """Creates a Course object
-
-        >>> # Example Course object
-        >>> c = Course(code="TKQ4T",\
-                       title="Healthy Cooking Made Easy",\
-                       grade_or_level="Grade 12",\
-                       pathway_or_destination="College Delivered (Dual Credits)")
-        >>> # NOTE: use get_course_object to create a Course object (to reduce redundant Course objects)
-        """
+        """Initializes a Course object with the given inputs."""
         self.code = code
         self.title = title  # sometimes referred to course_description
         self.grade_or_level = grade_or_level  # Ex: "Grade 9" or "Level 2"
@@ -59,15 +80,20 @@ class Course:
     @classmethod
     def get_course_object(cls, *args) -> "Course":  # -> Course:
         """Returns a Course object, making a new one only if the course
-        is not in Course.MASTER_COURSE_OBJECT_LIST"""
+        is not in Course.MASTER_COURSE_OBJECT_LIST
+        """
         temp_obj = Course(*args)
 
-        for co in cls.MASTER_COURSE_OBJECT_LIST:
+        for co in cls.master_course_object_list:
             if vars(co) == vars(temp_obj):
                 return co
         else:
-            Course.MASTER_COURSE_OBJECT_LIST.append(temp_obj)
+            Course.master_course_object_list.append(temp_obj)
             return temp_obj
+
+        # This will delete temp_obj's object if it's address
+        # has not been returned.
+
 
 class CourseEnrollment:
     """A class regarding the data type that represents the data for
@@ -75,19 +101,38 @@ class CourseEnrollment:
     in that course for a specific school year.
 
     This class includes relevant methods for using CourseEnrollment objects.
+
+    Instance Attributes:
+        - course: A <Course> object.
+        - num_enrollments: The number of enrollments for <course>
+            in this school year.
+        - start_year: The start year of the school year (ex: 2005)
+        - end_year: The end year of the school year (ex: 2006)
+        - school_year_str: A string representation of the school year
+            (ex: "2005 - 2006")
+
+    Representation Invariants:
+        - start_year + 1 == end_year
+        - num_enrollments >= 0
+
+    >>> c = Course.get_course_object(\
+        code="TKQ4T",\
+        title="Healthy Cooking Made Easy",\
+        grade_or_level="Grade 12",\
+        pathway_or_destination="College Delivered (Dual Credits)"\
+    )
+    >>> # Example CourseEnrollment object
+    >>> d = CourseEnrollment(course=c, num_enrollments=11, start_year=2011, end_year=2012)
     """
+    course: Course
+    num_enrollments: int
+    start_year: int
+    end_year: int
+    school_year_str: str
 
     def __init__(self, course: Course, num_enrollments: int, start_year: int, end_year: int) -> None:
-        """Creates a CourseEnrollment object.
-
-        >>> c = Course.get_course_object(\
-            code="TKQ4T",\
-            title="Healthy Cooking Made Easy",\
-            grade_or_level="Grade 12",\
-            pathway_or_destination="College Delivered (Dual Credits)"\
-        )
-        >>> # Example CourseEnrollment object
-        >>> d = CourseEnrollment(course=c, num_enrollments=11, start_year=2011, end_year=2012)
+        """Initializes a CourseEnrollment object with the inputted
+        <course>, <num_enrollments>, <start_year>, and <end_year> objects.
         """
         self.course = course
         self.num_enrollments = num_enrollments
@@ -110,32 +155,49 @@ class SchoolYearAllCourseEnrollments:
     with their enrollment numbers
 
     This class includes relevant methods for using SchoolYearAllCourseEnrollments objects.
+
+    Instance Attributes:
+        - start_year: The start year of the school year (ex: 2005)
+        - end_year: The end year of the school year (ex: 2006)
+        - school_year_str: A string representation of the school year
+            (ex: "2005 - 2006")
+        - list_of_course_enrollments: A list of all <CourseEnrollment> objects
+            for all the courses taken in the current school year with
+            start year of <start_year> and end year of <end_year>.
+
+    Representation Invariants:
+        - start_year + 1 == end_year
+
+    >>> c1 = Course.get_course_object(\
+        code="TKQ4T",\
+        title="Healthy Cooking Made Easy",\
+        grade_or_level="Grade 12",\
+        pathway_or_destination="College Delivered (Dual Credits)"\
+    )
+    >>> d1 = CourseEnrollment(course=c1, num_enrollments=11, start_year=2011, end_year=2012)
+    >>> c2 = Course.get_course_object(\
+        code="MCV4U",\
+        title="Calculus and Vectors",\
+        grade_or_level="Grade 12",\
+        pathway_or_destination=\
+        "University Preparation (Grade 11 & 12 level)"\
+    )
+    >>> d2 = CourseEnrollment(course=c2, num_enrollments=38630, start_year=2011, end_year=2012)
+    >>> # Example SchoolYearCourseEnrollments object
+    >>> s = SchoolYearAllCourseEnrollments(start_year=2012,\
+                              end_year=2013,\
+                              list_of_course_enrollments=[d1, d2])
+    >>> # This is example list for list_of_courses with only 2 elements.
+    >>> # A typical list of list_of_courses will have ~1500 elements.
     """
+    start_year: int
+    end_year: int
+    school_year_str: str
+    list_of_course_enrollments: list[CourseEnrollment]
 
     def __init__(self, start_year: int, end_year: int, list_of_course_enrollments: list[CourseEnrollment]) -> None:
-        """Creates a SchoolYearCourseEnrollments object
-
-        >>> c1 = Course.get_course_object(\
-            code="TKQ4T",\
-            title="Healthy Cooking Made Easy",\
-            grade_or_level="Grade 12",\
-            pathway_or_destination="College Delivered (Dual Credits)"\
-        )
-        >>> d1 = CourseEnrollment(course=c1, num_enrollments=11, start_year=2011, end_year=2012)
-        >>> c2 = Course.get_course_object(\
-            code="MCV4U",\
-            title="Calculus and Vectors",\
-            grade_or_level="Grade 12",\
-            pathway_or_destination=\
-            "University Preparation (Grade 11 & 12 level)"\
-        )
-        >>> d2 = CourseEnrollment(course=c2, num_enrollments=38630, start_year=2011, end_year=2012)
-        >>> # Example SchoolYearCourseEnrollments object
-        >>> s = SchoolYearAllCourseEnrollments(start_year=2012,\
-                                  end_year=2013,\
-                                  list_of_course_enrollments=[d1, d2])
-        >>> # This is example list for list_of_courses with only 2 elements.
-        >>> # A typical list of list_of_courses will have ~1500 elements.
+        """Initializes a SchoolYearCourseEnrollments object with the inputted
+        <start_year>, <end_year>, and <list_of_course_enrollments>.
         """
         self.start_year = start_year
         self.end_year = end_year
@@ -154,28 +216,36 @@ class CourseEnrollmentHistory:
     its enrolment data over a number of school years
 
     This class includes methods for utilizing CourseEnrollmentHistory objects.
+
+    Instance Attributes:
+        - course: A course object.
+        - course_enrollment_list: A list of <CourseEnrollment> objects for
+            <course>.
+
+    Representation Invariants:
+        - None of the CourseEnrollment objects in the list have the same school year
+        - All of the CourseEnrollment objects in the list are of the same course
+
+    >>> c = Course.get_course_object(\
+        code="MCV4U",\
+        title="Calculus and Vectors",\
+        grade_or_level="Grade 12",\
+        pathway_or_destination=\
+        "University Preparation (Grade 11 & 12 level)"\
+    )
+    >>> d1 = CourseEnrollment(course=c, num_enrollments=38630, start_year=2012, end_year=2013)
+    >>> d2 = CourseEnrollment(course=c, num_enrollments=38630, start_year=2011, end_year=2012)
+    >>> # Example CourseEnrollmentHistory object
+    >>> ceh = CourseEnrollmentHistory(c, [d1, d2])
+    >>> # This list only has 2 CourseEnrollment objects;
+    >>> # Typically, this list would have ~10 objects.
     """
+    course: Course
+    course_enrollment_list: list[CourseEnrollment]
 
     def __init__(self, course: Course, course_enrollment_list: list[CourseEnrollment]) -> None:
-        """Creates a CourseEnrollmentHistory object
-
-        Preconditions:
-            - None of the CourseEnrollment objects in the list have the same school year
-            - All of the CourseEnrollment objects in the list are of the same course
-
-        >>> c = Course.get_course_object(\
-            code="MCV4U",\
-            title="Calculus and Vectors",\
-            grade_or_level="Grade 12",\
-            pathway_or_destination=\
-            "University Preparation (Grade 11 & 12 level)"\
-        )
-        >>> d1 = CourseEnrollment(course=c, num_enrollments=38630, start_year=2012, end_year=2013)
-        >>> d2 = CourseEnrollment(course=c, num_enrollments=38630, start_year=2011, end_year=2012)
-        >>> # Example CourseEnrollmentHistory object
-        >>> ceh = CourseEnrollmentHistory(c, [d1, d2])
-        >>> # This list only has 2 CourseEnrollment objects;
-        >>> # Typically, this list would have ~10 objects.
+        """Initializes a CourseEnrollmentHistory object,
+        with the inputted <course> and <course_enrollment_list> objects.
         """
         self.course = course
         self.year_str_to_course_enrollment = {
@@ -339,12 +409,13 @@ def get_school_year_all_course_enrollments(file_path: str) -> SchoolYearAllCours
 
     for course in text_file_list:
         cur_course = Course.get_course_object(
-            *course[0:4]  # The * unpacks the list
+            *course[0:4]  # The * unpacks the list splice
         )
 
         cur_course_enrollment = CourseEnrollment(
-            cur_course, course[4], start_year, end_year
+            cur_course, int(course[4]), start_year, end_year
             # I'm not sure why Pycharm thinks course[4] is a str, rather than an int
+            # I've just wrapped it in int() for redundancy...
         )
 
         course_enrollment_list.append(
@@ -394,5 +465,25 @@ def get_course_enrollment_history_for_all_courses(list_of_file_paths: list[str])
         )
 
     return course_enrollment_history_for_all_courses_list
+
+
+def get_list_of_txt_file_paths_in_folder(folder_path: str) -> list[str]:
+    """Returns a list of file paths to all .txt files within a given folder"""
+    # I'm gonn
+    pass
+
+    # folder_contents = os.listdir(folder_path)
+    # text_files = []
+    #
+    # for item in folder_contents:
+    #     if item[-4:] == ".txt":
+    #         text_files.append(item)
+
+# def get_input_directory(type_of_path: str, path: str) -> Path:
+#     """idk
+#     type_of_path = "Windows" or "Unix" or something like that...
+#
+#
+#     """
 
 
