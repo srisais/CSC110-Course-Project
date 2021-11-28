@@ -23,6 +23,7 @@ TODO: Figure out how pathlib.Path works, and change the functions so that they w
     This should allow cross-platform compatability with ease.
     https://docs.python.org/3/library/pathlib.html
 TODO: Write representation invariants as Python code
+TODO: __future__ annotations
 """
 from pathlib import Path
 
