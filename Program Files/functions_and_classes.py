@@ -17,15 +17,13 @@ NOTES:
       I will be spelling the word "enrollment" (with 2 'l's).
 
 TODO: Fix line lengths and other PEP8 formatting issues
-TODO: make a function that gets all of the txt files from a given folder path
 TODO: add a search function for courses? (based on the courses in Course.master_course_object_list)
-TODO: Figure out how pathlib.Path works, and change the functions so that they work using these paths.
-    This should allow cross-platform compatability with ease.
-    https://docs.python.org/3/library/pathlib.html
+
 TODO: Write representation invariants as Python code
-TODO: __future__ annotations
 """
-from pathlib import Path
+from __future__ import annotations
+from os import listdir
+
 
 ###############################################################################
 # Classes
@@ -61,7 +59,7 @@ class Course:
                    pathway_or_destination="College Delivered (Dual Credits)")
     >>> # NOTE: use get_course_object to create a Course object (to reduce redundant Course objects)
     """
-    master_course_object_list: list["Course"] = []
+    master_course_object_list: list[Course] = []
 
     code: str
     title: str
@@ -69,7 +67,12 @@ class Course:
     pathway_or_destination: str
 
     def __init__(self, code: str, title: str, grade_or_level: str, pathway_or_destination: str) -> None:
-        """Initializes a Course object with the given inputs."""
+        """Initializes a Course object with the given inputs.
+
+        *** IMPORTANT ***
+        Course.get_course_object should be used when "creating" a new Course object.
+        This is to prevent creating multiple <Course> objects for the same course.
+        """
         self.code = code
         self.title = title  # sometimes referred to course_description
         self.grade_or_level = grade_or_level  # Ex: "Grade 9" or "Level 2"
@@ -80,11 +83,13 @@ class Course:
         return f"{self.code}: {self.title} - {self.grade_or_level} ({self.pathway_or_destination})"
 
     @classmethod
-    def get_course_object(cls, *args) -> "Course":  # -> Course:
+    def get_course_object(cls, code: str, title: str, grade_or_level: str, pathway_or_destination: str) -> Course:
         """Returns a Course object, making a new one only if the course
         is not in Course.MASTER_COURSE_OBJECT_LIST
         """
-        temp_obj = Course(*args)
+        temp_obj = Course(
+            code, title, grade_or_level, pathway_or_destination
+        )
 
         for co in cls.master_course_object_list:
             if vars(co) == vars(temp_obj):
@@ -290,8 +295,8 @@ def get_text_file(file_path: str) -> list[str]:
 def split_line_into_list(line: str, delimiter: str = "|") -> list[str]:
     """Splits a line from the .txt file into a list of string elements
 
-    >>> line = "ATC1O|Dance|Grade 9|Open (Grade 9 - 12 level)|3508"
-    >>> split_line_into_list(line)
+    >>> l = "ATC1O|Dance|Grade 9|Open (Grade 9 - 12 level)|3508"
+    >>> split_line_into_list(l)
     ['ATC1O', 'Dance', 'Grade 9', 'Open (Grade 9 - 12 level)', '3508']
     """
 
@@ -320,7 +325,7 @@ def format_line_list_elements(line_list: list[str]) -> \
     num_enrollments = num_enrollments.replace(',', '')
 
     for i in range(len(num_enrollments)):
-        if num_enrollments[i] == "<":
+        if num_enrollments[i] == '<':
             num_enrollments = num_enrollments[0:i] + num_enrollments[i + 1:]
             # I probably don't need the num_enrollments[0:i], but
             # just in case something comes before '<' in the string...
@@ -391,8 +396,8 @@ def get_school_year_all_course_enrollments(file_path: str) -> SchoolYearAllCours
     and formats it and returns a SchoolYearAllCourseEnrollments
     for that text file's respective year
 
-    TODO: Add doctests for this function
-    >>>
+    Preconditions:
+         - file_path[-4:] == ".txt"
     """
 
     text_file_lines = get_text_file(file_path)[1:]  # Excluding the first line (of table headers)
@@ -434,9 +439,9 @@ def get_school_year_all_course_enrollments(file_path: str) -> SchoolYearAllCours
 def get_course_enrollment_history_for_all_courses(list_of_file_paths: list[str]) -> list[CourseEnrollmentHistory]:
     """Returns a massive list of CourseEnrollmentHistory objects, one per course
 
-    TODO: test this function? or add doctests... ? see if it works properly, somehow
+    Preconditions:
+        - file[-4:] == ".txt" for file in list_of_file_paths
     """
-
     course_enrollment_history_for_all_courses_list = []
     course_enrollment_history_for_all_courses_dict = {}
 
@@ -470,22 +475,21 @@ def get_course_enrollment_history_for_all_courses(list_of_file_paths: list[str])
 
 
 def get_list_of_txt_file_paths_in_folder(folder_path: str) -> list[str]:
-    """Returns a list of file paths to all .txt files within a given folder"""
-    # I'm gonn
-    pass
+    """Returns a list of file paths to all .txt files within a given folder
 
-    # folder_contents = os.listdir(folder_path)
-    # text_files = []
-    #
-    # for item in folder_contents:
-    #     if item[-4:] == ".txt":
-    #         text_files.append(item)
+    Preconditions:
+        - file_system_type in {"Windows", "Unix"}
+        - folder_path[-1] in {'/', '\\'}
+    """
+    folder_contents = listdir(folder_path)
+    text_files = []
 
-# def get_input_directory(type_of_path: str, path: str) -> Path:
-#     """idk
-#     type_of_path = "Windows" or "Unix" or something like that...
-#
-#
-#     """
+    for item in folder_contents:
+        if item[-4:] == ".txt":
+            text_files.append(item)
 
+    for i in range(len(text_files)):
+        text_files[i] = folder_path + text_files[i]
+
+    return text_files
 
