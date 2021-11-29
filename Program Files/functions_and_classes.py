@@ -18,8 +18,6 @@ NOTES:
 
 TODO: Fix line lengths and other PEP8 formatting issues
 TODO: add a search function for courses? (based on the courses in Course.master_course_object_list)
-
-TODO: Write representation invariants as Python code
 """
 from __future__ import annotations
 from os import listdir
@@ -230,8 +228,16 @@ class CourseEnrollmentHistory:
             <course>.
 
     Representation Invariants:
-        - None of the CourseEnrollment objects in the list have the same school year
-        - All of the CourseEnrollment objects in the list are of the same course
+        - # None of the CourseEnrollment objects in the list have the same school year
+        - all(ce1.school_year_str != ce2.school_year_str
+          for c1 in self.course_enrollment_list
+          for c2 in self.course_enrollment_list
+          if c1 != c2)
+        - # All of the CourseEnrollment objects in the list are of the same course
+        - all(ce1.course == ce2.course
+          for c1 in self.course_enrollment_list
+          for c2 in self.course_enrollment_list
+          if c1 != c2)
 
     >>> c = Course.get_course_object(\
         code="MCV4U",\
@@ -276,7 +282,7 @@ def get_text_file(file_path: str) -> list[str]:
     when given the input string file_path
 
     Preconditions:
-        - file_path is a global file path to a .txt file that can be accessed
+        - # file_path is a global file path to a .txt file that can be accessed
         - file_path[-4:] == ".txt"
     """
     file_lines = []
@@ -298,6 +304,9 @@ def split_line_into_list(line: str, delimiter: str = "|") -> list[str]:
     >>> l = "ATC1O|Dance|Grade 9|Open (Grade 9 - 12 level)|3508"
     >>> split_line_into_list(l)
     ['ATC1O', 'Dance', 'Grade 9', 'Open (Grade 9 - 12 level)', '3508']
+
+    Preconditions:
+        - # <line> is of valid format, as the docstrings example shows.
     """
 
     line = line.strip()
@@ -309,6 +318,9 @@ def format_line_list_elements(line_list: list[str]) -> \
     """Converts the elements of a list -- formatted like to the output
     of split_line_into_list -- to the required elements.
     (Does not mutate the original list)
+
+    Preconditions:
+        - # list_list is of proper format, just like the output from split_line_into_list
 
     >>> line_1 = "ATC1O|Dance|Grade 9|Open (Grade 9 - 12 level)|3508"
     >>> line_1_list = split_line_into_list(line_1)
@@ -360,9 +372,8 @@ def get_school_year_from_file_path(file_path: str) -> tuple[int, int]:
     current text file using the file path
 
     Preconditions:
-    - The file name is preceeded either by '/' or '\'
-    - The file title beginning follows the following format:
-        f"mdc_enrol_{XXYY}"
+    - # The file name is preceeded either by '/' or '\'
+    - # The file title beginning follows the following format: f"mdc_enrol_{XXYY}"
 
     >>> get_school_year_from_file_path("mdc_enrol_1314_en_supp_2")
     (2013, 2014)
@@ -375,6 +386,7 @@ def get_school_year_from_file_path(file_path: str) -> tuple[int, int]:
     """
     # Example file title: "mdc_enrol_1314_en_supp_2"
     text_file_title = ""
+    # Not sure why PyCharm thinkgs text_file_title is not being used...
     for i in range(-1, -len(file_path) - 1, -1):  # Goes from last to first char
         if file_path[i] == '\\' or file_path[i] == '/':
             # Remember, i is a negative index
@@ -385,6 +397,7 @@ def get_school_year_from_file_path(file_path: str) -> tuple[int, int]:
 
     default_century = 2000
     year_nums = text_file_title[10:14]  # Ex: "1213"
+    # The beginning length is fixed as 10 as it always starts with "mdc_enrol"
     start_year = default_century + int(year_nums[0:2])
     end_year = default_century + int(year_nums[2:])
 
@@ -440,7 +453,7 @@ def get_course_enrollment_history_for_all_courses(list_of_file_paths: list[str])
     """Returns a massive list of CourseEnrollmentHistory objects, one per course
 
     Preconditions:
-        - file[-4:] == ".txt" for file in list_of_file_paths
+        - all(file[-4:] == ".txt" for file in list_of_file_paths)
     """
     course_enrollment_history_for_all_courses_list = []
     course_enrollment_history_for_all_courses_dict = {}
