@@ -450,7 +450,9 @@ def get_school_year_all_course_enrollments(file_path: str) -> SchoolYearAllCours
 
 
 def get_course_enrollment_history_for_all_courses(list_of_file_paths: list[str]) -> list[CourseEnrollmentHistory]:
-    """Returns a massive list of CourseEnrollmentHistory objects, one per course
+    """Returns a massive list of CourseEnrollmentHistory objects, one per course.
+    <list_of_file_paths> is a list of .txt file paths where each text file is
+    the data for a specific year.
 
     Preconditions:
         - all(file[-4:] == ".txt" for file in list_of_file_paths)
@@ -505,4 +507,19 @@ def get_list_of_txt_file_paths_in_folder(folder_path: str) -> list[str]:
         text_files[i] = folder_path + text_files[i]
 
     return text_files
+
+
+def get_course_enrollment_history_for_all_courses_in_folder(folder_path: str) -> list[CourseEnrollmentHistory]:
+    """Takes a string path <folder_path> and returns a list of
+    <CourseEnrollmentHistory> objects.
+
+    This function essentially <get_course_enrollment_history_for_all_courses_in_folder>,
+    with it's input being <get_list_of_txt_file_paths_in_folder(folder_path)>
+    """
+
+    return get_course_enrollment_history_for_all_courses(
+        get_list_of_txt_file_paths_in_folder(folder_path)
+    )
+
+
 
