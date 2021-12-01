@@ -18,10 +18,7 @@ NOTES:
 
 TODO: Fix line lengths and other PEP8 formatting issues
 TODO: add a search function for courses? (based on the courses in Course.master_course_object_list)
-TODO: Organize the functions and classes?
-    how should the functions for the interface be organized?
-    Should they also be in functions_and_classes? or should there be a new file for the statistical analysis and other functions?
-    Or...
+TODO: Make custom exception classes for Course Title Not Found and Course Code Not Found
 """
 from __future__ import annotations
 from os import listdir
@@ -563,6 +560,169 @@ def get_course_enrollment_history_given_course_code(all_courses_enrollment_histo
             return course
     else:
         raise Exception("Course Code Not Found")
+
+
+def get_course_enrollment_history_given_course_title(all_courses_enrollment_history: list[CourseEnrollmentHistory], course_title: str) -> CourseEnrollmentHistory:
+    """Returns a <CourseEnrollmentHistory> object that matches the course code of <course_code>
+
+    >>> c = Course.get_course_object(\
+        code="MCV4U",\
+        title="Calculus and Vectors",\
+        grade_or_level="Grade 12",\
+        pathway_or_destination=\
+        "University Preparation (Grade 11 & 12 level)"\
+    )
+    >>> d1 = CourseEnrollment(course=c, num_enrollments=38630, start_year=2012, end_year=2013)
+    >>> d2 = CourseEnrollment(course=c, num_enrollments=38630, start_year=2011, end_year=2012)
+    >>> ceh = CourseEnrollmentHistory(c, [d1, d2])
+    >>> c = Course.get_course_object(\
+        code="MHF4U",\
+        title="Advanced Functions",\
+        grade_or_level="Grade 12",\
+        pathway_or_destination=\
+        "University Preparation (Grade 11 & 12 level)"\
+    )
+    >>> d1 = CourseEnrollment(course=c, num_enrollments=3333, start_year=2012, end_year=2013)
+    >>> d2 = CourseEnrollment(course=c, num_enrollments=3334, start_year=2011, end_year=2012)
+    >>> ceh_2 = CourseEnrollmentHistory(c, [d1, d2])
+    >>> cur_e_h = get_course_enrollment_history_given_course_title(\
+            [ceh, ceh_2], "Calculus and Vectors"\
+        )
+    >>> cur_e_h == ceh
+    True
+    >>> cur_e_h == ceh_2
+    False
+    """
+    for course in all_courses_enrollment_history:
+        if course.course.title == course_title:
+            return course
+    else:
+        raise Exception("Course Title Not Found")
+
+
+def search_for_course_enrollment_history_given_course_code(all_courses_enrollment_history: list[CourseEnrollmentHistory], course_code: str) -> list[CourseEnrollmentHistory]:
+    """Returns a <CourseEnrollmentHistory> object that matches the course code of <course_code>
+
+    >>> c = Course.get_course_object(\
+        code="MCV4U",\
+        title="Calculus and Vectors",\
+        grade_or_level="Grade 12",\
+        pathway_or_destination=\
+        "University Preparation (Grade 11 & 12 level)"\
+    )
+    >>> d1 = CourseEnrollment(course=c, num_enrollments=38630, start_year=2012, end_year=2013)
+    >>> d2 = CourseEnrollment(course=c, num_enrollments=38630, start_year=2011, end_year=2012)
+    >>> ceh = CourseEnrollmentHistory(c, [d1, d2])
+    >>> c = Course.get_course_object(\
+        code="MHF4U",\
+        title="Advanced Functions",\
+        grade_or_level="Grade 12",\
+        pathway_or_destination=\
+        "University Preparation (Grade 11 & 12 level)"\
+    )
+    >>> d1 = CourseEnrollment(course=c, num_enrollments=3333, start_year=2012, end_year=2013)
+    >>> d2 = CourseEnrollment(course=c, num_enrollments=3334, start_year=2011, end_year=2012)
+    >>> ceh_2 = CourseEnrollmentHistory(c, [d1, d2])
+    >>> searches = search_for_course_enrollment_history_given_course_code(\
+            [ceh, ceh_2], "M"\
+        )
+    >>> ceh in searches
+    True
+    >>> ceh_2 in searches
+    True
+    >>> searches_2 = search_for_course_enrollment_history_given_course_code(\
+            [ceh, ceh_2], "MCV"\
+        )
+    >>> ceh in searches_2
+    True
+    >>> ceh_2 in searches_2
+    False
+    """
+    possible_courses = []
+
+    for course in all_courses_enrollment_history:
+        if deep_sanitize_text(course_code) in deep_sanitize_text(course.course.code):
+            possible_courses.append(course)
+
+    return possible_courses
+
+
+def search_for_course_enrollment_history_given_course_title(all_courses_enrollment_history: list[CourseEnrollmentHistory], course_title: str) -> list[CourseEnrollmentHistory]:
+    """Returns a <CourseEnrollmentHistory> object that matches the course code of <course_title>
+
+    >>> c = Course.get_course_object(\
+        code="MCV4U",\
+        title="Calculus and Vectors",\
+        grade_or_level="Grade 12",\
+        pathway_or_destination=\
+        "University Preparation (Grade 11 & 12 level)"\
+    )
+    >>> d1 = CourseEnrollment(course=c, num_enrollments=38630, start_year=2012, end_year=2013)
+    >>> d2 = CourseEnrollment(course=c, num_enrollments=38630, start_year=2011, end_year=2012)
+    >>> ceh = CourseEnrollmentHistory(c, [d1, d2])
+    >>> c = Course.get_course_object(\
+        code="MHF4U",\
+        title="Advanced Functions",\
+        grade_or_level="Grade 12",\
+        pathway_or_destination=\
+        "University Preparation (Grade 11 & 12 level)"\
+    )
+    >>> d1 = CourseEnrollment(course=c, num_enrollments=3333, start_year=2012, end_year=2013)
+    >>> d2 = CourseEnrollment(course=c, num_enrollments=3334, start_year=2011, end_year=2012)
+    >>> ceh_2 = CourseEnrollmentHistory(c, [d1, d2])
+    >>> searches = search_for_course_enrollment_history_given_course_title(\
+            [ceh, ceh_2], "C"\
+        )
+    >>> ceh in searches
+    True
+    >>> ceh_2 in searches
+    True
+    >>> searches_2 = search_for_course_enrollment_history_given_course_title(\
+            [ceh, ceh_2], "calcu"\
+        )
+    >>> ceh in searches_2
+    True
+    >>> ceh_2 in searches_2
+    False
+    """
+    possible_courses = []
+
+    for course in all_courses_enrollment_history:
+        if deep_sanitize_text(course_title) in deep_sanitize_text(course.course.title):
+            possible_courses.append(course)
+
+    return possible_courses
+
+
+def deep_sanitize_text(text: str) -> str:
+    """Deeply sanitizes <text> according to the following steps:
+    - removes all whitespace characters
+    - makes all characters lowercase
+    - removes any non-alphanumeric characters
+
+    >>> deep_sanitize_text("u LIKE peenuts????  ")
+    'ulikepeenuts'
+    >>> deep_sanitize_text("MCV4U")
+    'mcv4u'
+    >>> deep_sanitize_text("Calculus and Vectors")
+    'calculusandvectors'
+    >>> deep_sanitize_text("Calculus an")
+    'calculusan'
+    """
+    # Makes <text> lowercase
+    text = text.lower()
+
+    # This loop should remove all non-alphanumeric characters
+    # (this also means that it should remove all whitespace characters)
+    i = 0
+    while i <= len(text) - 1:
+        if text[i].isalnum():
+            i += 1
+        else:
+            text = text[:i] + text[i + 1:]
+
+    return text
+
 
 ###############################################################################
 # Statistical Analysis
