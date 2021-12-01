@@ -18,6 +18,10 @@ NOTES:
 
 TODO: Fix line lengths and other PEP8 formatting issues
 TODO: add a search function for courses? (based on the courses in Course.master_course_object_list)
+TODO: Organize the functions and classes?
+    how should the functions for the interface be organized?
+    Should they also be in functions_and_classes? or should there be a new file for the statistical analysis and other functions?
+    Or...
 """
 from __future__ import annotations
 from os import listdir
@@ -224,7 +228,7 @@ class CourseEnrollmentHistory:
 
     Instance Attributes:
         - course: A course object.
-        - course_enrollment_list: A list of <CourseEnrollment> objects for
+        - year_str_to_course_enrollment: A list of <CourseEnrollment> objects for
             <course>.
 
     Representation Invariants:
@@ -254,7 +258,7 @@ class CourseEnrollmentHistory:
     >>> # Typically, this list would have ~10 objects.
     """
     course: Course
-    course_enrollment_list: list[CourseEnrollment]
+    year_str_to_course_enrollment: dict[str, CourseEnrollment]
 
     def __init__(self, course: Course, course_enrollment_list: list[CourseEnrollment]) -> None:
         """Initializes a CourseEnrollmentHistory object,
@@ -297,7 +301,6 @@ def get_text_file(file_path: str) -> list[str]:
 ###############################################################################
 # Text File Data Extraction
 ###############################################################################
-
 def split_line_into_list(line: str, delimiter: str = "|") -> list[str]:
     """Splits a line from the .txt file into a list of string elements
 
@@ -313,8 +316,7 @@ def split_line_into_list(line: str, delimiter: str = "|") -> list[str]:
     return line.split(delimiter)
 
 
-def format_line_list_elements(line_list: list[str]) -> \
-        list[str, str, str, str, int]:
+def format_line_list_elements(line_list: list[str]) -> list[str, str, str, str, int]:
     """Converts the elements of a list -- formatted like to the output
     of split_line_into_list -- to the required elements.
     (Does not mutate the original list)
@@ -522,4 +524,51 @@ def get_course_enrollment_history_for_all_courses_in_folder(folder_path: str) ->
     )
 
 
+###############################################################################
+# Course Searching and Related
+###############################################################################
+def get_course_enrollment_history_given_course_code(all_courses_enrollment_history: list[CourseEnrollmentHistory], course_code: str) -> CourseEnrollmentHistory:
+    """Returns a <CourseEnrollmentHistory> object that matches the course code of <course_code>
 
+    >>> c = Course.get_course_object(\
+        code="MCV4U",\
+        title="Calculus and Vectors",\
+        grade_or_level="Grade 12",\
+        pathway_or_destination=\
+        "University Preparation (Grade 11 & 12 level)"\
+    )
+    >>> d1 = CourseEnrollment(course=c, num_enrollments=38630, start_year=2012, end_year=2013)
+    >>> d2 = CourseEnrollment(course=c, num_enrollments=38630, start_year=2011, end_year=2012)
+    >>> ceh = CourseEnrollmentHistory(c, [d1, d2])
+    >>> c = Course.get_course_object(\
+        code="MHF4U",\
+        title="Advanced Functions",\
+        grade_or_level="Grade 12",\
+        pathway_or_destination=\
+        "University Preparation (Grade 11 & 12 level)"\
+    )
+    >>> d1 = CourseEnrollment(course=c, num_enrollments=3333, start_year=2012, end_year=2013)
+    >>> d2 = CourseEnrollment(course=c, num_enrollments=3334, start_year=2011, end_year=2012)
+    >>> ceh_2 = CourseEnrollmentHistory(c, [d1, d2])
+    >>> cur_e_h = get_course_enrollment_history_given_course_code(\
+            [ceh, ceh_2], "MCV4U"\
+        )
+    >>> cur_e_h == ceh
+    True
+    >>> cur_e_h == ceh_2
+    False
+    """
+    for course in all_courses_enrollment_history:
+        if course.course.code == course_code:
+            return course
+    else:
+        raise Exception("Course Code Not Found")
+
+###############################################################################
+# Statistical Analysis
+###############################################################################
+
+# perhaps add a polynomial regression?
+# line of best fit?
+# What's the goal here... am I creating a function, which outputs what the predicted output will be?
+# Will the tkinter interface have graphs embedded, or will it pop out?
