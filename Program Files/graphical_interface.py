@@ -1,5 +1,6 @@
 from tkinter import *
 from tkinter import ttk
+from functions_and_classes import *
 
 root = Tk()
 ###############################################################################

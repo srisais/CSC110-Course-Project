@@ -17,11 +17,11 @@ NOTES:
       I will be spelling the word "enrollment" (with 2 'l's).
 
 TODO: Fix line lengths and other PEP8 formatting issues
-TODO: add a search function for courses? (based on the courses in Course.master_course_object_list)
-TODO: Make custom exception classes for Course Title Not Found and Course Code Not Found
 """
 from __future__ import annotations
 from os import listdir
+import matplotlib.pyplot as plt
+import numpy
 
 
 ###############################################################################
@@ -524,6 +524,22 @@ def get_course_enrollment_history_for_all_courses_in_folder(folder_path: str) ->
 ###############################################################################
 # Course Searching and Related
 ###############################################################################
+class CourseCodeNotFoundError(Exception):
+    """Exception raised when a course code could not be found."""
+
+    def __str__(self) -> str:
+        """Returns a string representation of this error."""
+        return "The course code must be a valid course code for a course."
+
+
+class CourseTitleNotFoundError(Exception):
+    """Exception raised when a course title could not be found."""
+
+    def __str__(self) -> str:
+        """Returns a string representation of this error."""
+        return "The course title must be a valid course title for a course."
+
+
 def get_course_enrollment_history_given_course_code(all_courses_enrollment_history: list[CourseEnrollmentHistory], course_code: str) -> CourseEnrollmentHistory:
     """Returns a <CourseEnrollmentHistory> object that matches the course code of <course_code>
 
@@ -559,7 +575,7 @@ def get_course_enrollment_history_given_course_code(all_courses_enrollment_histo
         if course.course.code == course_code:
             return course
     else:
-        raise Exception("Course Code Not Found")
+        raise CourseCodeNotFoundError
 
 
 def get_course_enrollment_history_given_course_title(all_courses_enrollment_history: list[CourseEnrollmentHistory], course_title: str) -> CourseEnrollmentHistory:
@@ -597,7 +613,7 @@ def get_course_enrollment_history_given_course_title(all_courses_enrollment_hist
         if course.course.title == course_title:
             return course
     else:
-        raise Exception("Course Title Not Found")
+        raise CourseTitleNotFoundError
 
 
 def search_for_course_enrollment_history_given_course_code(all_courses_enrollment_history: list[CourseEnrollmentHistory], course_code: str) -> list[CourseEnrollmentHistory]:
@@ -727,8 +743,147 @@ def deep_sanitize_text(text: str) -> str:
 ###############################################################################
 # Statistical Analysis
 ###############################################################################
+def plot_graph(enrollment_history: CourseEnrollmentHistory, num_years_to_predict: int = 0, polynomial_degree: int = 5) -> dict[str: list]:
+    """Given a course's enrollment history, <enrollment_history>, a
+    <CourseEnrollmentHistory> object,
+    It will plot the data provided in <enrollment_history>, and according to
+    <num_years_to_predict>, it will use the <numpy> and <matplotlib.pyplot>
+    libraries to create a polynomial regression to predict the enrollment data
+    and plot the predictions on the same axes.
 
-# perhaps add a polynomial regression?
-# line of best fit?
-# What's the goal here... am I creating a function, which outputs what the predicted output will be?
-# Will the tkinter interface have graphs embedded, or will it pop out?
+    The graph will be opened a new window.
+
+    The graph will only show the beginning year for the school year.
+    Ex: The "2018 - 2019" school year will just be labelled as "2018" on the x-axis.
+
+    The function returns a dictionary with 4 lists containing the x and y values
+    for both the actual enrolment data and the polynomial regression's data.
+
+    Preconditions:
+        - num_years_to_predict < len(enrollment_history.year_str_to_course_enrollment.keys())
+        - # <num_years_to_predict> is less than the number of years of enrollment data that exists
+    """
+
+    plt.figure()
+    # makes sure each plot is graphed in a new window
+
+    x_to_y = {
+        year: enrollment_history.year_str_to_course_enrollment[year].num_enrollments
+        for year in enrollment_history.year_str_to_course_enrollment.keys()
+    }
+
+    x = [int(i[:4]) for i in x_to_y.keys()]
+    y = [int(i) for i in x_to_y.values()]
+
+    my_model = numpy.poly1d(
+        numpy.polyfit(
+            x[:len(x) - num_years_to_predict],
+            y[:len(y) - num_years_to_predict],
+            polynomial_degree
+        )
+    )
+    my_line = numpy.linspace(min(x), max(x), len(x))
+
+    plt.scatter(
+        my_line,
+        my_model(my_line),
+    )
+
+    plt.plot(
+        my_line,
+        my_model(my_line),
+        label=f'Degree {polynomial_degree} Polynomial Regression (Predicting {num_years_to_predict} Year(s))'
+    )
+
+    plt.scatter(
+        x,
+        y
+    )
+    plt.plot(
+        x,
+        y,
+        label='Enrollment Data'
+    )
+
+    plt.legend()
+    plt.xlabel("School Year")
+    plt.ylabel("Number of Enrollments")
+    plt.title(enrollment_history.course.__str__())
+
+    plt.show()
+
+    return {
+        "enrollment_x": [float(x_val) for x_val in x],
+        "enrollment_y": y,
+        "polynomial_x": [float(x) for x in my_line],
+        "polynomial_y": [y for y in my_model(my_line)]
+    }
+
+
+def plot_differences_graph(enrollment_and_regression_data: dict[str: list], course_string_representation: str, num_years_predicting: int, polynomial_degree: int) -> dict[str: list]:
+    """Given a dictionary which follows the format of the output of the function
+    <plot_graph>, it will graph the absolute differences (a.k.a. residuals)
+    for each year between the polynomial regression and the actual enrollment data.
+
+    Preconditions:
+        - enrollment_and_regression_data["enrollment_x"] == enrollment_and_regression_data["polynomial_x"]
+    """
+    # makes sure each plot is graphed in a new window
+
+    x_values = enrollment_and_regression_data["enrollment_x"]
+    y_values = [
+        abs(y_enrollment - y_polynomial)
+        for y_enrollment, y_polynomial in zip(
+            enrollment_and_regression_data["enrollment_y"],
+            enrollment_and_regression_data["polynomial_y"]
+        )
+    ]
+
+    ####
+
+    temp = enrollment_and_regression_data["enrollment_y"]
+    enrollment_data_mean = sum(temp) / len(temp)
+
+    # SS_residuals
+    sum_of_squares_of_residuals = sum(
+        residual ** 2 for residual in y_values
+    )
+
+    # SS_total
+    total_sum_of_squares = sum(
+        (y - enrollment_data_mean) ** 2
+        for y in enrollment_and_regression_data["enrollment_y"]
+    )
+
+    # R squared
+    coefficient_of_determination = 1 - (sum_of_squares_of_residuals / total_sum_of_squares)
+
+    ####
+    plt.figure()
+
+    plt.scatter(
+        x_values,
+        y_values
+    )
+
+    plt.plot(
+        x_values,
+        y_values,
+        label='Absolute Difference Between Enrollment Data and Polynomial Regression'
+    )
+
+    plt.legend()
+    plt.xlabel("School Year")
+    plt.ylabel("Absolute Difference")
+    plt.title(f'{course_string_representation}\nPredicting {num_years_predicting} Year(s), Degree {polynomial_degree} Polynomial\nCoefficient of Determination: {coefficient_of_determination}')
+    plt.show()
+
+    return {
+        "difference_x": x_values,
+        "difference_y": y_values,
+        "coefficient_of_determination": coefficient_of_determination
+    }
+
+
+
+
