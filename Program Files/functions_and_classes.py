@@ -20,7 +20,8 @@ TODO: Fix line lengths and other PEP8 formatting issues
 """
 
 from __future__ import annotations
-from os import listdir
+
+import os
 import matplotlib.pyplot as plt
 import numpy
 
@@ -496,7 +497,7 @@ def get_list_of_txt_file_paths_in_folder(folder_path: str) -> list[str]:
         - file_system_type in {"Windows", "Unix"}
         - folder_path[-1] in {'/', '\\'}
     """
-    folder_contents = listdir(folder_path)
+    folder_contents = os.listdir(folder_path)
     text_files = []
 
     for item in folder_contents:

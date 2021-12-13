@@ -1,0 +1,1490 @@
+﻿Course Code|Course Description|Grade|Pathway or Destination|Enrolment
+ADA1O|Drama|Grade 9|Open (Grade 9 - 12 level)|33006
+ADA2O|Drama|Grade 10|Open (Grade 9 - 12 level)|23637
+ADA3M|Drama|Grade 11|University/College Preparation (Grade 11 & 12 level)|10562
+ADA3O|Drama|Grade 11|Open (Grade 9 - 12 level)|1967
+ADA4E|Drama|Grade 12|Workplace Preparation (Grade 11 & 12 level)|166
+ADA4M|Drama|Grade 12|University/College Preparation (Grade 11 & 12 level)|6954
+ADB1O|Drama - Musical Theatre|Grade 9|Open (Grade 9 - 12 level)|132
+ADB2O|Drama - Musical Theatre|Grade 10|Open (Grade 9 - 12 level)|281
+ADB3M|Drama - Musical Theatre|Grade 11|University/College Preparation (Grade 11 & 12 level)|626
+ADB3O|Drama - Musical Theatre|Grade 11|Open (Grade 9 - 12 level)|82
+ADB4M|Drama - Musical Theatre|Grade 12|University/College Preparation (Grade 11 & 12 level)|504
+ADC1O|Drama in the Community|Grade 9|Open (Grade 9 - 12 level)|108
+ADC2O|Drama in the Community|Grade 10|Open (Grade 9 - 12 level)|97
+ADC3M|Drama in the Community|Grade 11|University/College Preparation (Grade 11 & 12 level)|107
+ADC3O|Drama in the Community|Grade 11|Open (Grade 9 - 12 level)|71
+ADC4M|Drama in the Community|Grade 12|University/College Preparation (Grade 11 & 12 level)|141
+ADD1O|Drama - Production|Grade 9|Open (Grade 9 - 12 level)|774
+ADD2O|Drama - Production|Grade 10|Open (Grade 9 - 12 level)|752
+ADD3M|Drama - Production|Grade 11|University/College Preparation (Grade 11 & 12 level)|1157
+ADD3O|Drama - Production|Grade 11|Open (Grade 9 - 12 level)|232
+ADD4M|Drama - Production|Grade 12|University/College Preparation (Grade 11 & 12 level)|1268
+ADF3M|Director's Craft|Grade 11|University/College Preparation (Grade 11 & 12 level)|69
+ADF4M|Director's Craft|Grade 12|University/College Preparation (Grade 11 & 12 level)|218
+ADG3M|Drama - Acting/Improvisation|Grade 11|University/College Preparation (Grade 11 & 12 level)|204
+ADG3O|Drama - Acting/Improvisation|Grade 11|Open (Grade 9 - 12 level)|149
+ADG4M|Drama - Acting/Improvisation|Grade 12|University/College Preparation (Grade 11 & 12 level)|153
+ADH4T|Performing Arts Career Studies|Grade 12|College Delivered (Dual Credits)|19
+ADJ4T|Acting for Film and Television|Grade 12|College Delivered (Dual Credits)|15
+ADP3M|Drama - Playwriting/Theatre Development|Grade 11|University/College Preparation (Grade 11 & 12 level)|37
+ADP3O|Drama - Playwriting/Theatre Development|Grade 11|Open (Grade 9 - 12 level)|<10
+ADP4M|Drama - Playwriting/Theatre Development|Grade 12|University/College Preparation (Grade 11 & 12 level)|89
+ADT3M|Drama - Canadian Theatre|Grade 11|University/College Preparation (Grade 11 & 12 level)|28
+ADT4M|Drama - Canadian Theatre|Grade 12|University/College Preparation (Grade 11 & 12 level)|32
+ADV1O|Drama - Film/Video|Grade 9|Open (Grade 9 - 12 level)|78
+ADV2O|Drama - Film/Video|Grade 10|Open (Grade 9 - 12 level)|205
+ADV3M|Drama - Film/Video|Grade 11|University/College Preparation (Grade 11 & 12 level)|533
+ADV3O|Drama - Film/Video|Grade 11|Open (Grade 9 - 12 level)|105
+ADV4M|Drama - Film/Video|Grade 12|University/College Preparation (Grade 11 & 12 level)|374
+AEA3O|Exploring and Creating in the Arts|Grade 11|Open (Grade 9 - 12 level)|363
+AEA4O|Exploring and Creating in the Arts|Grade 12|Open (Grade 9 - 12 level)|1225
+AEB4T|Exploring Art and Design|Grade 12|College Delivered (Dual Credits)|20
+AED4T|Art and Design Portfolio Development|Grade 12|College Delivered (Dual Credits)|17
+AEF4T|Design|Grade 12|College Delivered (Dual Credits)|54
+AEH4T|Elements of Décor|Grade 12|College Delivered (Dual Credits)|<10
+AEL4T|Basic  Design|Grade 12|College Delivered (Dual Credits)|20
+AEM4T|Composition and Creativity|Grade 12|College Delivered (Dual Credits)|18
+AFA4T|Illustration|Grade 12|College Delivered (Dual Credits)|24
+AFB4T|Painting and Drawing|Grade 12|College Delivered (Dual Credits)|17
+AFD4T|Drawing|Grade 12|College Delivered (Dual Credits)|39
+AFE4T|Basic Digital Photography|Grade 12|College Delivered (Dual Credits)|12
+AFG4T|2D Digital Art|Grade 12|College Delivered (Dual Credits)|43
+AFI4T|Digital Photography and Image Editing|Grade 12|College Delivered (Dual Credits)|96
+AFJ4T|Digital Art and Design|Grade 12|College Delivered (Dual Credits)|100
+AFK4T|Digital Photography Techniques|Grade 12|College Delivered (Dual Credits)|147
+AFM4T|Digital Applications|Grade 12|College Delivered (Dual Credits)|10
+AFR4T|Modelling and Animation|Grade 12|College Delivered (Dual Credits)|19
+AFS4T|Painting and Drawing  Theory|Grade 12|College Delivered (Dual Credits)|<10
+AHB4T|Musical Theatre Production|Grade 12|College Delivered (Dual Credits)|15
+AHE4T|Music and Society|Grade 12|College Delivered (Dual Credits)|24
+AHF4T|Good Vibrations: The Evolution of Popular Music|Grade 12|College Delivered (Dual Credits)|68
+AHG4T|Canadian Music Industry|Grade 12|College Delivered (Dual Credits)|<10
+AHL4T|History of Rock and Roll|Grade 12|College Delivered (Dual Credits)|16
+ALC1O|Integrated Arts|Grade 9|Open (Grade 9 - 12 level)|3487
+ALC2O|Integrated Arts|Grade 10|Open (Grade 9 - 12 level)|377
+AMB1O|Instrumental Music - Brass|Grade 9|Open (Grade 9 - 12 level)|82
+AMB2O|Instrumental Music - Brass|Grade 10|Open (Grade 9 - 12 level)|24
+AMB3M|Instrumental Music - Brass|Grade 11|University/College Preparation (Grade 11 & 12 level)|29
+AMB4M|Instrumental Music - Brass|Grade 12|University/College Preparation (Grade 11 & 12 level)|46
+AMC1O|Music for Creating|Grade 9|Open (Grade 9 - 12 level)|267
+AMC2O|Music for Creating|Grade 10|Open (Grade 9 - 12 level)|328
+AMC3M|Music for Creating|Grade 11|University/College Preparation (Grade 11 & 12 level)|256
+AMC3O|Music for Creating|Grade 11|Open (Grade 9 - 12 level)|94
+AMC4M|Music for Creating|Grade 12|University/College Preparation (Grade 11 & 12 level)|276
+AMD1O|Electronic Music|Grade 9|Open (Grade 9 - 12 level)|23
+AMD2O|Electronic Music|Grade 10|Open (Grade 9 - 12 level)|26
+AMD3M|Electronic Music|Grade 11|University/College Preparation (Grade 11 & 12 level)|59
+AMD3O|Electronic Music|Grade 11|Open (Grade 9 - 12 level)|16
+AMD4M|Electronic Music|Grade 12|University/College Preparation (Grade 11 & 12 level)|61
+AME1O|Small Ensemble|Grade 9|Open (Grade 9 - 12 level)|121
+AME2O|Small Ensemble|Grade 10|Open (Grade 9 - 12 level)|147
+AME3M|Small Ensemble|Grade 11|University/College Preparation (Grade 11 & 12 level)|220
+AME3O|Small Ensemble|Grade 11|Open (Grade 9 - 12 level)|62
+AME4M|Small Ensemble|Grade 12|University/College Preparation (Grade 11 & 12 level)|322
+AMF4T|Voice|Grade 12|College Delivered (Dual Credits)|<10
+AMG1O|Guitar Music|Grade 9|Open (Grade 9 - 12 level)|1703
+AMG2O|Guitar Music|Grade 10|Open (Grade 9 - 12 level)|6221
+AMG3M|Guitar Music|Grade 11|University/College Preparation (Grade 11 & 12 level)|1543
+AMG3O|Guitar Music|Grade 11|Open (Grade 9 - 12 level)|2111
+AMG4M|Guitar Music|Grade 12|University/College Preparation (Grade 11 & 12 level)|1166
+AMH1O|Stage-Band Music|Grade 9|Open (Grade 9 - 12 level)|111
+AMH2O|Stage-Band Music|Grade 10|Open (Grade 9 - 12 level)|238
+AMH3M|Stage-Band Music|Grade 11|University/College Preparation (Grade 11 & 12 level)|386
+AMH3O|Stage-Band Music|Grade 11|Open (Grade 9 - 12 level)|18
+AMH4M|Stage-Band Music|Grade 12|University/College Preparation (Grade 11 & 12 level)|574
+AMI1O|Instrumental Music - Band|Grade 9|Open (Grade 9 - 12 level)|13208
+AMI2O|Instrumental Music - Band|Grade 10|Open (Grade 9 - 12 level)|6501
+AMI3M|Instrumental Music - Band|Grade 11|University/College Preparation (Grade 11 & 12 level)|3895
+AMI3O|Instrumental Music - Band|Grade 11|Open (Grade 9 - 12 level)|83
+AMI4M|Instrumental Music - Band|Grade 12|University/College Preparation (Grade 11 & 12 level)|2832
+AMJ1O|Vocal Jazz|Grade 9|Open (Grade 9 - 12 level)|10
+AMJ2O|Vocal Jazz|Grade 10|Open (Grade 9 - 12 level)|65
+AMJ3M|Vocal Jazz|Grade 11|University/College Preparation (Grade 11 & 12 level)|96
+AMJ3O|Vocal Jazz|Grade 11|Open (Grade 9 - 12 level)|30
+AMJ4M|Vocal Jazz|Grade 12|University/College Preparation (Grade 11 & 12 level)|206
+AMK1O|Keyboard Music|Grade 9|Open (Grade 9 - 12 level)|575
+AMK2O|Keyboard Music|Grade 10|Open (Grade 9 - 12 level)|1345
+AMK3M|Keyboard Music|Grade 11|University/College Preparation (Grade 11 & 12 level)|523
+AMK3O|Keyboard Music|Grade 11|Open (Grade 9 - 12 level)|151
+AMK4M|Keyboard Music|Grade 12|University/College Preparation (Grade 11 & 12 level)|311
+AMM1O|Music and Computers|Grade 9|Open (Grade 9 - 12 level)|210
+AMM2O|Music and Computers|Grade 10|Open (Grade 9 - 12 level)|483
+AMM3M|Music and Computers|Grade 11|University/College Preparation (Grade 11 & 12 level)|453
+AMM3O|Music and Computers|Grade 11|Open (Grade 9 - 12 level)|144
+AMM4M|Music and Computers|Grade 12|University/College Preparation (Grade 11 & 12 level)|320
+AMO1O|Instrumental Music - Orchestra|Grade 9|Open (Grade 9 - 12 level)|287
+AMO2O|Instrumental Music - Orchestra|Grade 10|Open (Grade 9 - 12 level)|110
+AMO3M|Instrumental Music - Orchestra|Grade 11|University/College Preparation (Grade 11 & 12 level)|82
+AMO3O|Instrumental Music - Orchestra|Grade 11|Open (Grade 9 - 12 level)|<10
+AMO4M|Instrumental Music - Orchestra|Grade 12|University/College Preparation (Grade 11 & 12 level)|90
+AMP1O|Instrumental Music - Percussion|Grade 9|Open (Grade 9 - 12 level)|142
+AMP2O|Instrumental Music - Percussion|Grade 10|Open (Grade 9 - 12 level)|164
+AMP3M|Instrumental Music - Percussion|Grade 11|University/College Preparation (Grade 11 & 12 level)|36
+AMP3O|Instrumental Music - Percussion|Grade 11|Open (Grade 9 - 12 level)|41
+AMP4M|Instrumental Music - Percussion|Grade 12|University/College Preparation (Grade 11 & 12 level)|50
+AMQ1O|Music - Steel Drum|Grade 9|Open (Grade 9 - 12 level)|190
+AMQ2O|Music - Steel Drum|Grade 10|Open (Grade 9 - 12 level)|181
+AMQ3M|Music - Steel Drum|Grade 11|University/College Preparation (Grade 11 & 12 level)|59
+AMQ3O|Music - Steel Drum|Grade 11|Open (Grade 9 - 12 level)|27
+AMQ4M|Music - Steel Drum|Grade 12|University/College Preparation (Grade 11 & 12 level)|49
+AMR1O|Repertoire|Grade 9|Open (Grade 9 - 12 level)|3518
+AMR2O|Repertoire|Grade 10|Open (Grade 9 - 12 level)|3951
+AMR3M|Repertoire|Grade 11|University/College Preparation (Grade 11 & 12 level)|2843
+AMR3O|Repertoire|Grade 11|Open (Grade 9 - 12 level)|355
+AMR4M|Repertoire|Grade 12|University/College Preparation (Grade 11 & 12 level)|2319
+AMS1O|Instrumental Music - Strings|Grade 9|Open (Grade 9 - 12 level)|1847
+AMS2O|Instrumental Music - Strings|Grade 10|Open (Grade 9 - 12 level)|1206
+AMS3M|Instrumental Music - Strings|Grade 11|University/College Preparation (Grade 11 & 12 level)|763
+AMS3O|Instrumental Music - Strings|Grade 11|Open (Grade 9 - 12 level)|111
+AMS4M|Instrumental Music - Strings|Grade 12|University/College Preparation (Grade 11 & 12 level)|603
+AMT1O|Music Theatre|Grade 9|Open (Grade 9 - 12 level)|106
+AMT2O|Music Theatre|Grade 10|Open (Grade 9 - 12 level)|253
+AMT3M|Music Theatre|Grade 11|University/College Preparation (Grade 11 & 12 level)|620
+AMT3O|Music Theatre|Grade 11|Open (Grade 9 - 12 level)|107
+AMT4M|Music Theatre|Grade 12|University/College Preparation (Grade 11 & 12 level)|650
+AMU1O|Music|Grade 9|Open (Grade 9 - 12 level)|14707
+AMU2O|Music|Grade 10|Open (Grade 9 - 12 level)|6735
+AMU3M|Music|Grade 11|University/College Preparation (Grade 11 & 12 level)|3779
+AMU3O|Music|Grade 11|Open (Grade 9 - 12 level)|523
+AMU4E|Music|Grade 12|Workplace Preparation (Grade 11 & 12 level)|101
+AMU4M|Music|Grade 12|University/College Preparation (Grade 11 & 12 level)|2635
+AMV1O|Music - Vocal/Choral|Grade 9|Open (Grade 9 - 12 level)|3693
+AMV2O|Music - Vocal/Choral|Grade 10|Open (Grade 9 - 12 level)|3602
+AMV3M|Music - Vocal/Choral|Grade 11|University/College Preparation (Grade 11 & 12 level)|2523
+AMV3O|Music - Vocal/Choral|Grade 11|Open (Grade 9 - 12 level)|392
+AMV4M|Music - Vocal/Choral|Grade 12|University/College Preparation (Grade 11 & 12 level)|1939
+AMW1O|Music - Woodwinds|Grade 9|Open (Grade 9 - 12 level)|126
+AMW2O|Music - Woodwinds|Grade 10|Open (Grade 9 - 12 level)|46
+AMW3M|Music - Woodwinds|Grade 11|University/College Preparation (Grade 11 & 12 level)|59
+AMW3O|Music - Woodwinds|Grade 11|Open (Grade 9 - 12 level)|<10
+AMW4M|Music - Woodwinds|Grade 12|University/College Preparation (Grade 11 & 12 level)|70
+AMX3M|Music - External (Conservatory)|Grade 11|University/College Preparation (Grade 11 & 12 level)|210
+AMX4M|Music - External (Conservatory)|Grade 12|University/College Preparation (Grade 11 & 12 level)|392
+ASA4T|Media and the Arts|Grade 12|College Delivered (Dual Credits)|<10
+ASM2O|Media Arts|Grade 10|Open (Grade 9 - 12 level)|8434
+ASM3M|Media Arts|Grade 11|University/College Preparation (Grade 11 & 12 level)|3282
+ASM3O|Media Arts|Grade 11|Open (Grade 9 - 12 level)|2628
+ASM4E|Media Arts|Grade 12|Workplace Preparation (Grade 11 & 12 level)|159
+ASM4M|Media Arts|Grade 12|University/College Preparation (Grade 11 & 12 level)|2091
+ATA4T|Basic Jazz |Grade 12|College Delivered (Dual Credits)|<10
+ATB1O|Dance - Ballet|Grade 9|Open (Grade 9 - 12 level)|291
+ATB2O|Dance - Ballet|Grade 10|Open (Grade 9 - 12 level)|288
+ATB3M|Dance - Ballet|Grade 11|University/College Preparation (Grade 11 & 12 level)|272
+ATB4M|Dance - Ballet|Grade 12|University/College Preparation (Grade 11 & 12 level)|153
+ATC1O|Dance|Grade 9|Open (Grade 9 - 12 level)|3584
+ATC2O|Dance|Grade 10|Open (Grade 9 - 12 level)|4532
+ATC3M|Dance|Grade 11|University/College Preparation (Grade 11 & 12 level)|2281
+ATC3O|Dance|Grade 11|Open (Grade 9 - 12 level)|643
+ATC4E|Dance|Grade 12|Workplace Preparation (Grade 11 & 12 level)|23
+ATC4M|Dance|Grade 12|University/College Preparation (Grade 11 & 12 level)|1718
+ATD1O|Dance - Composition|Grade 9|Open (Grade 9 - 12 level)|<10
+ATD2O|Dance - Composition|Grade 10|Open (Grade 9 - 12 level)|<10
+ATD3M|Dance - Composition|Grade 11|University/College Preparation (Grade 11 & 12 level)|53
+ATD3O|Dance - Composition|Grade 11|Open (Grade 9 - 12 level)|<10
+ATD4M|Dance - Composition|Grade 12|University/College Preparation (Grade 11 & 12 level)|212
+ATF2O|Dance - African|Grade 10|Open (Grade 9 - 12 level)|<10
+ATF3M|Dance - African|Grade 11|University/College Preparation (Grade 11 & 12 level)|<10
+ATF4M|Dance - African|Grade 12|University/College Preparation (Grade 11 & 12 level)|<10
+ATH4M|Dance - History Development|Grade 12|University/College Preparation (Grade 11 & 12 level)|<10
+ATJ1O|Dance - Jazz|Grade 9|Open (Grade 9 - 12 level)|18
+ATJ2O|Dance - Jazz|Grade 10|Open (Grade 9 - 12 level)|115
+ATJ3M|Dance - Jazz|Grade 11|University/College Preparation (Grade 11 & 12 level)|31
+ATJ3O|Dance - Jazz|Grade 11|Open (Grade 9 - 12 level)|<10
+ATJ4M|Dance - Jazz|Grade 12|University/College Preparation (Grade 11 & 12 level)|15
+ATL3M|Dance - Central and South American|Grade 11|University/College Preparation (Grade 11 & 12 level)|30
+ATM1O|Dance - Modern|Grade 9|Open (Grade 9 - 12 level)|270
+ATM2O|Dance - Modern|Grade 10|Open (Grade 9 - 12 level)|286
+ATM3M|Dance - Modern|Grade 11|University/College Preparation (Grade 11 & 12 level)|226
+ATM3O|Dance - Modern|Grade 11|Open (Grade 9 - 12 level)|<10
+ATM4M|Dance - Modern|Grade 12|University/College Preparation (Grade 11 & 12 level)|198
+ATN3O|Aboriginal Peoples (North American)|Grade 11|Open (Grade 9 - 12 level)|<10
+ATO2O|Dance - Pacific Rim/Asian|Grade 10|Open (Grade 9 - 12 level)|13
+ATO3M|Dance - Pacific Rim/Asian|Grade 11|University/College Preparation (Grade 11 & 12 level)|<10
+ATO3O|Dance - Pacific Rim/Asian|Grade 11|Open (Grade 9 - 12 level)|25
+ATO4M|Dance - Pacific Rim/Asian|Grade 12|University/College Preparation (Grade 11 & 12 level)|<10
+ATP1O|Dance - Performance Practice|Grade 9|Open (Grade 9 - 12 level)|180
+ATP2O|Dance - Performance Practice|Grade 10|Open (Grade 9 - 12 level)|241
+ATP3M|Dance - Performance Practice|Grade 11|University/College Preparation (Grade 11 & 12 level)|258
+ATP3O|Dance - Performance Practice|Grade 11|Open (Grade 9 - 12 level)|<10
+ATP4M|Dance - Performance Practice|Grade 12|University/College Preparation (Grade 11 & 12 level)|278
+ATR1O|Dance-Hip Hop and Urban|Grade 9|Open (Grade 9 - 12 level)|10
+ATR2O|Dance-Hip Hop and Urban|Grade 10|Open (Grade 9 - 12 level)|<10
+ATR3M|Dance-Hip Hop and Urban|Grade 11|University/College Preparation (Grade 11 & 12 level)|18
+ATR3O|Dance-Hip Hop and Urban|Grade 11|Open (Grade 9 - 12 level)|18
+ATS2O|Dance-Social Dance (Ballroom, Swing, Traditional Form)|Grade 10|Open (Grade 9 - 12 level)|10
+ATS3O|Dance-Social Dance (Ballroom,Swing, Traditional Forms)|Grade 11|Open (Grade 9 - 12 level)|<10
+ATS4M|Dance-Social Dance (Ballroom,Swing, Traditional Forms)|Grade 12|University/College Preparation (Grade 11 & 12 level)|12
+ATU2O|Dance - Music Theatre|Grade 10|Open (Grade 9 - 12 level)|21
+ATU3M|Dance - Music Theatre|Grade 11|University/College Preparation (Grade 11 & 12 level)|73
+ATU3O|Dance - Music Theatre|Grade 11|Open (Grade 9 - 12 level)|18
+ATU4M|Dance - Music Theatre|Grade 12|University/College Preparation (Grade 11 & 12 level)|83
+ATY4T|Movement and Dance|Grade 12|College Delivered (Dual Credits)|<10
+ATZ1O|Dance-World Cultures|Grade 9|Open (Grade 9 - 12 level)|<10
+AVA4T|Ideas and Imagery|Grade 12|College Delivered (Dual Credits)|<10
+AVB4T|Visual Arts Oils|Grade 12|College Delivered (Dual Credits)|<10
+AVD4T|Fashion Design|Grade 12|College Delivered (Dual Credits)|45
+AVI1O|Visual Arts|Grade 9|Open (Grade 9 - 12 level)|47997
+AVI2O|Visual Arts|Grade 10|Open (Grade 9 - 12 level)|30812
+AVI3M|Visual Arts|Grade 11|University/College Preparation (Grade 11 & 12 level)|17006
+AVI3O|Visual Arts|Grade 11|Open (Grade 9 - 12 level)|4461
+AVI4E|Visual Arts|Grade 12|Workplace Preparation (Grade 11 & 12 level)|532
+AVI4M|Visual Arts|Grade 12|University/College Preparation (Grade 11 & 12 level)|11033
+AVN4T|Sculptures|Grade 12|College Delivered (Dual Credits)|14
+AVP4T|Painting|Grade 12|College Delivered (Dual Credits)|13
+AWA1O|Visual Arts - Crafts|Grade 9|Open (Grade 9 - 12 level)|397
+AWA2O|Visual Arts - Crafts|Grade 10|Open (Grade 9 - 12 level)|2364
+AWA3M|Visual Arts - Crafts|Grade 11|University/College Preparation (Grade 11 & 12 level)|108
+AWA3O|Visual Arts - Crafts|Grade 11|Open (Grade 9 - 12 level)|1426
+AWA4M|Visual Arts - Crafts|Grade 12|University/College Preparation (Grade 11 & 12 level)|252
+AWC2O|Visual Arts - Ceramics|Grade 10|Open (Grade 9 - 12 level)|560
+AWC3M|Visual Arts - Ceramics|Grade 11|University/College Preparation (Grade 11 & 12 level)|406
+AWC3O|Visual Arts - Ceramics|Grade 11|Open (Grade 9 - 12 level)|480
+AWC4M|Visual Arts - Ceramics|Grade 12|University/College Preparation (Grade 11 & 12 level)|318
+AWD1O|Visual Arts - Visual Design|Grade 9|Open (Grade 9 - 12 level)|243
+AWD2O|Visual Arts - Visual Design|Grade 10|Open (Grade 9 - 12 level)|739
+AWD3M|Visual Arts - Visual Design|Grade 11|University/College Preparation (Grade 11 & 12 level)|1065
+AWD3O|Visual Arts - Visual Design|Grade 11|Open (Grade 9 - 12 level)|273
+AWD4M|Visual Arts - Visual Design|Grade 12|University/College Preparation (Grade 11 & 12 level)|1482
+AWE1O|Visual Arts - Information/Consumer Design|Grade 9|Open (Grade 9 - 12 level)|<10
+AWE2O|Visual Arts - Information/Consumer Design|Grade 10|Open (Grade 9 - 12 level)|55
+AWE3M|Visual Arts - Information/Consumer Design|Grade 11|University/College Preparation (Grade 11 & 12 level)|404
+AWE3O|Visual Arts - Information/Consumer Design|Grade 11|Open (Grade 9 - 12 level)|96
+AWE4M|Visual Arts - Information/Consumer Design|Grade 12|University/College Preparation (Grade 11 & 12 level)|617
+AWF2O|Visual Arts - Industrial Design|Grade 10|Open (Grade 9 - 12 level)|68
+AWF3M|Visual Arts - Industrial Design|Grade 11|University/College Preparation (Grade 11 & 12 level)|25
+AWF3O|Visual Arts - Industrial Design|Grade 11|Open (Grade 9 - 12 level)|26
+AWF4M|Visual Arts - Industrial Design|Grade 12|University/College Preparation (Grade 11 & 12 level)|56
+AWG4M|Visual Arts - Environmental Design|Grade 12|University/College Preparation (Grade 11 & 12 level)|10
+AWH3M|Visual Arts - Interior Design|Grade 11|University/College Preparation (Grade 11 & 12 level)|104
+AWH3O|Visual Arts - Interior Design|Grade 11|Open (Grade 9 - 12 level)|87
+AWH4M|Visual Arts - Interior Design|Grade 12|University/College Preparation (Grade 11 & 12 level)|74
+AWI1O|Visual Arts - Fashion and Textile Design|Grade 9|Open (Grade 9 - 12 level)|30
+AWI2O|Visual Arts - Fashion and Textile Design|Grade 10|Open (Grade 9 - 12 level)|209
+AWI3M|Visual Arts - Fashion and Textile Design|Grade 11|University/College Preparation (Grade 11 & 12 level)|172
+AWI3O|Visual Arts - Fashion and Textile Design|Grade 11|Open (Grade 9 - 12 level)|188
+AWI4M|Visual Arts - Fashion and Textile Design|Grade 12|University/College Preparation (Grade 11 & 12 level)|216
+AWJ1O|Visual Arts - Stage Design|Grade 9|Open (Grade 9 - 12 level)|<10
+AWJ2O|Visual Arts - Stage Design|Grade 10|Open (Grade 9 - 12 level)|<10
+AWJ3M|Visual Arts - Stage Design|Grade 11|University/College Preparation (Grade 11 & 12 level)|47
+AWJ3O|Visual Arts - Stage Design|Grade 11|Open (Grade 9 - 12 level)|40
+AWJ4M|Visual Arts - Stage Design|Grade 12|University/College Preparation (Grade 11 & 12 level)|41
+AWK1O|Visual Arts - Illustration|Grade 9|Open (Grade 9 - 12 level)|30
+AWK2O|Visual Arts - Illustration|Grade 10|Open (Grade 9 - 12 level)|95
+AWK3M|Visual Arts - Illustration|Grade 11|University/College Preparation (Grade 11 & 12 level)|128
+AWK3O|Visual Arts - Illustration|Grade 11|Open (Grade 9 - 12 level)|87
+AWK4M|Visual Arts - Illustration|Grade 12|University/College Preparation (Grade 11 & 12 level)|260
+AWL1O|Visual Arts - Drawing|Grade 9|Open (Grade 9 - 12 level)|63
+AWL2O|Visual Arts - Drawing|Grade 10|Open (Grade 9 - 12 level)|103
+AWL3M|Visual Arts - Drawing|Grade 11|University/College Preparation (Grade 11 & 12 level)|357
+AWL3O|Visual Arts - Drawing|Grade 11|Open (Grade 9 - 12 level)|132
+AWL4M|Visual Arts - Drawing|Grade 12|University/College Preparation (Grade 11 & 12 level)|322
+AWM1O|Visual Arts - Drawing and Painting|Grade 9|Open (Grade 9 - 12 level)|286
+AWM2O|Visual Arts - Drawing and Painting|Grade 10|Open (Grade 9 - 12 level)|355
+AWM3M|Visual Arts - Drawing and Painting|Grade 11|University/College Preparation (Grade 11 & 12 level)|765
+AWM3O|Visual Arts - Drawing and Painting|Grade 11|Open (Grade 9 - 12 level)|221
+AWM4M|Visual Arts - Drawing and Painting|Grade 12|University/College Preparation (Grade 11 & 12 level)|1268
+AWN2O|Visual Arts - Painting|Grade 10|Open (Grade 9 - 12 level)|88
+AWN3M|Visual Arts - Painting|Grade 11|University/College Preparation (Grade 11 & 12 level)|93
+AWN3O|Visual Arts - Painting|Grade 11|Open (Grade 9 - 12 level)|68
+AWN4M|Visual Arts - Painting|Grade 12|University/College Preparation (Grade 11 & 12 level)|397
+AWO1O|Visual Arts - Printmaking|Grade 9|Open (Grade 9 - 12 level)|18
+AWO2O|Visual Arts - Printmaking|Grade 10|Open (Grade 9 - 12 level)|116
+AWO3M|Visual Arts - Printmaking|Grade 11|University/College Preparation (Grade 11 & 12 level)|171
+AWO3O|Visual Arts - Printmaking|Grade 11|Open (Grade 9 - 12 level)|157
+AWO4M|Visual Arts - Printmaking|Grade 12|University/College Preparation (Grade 11 & 12 level)|141
+AWP2O|Visual Arts - Sculpture|Grade 10|Open (Grade 9 - 12 level)|178
+AWP3M|Visual Arts - Sculpture|Grade 11|University/College Preparation (Grade 11 & 12 level)|227
+AWP3O|Visual Arts - Sculpture|Grade 11|Open (Grade 9 - 12 level)|280
+AWP4M|Visual Arts - Sculpture|Grade 12|University/College Preparation (Grade 11 & 12 level)|294
+AWQ1O|Visual Arts - Photography|Grade 9|Open (Grade 9 - 12 level)|39
+AWQ2O|Visual Arts - Photography|Grade 10|Open (Grade 9 - 12 level)|3740
+AWQ3M|Visual Arts - Photography|Grade 11|University/College Preparation (Grade 11 & 12 level)|6634
+AWQ3O|Visual Arts - Photography|Grade 11|Open (Grade 9 - 12 level)|4615
+AWQ4M|Visual Arts - Photography|Grade 12|University/College Preparation (Grade 11 & 12 level)|3629
+AWR1O|Visual Arts - Film/Video|Grade 9|Open (Grade 9 - 12 level)|52
+AWR2O|Visual Arts - Film/Video|Grade 10|Open (Grade 9 - 12 level)|94
+AWR3M|Visual Arts - Film/Video|Grade 11|University/College Preparation (Grade 11 & 12 level)|916
+AWR3O|Visual Arts - Film/Video|Grade 11|Open (Grade 9 - 12 level)|441
+AWR4M|Visual Arts - Film/Video|Grade 12|University/College Preparation (Grade 11 & 12 level)|1079
+AWS1O|Visual Arts - Digital Media|Grade 9|Open (Grade 9 - 12 level)|627
+AWS2O|Visual Arts - Digital Media|Grade 10|Open (Grade 9 - 12 level)|1275
+AWS3M|Visual Arts - Digital Media|Grade 11|University/College Preparation (Grade 11 & 12 level)|1160
+AWS3O|Visual Arts - Digital Media|Grade 11|Open (Grade 9 - 12 level)|257
+AWS4M|Visual Arts - Digital Media|Grade 12|University/College Preparation (Grade 11 & 12 level)|848
+AWT1O|Visual Arts - Non-Traditional|Grade 9|Open (Grade 9 - 12 level)|198
+AWT2O|Visual Arts - Non-Traditional|Grade 10|Open (Grade 9 - 12 level)|510
+AWT3M|Visual Arts - Non-Traditional|Grade 11|University/College Preparation (Grade 11 & 12 level)|387
+AWT3O|Visual Arts - Non-Traditional|Grade 11|Open (Grade 9 - 12 level)|306
+AWT4M|Visual Arts - Non-Traditional|Grade 12|University/College Preparation (Grade 11 & 12 level)|666
+AWU1O|Visual Arts - Cultural/Historical Studies|Grade 9|Open (Grade 9 - 12 level)|18
+AWU2O|Visual Arts - Cultural/Historical Studies|Grade 10|Open (Grade 9 - 12 level)|110
+AWU3M|Visual Arts - Cultural/Historical Studies|Grade 11|University/College Preparation (Grade 11 & 12 level)|41
+AWU3O|Visual Arts - Cultural/Historical Studies|Grade 11|Open (Grade 9 - 12 level)|96
+AWU4M|Visual Arts - Cultural/Historical Studies|Grade 12|University/College Preparation (Grade 11 & 12 level)|234
+AWY4T|Print Making|Grade 12|College Delivered (Dual Credits)|<10
+BAA4T|Accounting|Grade 12|College Delivered (Dual Credits)|<10
+BAB4T|Accounting Basics|Grade 12|College Delivered (Dual Credits)|<10
+BAD4T|Administrative Accounting|Grade 12|College Delivered (Dual Credits)|12
+BAE4T|Financial Accounting Basics|Grade 12|College Delivered (Dual Credits)|<10
+BAF3M|Financial Accounting Fundamentals|Grade 11|University/College Preparation (Grade 11 & 12 level)|26133
+BAI3E|Accounting Essentials|Grade 11|Workplace Preparation (Grade 11 & 12 level)|291
+BAJ4T|Accounting Basics II|Grade 12|College Delivered (Dual Credits)|<10
+BAN4E|Accounting for a Small Business|Grade 12|Workplace Preparation (Grade 11 & 12 level)|34
+BAT4M|Financial Accounting Principles|Grade 12|University/College Preparation (Grade 11 & 12 level)|8959
+BBA4T|Introduction to Business|Grade 12|College Delivered (Dual Credits)|18
+BBB4E|International Business Essentials|Grade 12|Workplace Preparation (Grade 11 & 12 level)|18
+BBB4M|International Business Fundamentals|Grade 12|University/College Preparation (Grade 11 & 12 level)|17192
+BBE4T|Business in a Global Environment|Grade 12|College Delivered (Dual Credits)|14
+BBF4T|Business, Its Nature and Environment|Grade 12|College Delivered (Dual Credits)|14
+BBG4T|Management Principles|Grade 12|College Delivered (Dual Credits)|21
+BBI1O|Introduction to Business|Grade 9|Open (Grade 9 - 12 level)|3922
+BBI2O|Introduction to Business|Grade 10|Open (Grade 9 - 12 level)|27550
+BBJ4T|Introduction to Business Management|Grade 12|College Delivered (Dual Credits)|<10
+BBL4T|Business Law|Grade 12|College Delivered (Dual Credits)|<10
+BBR4T|Gestion|Grade 12|College Delivered (Dual Credits)|<10
+BCF4T|Customer Service|Grade 12|College Delivered (Dual Credits)|41
+BCG4T|Customer Relations|Grade 12|College Delivered (Dual Credits)|<10
+BDA4T|Entrepreneurship|Grade 12|College Delivered (Dual Credits)|50
+BDI3C|Entrepreneurship: The Venture|Grade 11|College Preparation (Grade 11 & 12 level)|8599
+BDP3O|Entrepreneurship: The Enterprising Person|Grade 11|Open (Grade 9 - 12 level)|898
+BDV4C|Entrepreneurship: Venture Planning in an Electronic Age|Grade 12|College Preparation (Grade 11 & 12 level)|1647
+BMA4T|Introduction to Marketing|Grade 12|College Delivered (Dual Credits)|102
+BMB4T|Marketing|Grade 12|College Delivered (Dual Credits)|<10
+BMC4T|Visual Merchandising|Grade 12|College Delivered (Dual Credits)|14
+BME4T|Principles of Marketing|Grade 12|College Delivered (Dual Credits)|51
+BMG4T|Introduction to Sport Marketing|Grade 12|College Delivered (Dual Credits)|<10
+BMI3C|Marketing: Goods, Services, Events|Grade 11|College Preparation (Grade 11 & 12 level)|16118
+BMK4T|Pitching the Campaign|Grade 12|College Delivered (Dual Credits)|<10
+BMM4T|Foundations of Marketing|Grade 12|College Delivered (Dual Credits)|20
+BMX3E|Marketing: Retail and Service|Grade 11|Workplace Preparation (Grade 11 & 12 level)|1828
+BOA4T|Human Relations|Grade 12|College Delivered (Dual Credits)|18
+BOC4T|Office Procedures|Grade 12|College Delivered (Dual Credits)|<10
+BOE4T|Project Management|Grade 12|College Delivered (Dual Credits)|<10
+BOG4E|Business Leadership: Becoming a Manager|Grade 12|Workplace Preparation (Grade 11 & 12 level)|627
+BOH4M|Business Leadership: Management Fundamentals|Grade 12|University/College Preparation (Grade 11 & 12 level)|18076
+BOM4T|Operations Management|Grade 12|College Delivered (Dual Credits)|<10
+BON4T|Conflict Management|Grade 12|College Delivered (Dual Credits)|50
+BOO4T|Principles of Human Resource Management|Grade 12|College Delivered (Dual Credits)|<10
+BTA3O|Information and Communication Technology: The Digital Environment|Grade 11|Open (Grade 9 - 12 level)|4883
+BTB4T|Business Computer Application|Grade 12|College Delivered (Dual Credits)|<10
+BTD4T|Document Processing|Grade 12|College Delivered (Dual Credits)|<10
+BTG4T|Computer Applications for Business and Technology|Grade 12|College Delivered (Dual Credits)|<10
+BTT1O|Information and Communication Technology in Business|Grade 9|Open (Grade 9 - 12 level)|38488
+BTT2O|Information and Communication Technology in Business|Grade 10|Open (Grade 9 - 12 level)|3664
+BTX4C|Information and Communication Technology: Multimedia Solutions|Grade 12|College Preparation (Grade 11 & 12 level)|251
+BTX4E|Information and Communication Technology in the Workplace|Grade 12|Workplace Preparation (Grade 11 & 12 level)|299
+CCL4O|Cours de compétences linguistiques des écoles secondaires de l'Ontario|Grade 12|Open (Grade 9 - 12 level)|836
+CGC1D|Issues in Canadian Geography|Grade 9|Academic (Grade 9 & 10 level)|105238
+CGC1P|Issues in Canadian Geography|Grade 9|Applied (Grade 9 & 10 level)|42095
+CGD3M|Regional Geography|Grade 11|University/College Preparation (Grade 11 & 12 level)|286
+CGF3M|Forces of Nature: Physical Processes and Disasters|Grade 11|University/College Preparation (Grade 11 & 12 level)|3605
+CGG3O|Travel and Tourism: A Geographic Perspective|Grade 11|Open (Grade 9 - 12 level)|11947
+CGO4M|Spatial Technologies in Action|Grade 12|University/College Preparation (Grade 11 & 12 level)|260
+CGR4E|Living in a Sustainable World|Grade 12|Workplace Preparation (Grade 11 & 12 level)|336
+CGR4M|The Environment and Resource Management|Grade 12|University/College Preparation (Grade 11 & 12 level)|4152
+CGT3E||Grade 11|Workplace Preparation (Grade 11 & 12 level)|<10
+CGT3O|Introduction to Spatial Technologies|Grade 11|Open (Grade 9 - 12 level)|76
+CGU4M|World Geography: Urban Patterns and Population Issues|Grade 12|University/College Preparation (Grade 11 & 12 level)|701
+CGW4C|World Issues: A Geographic Analysis|Grade 12|College Preparation (Grade 11 & 12 level)|599
+CGW4U|World Issues: A Geographic Analysis|Grade 12|University Preparation (Grade 11 & 12 level)|12599
+CHA3U|American History|Grade 11|University Preparation (Grade 11 & 12 level)|5522
+CHC2D|Canadian History Since World War I|Grade 10|Academic (Grade 9 & 10 level)|97060
+CHC2P|Canadian History Since World War I|Grade 10|Applied (Grade 9 & 10 level)|41167
+CHE3O|Origins and Citizenship: The History of a Canadian Ethnic Group|Grade 11|Open (Grade 9 - 12 level)|271
+CHI4U|Canada: History, Identity and Culture|Grade 12|University Preparation (Grade 11 & 12 level)|1642
+CHM4E|Adventures in World History|Grade 12|Workplace Preparation (Grade 11 & 12 level)|1509
+CHT3O|World History since 1900: Global and Regional Interactions|Grade 11|Open (Grade 9 - 12 level)|1587
+CHV2O|Civics and Citizenship|Grade 10|Open (Grade 9 - 12 level)|134593
+CHW3M|World History to the End of the Fifteenth Century|Grade 11|University/College Preparation (Grade 11 & 12 level)|14523
+CHY4C|World History since the Fifteenth Century|Grade 12|College Preparation (Grade 11 & 12 level)|1471
+CHY4U|World History since the Fifteenth Century|Grade 12|University Preparation (Grade 11 & 12 level)|13229
+CIA4U|Analysing Current Economic Issues|Grade 12|University Preparation (Grade 11 & 12 level)|9846
+CIC3E||Grade 11|Workplace Preparation (Grade 11 & 12 level)|<10
+CIC4E|Making Personal Economic Choices|Grade 12|Workplace Preparation (Grade 11 & 12 level)|96
+CID4T|Microeconomics|Grade 12|College Delivered (Dual Credits)|<10
+CIE3M|The Individual and the Economy|Grade 11|University/College Preparation (Grade 11 & 12 level)|3109
+CIF4T|Economic Issues|Grade 12|College Delivered (Dual Credits)|29
+CLA4T|Canadian Law|Grade 12|College Delivered (Dual Credits)|47
+CLC4T|Techniques de défense|Grade 12|College Delivered (Dual Credits)|22
+CLE4T|Crime|Grade 12|College Delivered (Dual Credits)|<10
+CLH4T|Security Fundamentals|Grade 12|College Delivered (Dual Credits)|52
+CLJ4T|Criminal and Civil Law|Grade 12|College Delivered (Dual Credits)|20
+CLN4C|Legal Studies|Grade 12|College Preparation (Grade 11 & 12 level)|1468
+CLN4U|Canadian and International Law|Grade 12|University Preparation (Grade 11 & 12 level)|21917
+CLU3E|Understanding Canadian Law in Everyday Life|Grade 11|Workplace Preparation (Grade 11 & 12 level)|1145
+CLU3M|Understanding Canadian Law|Grade 11|University/College Preparation (Grade 11 & 12 level)|31125
+CPC3O|Politics in Action: Making Change|Grade 11|Open (Grade 9 - 12 level)|115
+CPD4T|Political Science|Grade 12|College Delivered (Dual Credits)|30
+CPW4U|Canadian and World Politics|Grade 12|University Preparation (Grade 11 & 12 level)|4375
+EAB3O|Communications for the World of Business and Technology|Grade 11|Open (Grade 9 - 12 level)|17
+EAC4C|The Writer's Craft|Grade 12|College Preparation (Grade 11 & 12 level)|<10
+EAC4U|The Writer's Craft|Grade 12|University Preparation (Grade 11 & 12 level)|366
+EAE1D|English|Grade 9|Academic (Grade 9 & 10 level)|4538
+EAE1P|English|Grade 9|Applied (Grade 9 & 10 level)|1209
+EAE2D|English|Grade 10|Academic (Grade 9 & 10 level)|4072
+EAE2P|English|Grade 10|Applied (Grade 9 & 10 level)|1277
+EAE3C|English|Grade 11|College Preparation (Grade 11 & 12 level)|1693
+EAE3E|English|Grade 11|Workplace Preparation (Grade 11 & 12 level)|102
+EAE3U|English|Grade 11|University Preparation (Grade 11 & 12 level)|3628
+EAE4C|English|Grade 12|College Preparation (Grade 11 & 12 level)|1620
+EAE4E|English|Grade 12|Workplace Preparation (Grade 11 & 12 level)|44
+EAE4U|English|Grade 12|University Preparation (Grade 11 & 12 level)|2954
+EAL4U|English Literature|Grade 12|University Preparation (Grade 11 & 12 level)|81
+EANAO|Anglais pour débutants 1 (APD1)|Level 1|Open (Grade 9 - 12 level)|167
+EANBO|Anglais pour débutants 2 (APD2)|Level 2|Open (Grade 9 - 12 level)|144
+EANCO|Anglais pour débutants 3 (APD3)|Level 3|Open (Grade 9 - 12 level)|74
+EANDO|Anglais pour débutants 4 (APD4)|Level 4|Open (Grade 9 - 12 level)|65
+EAT3M|Canadian Literature|Grade 11|University/College Preparation (Grade 11 & 12 level)|17
+EBA4T|Communications I|Grade 12|College Delivered (Dual Credits)|11
+EBC4T|Communications|Grade 12|College Delivered (Dual Credits)|73
+EBH4T|Introductory College Communications|Grade 12|College Delivered (Dual Credits)|33
+EBI4T|Practical Communications|Grade 12|College Delivered (Dual Credits)|12
+EBT4O|Business and Technological Communication|Grade 12|Open (Grade 9 - 12 level)|430
+ELB4T|Reading Skills|Grade 12|College Delivered (Dual Credits)|<10
+ELDAO|English Literacy Development, ELD Level 1|Level 1|Open (Grade 9 - 12 level)|919
+ELDBO|English Literacy Development, ELD Level 2|Level 2|Open (Grade 9 - 12 level)|578
+ELDCO|English Literacy Development, ELD Level 3|Level 3|Open (Grade 9 - 12 level)|475
+ELDDO|English Literacy Development, ELD Level 4|Level 4|Open (Grade 9 - 12 level)|314
+ELDEO|English Literacy Development, ELD Level 5|Level 5|Open (Grade 9 - 12 level)|142
+ELS2O|Literacy Skills, Grade 10, Open|Grade 10|Open (Grade 9 - 12 level)|2116
+EMS3O|Media Studies|Grade 11|Open (Grade 9 - 12 level)|5487
+ENG1D|English|Grade 9|Academic (Grade 9 & 10 level)|104020
+ENG1P|English|Grade 9|Applied (Grade 9 & 10 level)|31506
+ENG2D|English|Grade 10|Academic (Grade 9 & 10 level)|104419
+ENG2P|English|Grade 10|Applied (Grade 9 & 10 level)|36184
+ENG3C|English|Grade 11|College Preparation (Grade 11 & 12 level)|46329
+ENG3E|English|Grade 11|Workplace Preparation (Grade 11 & 12 level)|7005
+ENG3U|English|Grade 11|University Preparation (Grade 11 & 12 level)|94740
+ENG4C|English|Grade 12|College Preparation (Grade 11 & 12 level)|55863
+ENG4E|English|Grade 12|Workplace Preparation (Grade 11 & 12 level)|4404
+ENG4U|English|Grade 12|University Preparation (Grade 11 & 12 level)|81623
+EPS3O|Presentation and Speaking Skills|Grade 11|Open (Grade 9 - 12 level)|1384
+ESLAO|English as a Second Language, ESL Level 1|Level 1|Open (Grade 9 - 12 level)|2400
+ESLBO|English as a Second Language, ESL Level 2|Level 2|Open (Grade 9 - 12 level)|4363
+ESLCO|English as a Second Language, ESL Level 3|Level 3|Open (Grade 9 - 12 level)|7276
+ESLDO|English as a Second Language, ESL Level 4|Level 4|Open (Grade 9 - 12 level)|8699
+ESLEO|English as a Second Language, ESL Level 5|Level 5|Open (Grade 9 - 12 level)|6092
+ETC3M|Canadian Literature|Grade 11|University/College Preparation (Grade 11 & 12 level)|90
+ETS4C|Studies in Literature|Grade 12|College Preparation (Grade 11 & 12 level)|142
+ETS4U|Studies in Literature|Grade 12|University Preparation (Grade 11 & 12 level)|3202
+EWC4C|The Writer's Craft|Grade 12|College Preparation (Grade 11 & 12 level)|1063
+EWC4U|The Writer's Craft|Grade 12|University Preparation (Grade 11 & 12 level)|11794
+EWD4T|Persuasive Writing|Grade 12|College Delivered (Dual Credits)|<10
+EWH4T|Introduction to Essay Writing and Portfolio Building|Grade 12|College Delivered (Dual Credits)|<10
+FAE4O|Atelier d'écriture|Grade 12|Open (Grade 9 - 12 level)|29
+FAF4O|Français des affaires et de la technologie|Grade 12|Open (Grade 9 - 12 level)|13
+FCC3O|Compétence fonctionnelle en communication orale, en lecture et en écriture|Grade 11|Open (Grade 9 - 12 level)|11
+FEF1D|Extended French|Grade 9|Academic (Grade 9 & 10 level)|3486
+FEF2D|Extended French|Grade 10|Academic (Grade 9 & 10 level)|2807
+FEF3U|Extended French|Grade 11|University Preparation (Grade 11 & 12 level)|2604
+FEF4U|Extended French|Grade 12|University Preparation (Grade 11 & 12 level)|2249
+FFAAO|Actualisation linguistique en français 1|Level 1|Open (Grade 9 - 12 level)|39
+FFABO|Actualisation linguistique en français 2|Level 2|Open (Grade 9 - 12 level)|11
+FFACO|Actualisation linguistique en français 3|Level 3|Open (Grade 9 - 12 level)|<10
+FFADO|Actualisation linguistique en français 4|Level 4|Open (Grade 9 - 12 level)|<10
+FFM3O|Français des médias|Grade 11|Open (Grade 9 - 12 level)|22
+FFPAO|Programme d'appui aux nouveaux arrivants 1|Level 1|Open (Grade 9 - 12 level)|52
+FFPBO|Programme d'appui aux nouveaux arrivants 2|Level 2|Open (Grade 9 - 12 level)|13
+FFPCO|Programme d'appui aux nouveaux arrivants 3|Level 3|Open (Grade 9 - 12 level)|17
+FFPDO|Programme d'appui aux nouveaux arrivants 4|Level 4|Open (Grade 9 - 12 level)|<10
+FIF1D|French Immersion|Grade 9|Academic (Grade 9 & 10 level)|9509
+FIF1P|French Immersion|Grade 9|Applied (Grade 9 & 10 level)|47
+FIF2D|French Immersion|Grade 10|Academic (Grade 9 & 10 level)|8192
+FIF2P|French Immersion|Grade 10|Applied (Grade 9 & 10 level)|11
+FIF3O|French Immersion|Grade 11|Open (Grade 9 - 12 level)|24
+FIF3U|French Immersion|Grade 11|University Preparation (Grade 11 & 12 level)|7270
+FIF4O|French Immersion|Grade 12|Open (Grade 9 - 12 level)|48
+FIF4U|French Immersion|Grade 12|University Preparation (Grade 11 & 12 level)|6306
+FLC4M|Littérature du Canada français|Grade 12|University/College Preparation (Grade 11 & 12 level)|<10
+FLO4U|Grandes Suvres de la littérature|Grade 12|University Preparation (Grade 11 & 12 level)|69
+FRA1D|Français|Grade 9|Academic (Grade 9 & 10 level)|4533
+FRA1P|Français|Grade 9|Applied (Grade 9 & 10 level)|1351
+FRA2D|Français|Grade 10|Academic (Grade 9 & 10 level)|4112
+FRA2P|Français|Grade 10|Applied (Grade 9 & 10 level)|1453
+FRA3C|Français|Grade 11|College Preparation (Grade 11 & 12 level)|2025
+FRA3E|Français|Grade 11|Workplace Preparation (Grade 11 & 12 level)|519
+FRA3U|Français|Grade 11|University Preparation (Grade 11 & 12 level)|3755
+FRA4C|Français|Grade 12|College Preparation (Grade 11 & 12 level)|2065
+FRA4E|Français|Grade 12|Workplace Preparation (Grade 11 & 12 level)|134
+FRA4U|Français|Grade 12|University Preparation (Grade 11 & 12 level)|3088
+FSF1D|Core French|Grade 9|Academic (Grade 9 & 10 level)|67948
+FSF1O|Core French|Grade 9|Open (Grade 9 - 12 level)|2233
+FSF1P|Core French|Grade 9|Applied (Grade 9 & 10 level)|36225
+FSF2D|Core French|Grade 10|Academic (Grade 9 & 10 level)|25863
+FSF2O|Core French|Grade 10|Open (Grade 9 - 12 level)|24
+FSF2P|Core French|Grade 10|Applied (Grade 9 & 10 level)|500
+FSF3O|Core French|Grade 11|Open (Grade 9 - 12 level)|220
+FSF3U|Core French|Grade 11|University Preparation (Grade 11 & 12 level)|14311
+FSF4O|Core French|Grade 12|Open (Grade 9 - 12 level)|79
+FSF4U|Core French|Grade 12|University Preparation (Grade 11 & 12 level)|10051
+GCC4T|Career and College Success|Grade 12|College Delivered (Dual Credits)|43
+GCE4T|Career Employment Preparation|Grade 12|College Delivered (Dual Credits)|28
+GCI4T|Exploration en métiers|Grade 12|College Delivered (Dual Credits)|39
+GLC2O|Career Studies|Grade 10|Open (Grade 9 - 12 level)|153264
+GLD2O|Discovering the Workplace|Grade 10|Open (Grade 9 - 12 level)|4573
+GLE1O|Learning Strategies 1: Skills for Success in Secondary School|Grade 9|Open (Grade 9 - 12 level)|14430
+GLE2O|Learning Strategies 2: Skills for Success in Secondary School|Grade 10|Open (Grade 9 - 12 level)|7762
+GLE3O|Advanced Learning Strategies: Skills for Success After Secondary School|Grade 11|Open (Grade 9 - 12 level)|5932
+GLE4O|Advanced Learning Strategies: Skills for Success After Secondary School|Grade 12|Open (Grade 9 - 12 level)|3513
+GLH4T|College Connection|Grade 12|College Delivered (Dual Credits)|42
+GLI4T|Success Strategies|Grade 12|College Delivered (Dual Credits)|45
+GLN4O|Navigating the Workplace|Grade 12|Open (Grade 9 - 12 level)|8181
+GLS1O|Learning Strategies 1: Skills for Success in Secondary School|Grade 9|Open (Grade 9 - 12 level)|11128
+GLS4O|Advanced Learning Strategies: Skills for Success After Secondary School|Grade 12|Open (Grade 9 - 12 level)|4097
+GPA4T|Developing Leadership|Grade 12|College Delivered (Dual Credits)|17
+GPL4T|Developing Leadership|Grade 12|College Delivered (Dual Credits)|40
+GPP3O|Leadership and Peer Support|Grade 11|Open (Grade 9 - 12 level)|15954
+GWB4T|Personal and Academic Success Strategies|Grade 12|College Delivered (Dual Credits)|23
+GWC4T|Student Success for Higher Learning|Grade 12|College Delivered (Dual Credits)|<10
+GWL3O|Designing Your Future|Grade 11|Open (Grade 9 - 12 level)|9404
+HBA4T|Psychology|Grade 12|College Delivered (Dual Credits)|<10
+HBB4T|Introduction to Psychology|Grade 12|College Delivered (Dual Credits)|557
+HBC4T|Social Psychology|Grade 12|College Delivered (Dual Credits)|92
+HBD4T|Developmental Psychology|Grade 12|College Delivered (Dual Credits)|196
+HBF4T|Principles of Psychology|Grade 12|College Delivered (Dual Credits)|96
+HBG4T|Psychology - Police Foundations|Grade 12|College Delivered (Dual Credits)|<10
+HBH4T|Psychology and Group Dynamics|Grade 12|College Delivered (Dual Credits)|72
+HBI4T|Forensic Psychology|Grade 12|College Delivered (Dual Credits)|31
+HBJ4T|Issues in Psychology|Grade 12|College Delivered (Dual Credits)|10
+HBN4T|Psychology of Learning|Grade 12|College Delivered (Dual Credits)|17
+HBQ4T|Crisis Intervention|Grade 12|College Delivered (Dual Credits)|<10
+HBR4T|Developmental Psychology for the PSW|Grade 12|College Delivered (Dual Credits)|<10
+HBS4T|Search and Rescue|Grade 12|College Delivered (Dual Credits)|48
+HBV4T|Métacognition|Grade 12|College Delivered (Dual Credits)|58
+HBW4T|Psychologie du développement de l'enfant|Grade 12|College Delivered (Dual Credits)|15
+HCB4T|Criminal Justice System|Grade 12|College Delivered (Dual Credits)|10
+HCC4T|Criminology|Grade 12|College Delivered (Dual Credits)|211
+HCE4T|Criminal Code: Civil and Federal Statutes|Grade 12|College Delivered (Dual Credits)|<10
+HCF4T|Canadian Criminal Justice Systems|Grade 12|College Delivered (Dual Credits)|239
+HDC4T|Interpersonal Communication Skills|Grade 12|College Delivered (Dual Credits)|106
+HDG4T|Introduction to Social Welfare|Grade 12|College Delivered (Dual Credits)|22
+HDI4T|Social Sciences|Grade 12|College Delivered (Dual Credits)|<10
+HDM4T|International Interactions|Grade 12|College Delivered (Dual Credits)|41
+HDN4T|The Canadian Workplace|Grade 12|College Delivered (Dual Credits)|11
+HDQ4T|Popular Culture and Social Influence|Grade 12|College Delivered (Dual Credits)|105
+HDV4T|Introduction au travail social|Grade 12|College Delivered (Dual Credits)|13
+HDW4T|Leadership in Society|Grade 12|College Delivered (Dual Credits)|21
+HDX4T|Substance Abuse|Grade 12|College Delivered (Dual Credits)|38
+HDZ4T|Interpersonal Violence in Canadian Society|Grade 12|College Delivered (Dual Credits)|85
+HED4T|Principles of Ethical Reasoning|Grade 12|College Delivered (Dual Credits)|15
+HEE4T||Grade 12|College Delivered (Dual Credits)|<10
+HEG4T|Contemporary Ethical Issues|Grade 12|College Delivered (Dual Credits)|20
+HFA4C|Nutrition and Health|Grade 12|College Preparation (Grade 11 & 12 level)|4256
+HFA4M|Food and Nutrition Sciences|Grade 12|University/College Preparation (Grade 11 & 12 level)|<10
+HFA4U|Nutrition and Health|Grade 12|University Preparation (Grade 11 & 12 level)|10382
+HFB4T|Nutrition:  Making Better Choices|Grade 12|College Delivered (Dual Credits)|45
+HFC3E|Food and Culture|Grade 11|Workplace Preparation (Grade 11 & 12 level)|1623
+HFC3M|Food and Culture|Grade 11|University/College Preparation (Grade 11 & 12 level)|4102
+HFL4E|Food and Healthy Living|Grade 12|Workplace Preparation (Grade 11 & 12 level)|1072
+HFN1O|Food and Nutrition|Grade 9|Open (Grade 9 - 12 level)|5925
+HFN2O|Food and Nutrition|Grade 10|Open (Grade 9 - 12 level)|22142
+HHA4T|Human Relationships|Grade 12|College Delivered (Dual Credits)|<10
+HHC4T|Exploring Human Diversity|Grade 12|College Delivered (Dual Credits)|145
+HHD3O|Dynamics of Human Relationships|Grade 11|Open (Grade 9 - 12 level)|1750
+HHF4T|Human Growth and Development|Grade 12|College Delivered (Dual Credits)|18
+HHG4M|Human Development Throughout the Lifespan|Grade 12|University/College Preparation (Grade 11 & 12 level)|7182
+HHH4T|The Art of Counseling Children and Youth|Grade 12|College Delivered (Dual Credits)|35
+HHI4T|Principles of Learning|Grade 12|College Delivered (Dual Credits)|24
+HHK4T|Human Services|Grade 12|College Delivered (Dual Credits)|23
+HHS4C|Families in Canada|Grade 12|College Preparation (Grade 11 & 12 level)|2704
+HHS4M|Individuals and Families in a Diverse Society|Grade 12|University/College Preparation (Grade 11 & 12 level)|23
+HHS4U|Families in Canada|Grade 12|University Preparation (Grade 11 & 12 level)|13354
+HIB4T|Personal Growth and Development|Grade 12|College Delivered (Dual Credits)|138
+HIC4T|PSW Practice|Grade 12|College Delivered (Dual Credits)|12
+HIF1O|Exploring Family Studies|Grade 9|Open (Grade 9 - 12 level)|8773
+HIF2O|Exploring Family Studies|Grade 10|Open (Grade 9 - 12 level)|1977
+HIG4T|Behavioural Intervention|Grade 12|College Delivered (Dual Credits)|11
+HIH4T|Critical Thinking and Problem Solving|Grade 12|College Delivered (Dual Credits)|<10
+HIL4T|Critical Thinking and Problem Solving II|Grade 12|College Delivered (Dual Credits)|11
+HIP3E|Managing Personal Resources|Grade 11|Workplace Preparation (Grade 11 & 12 level)|201
+HIP4O|Personal Life Management|Grade 12|Open (Grade 9 - 12 level)|6367
+HIR3C|Managing Personal and Family Resources|Grade 11|College Preparation (Grade 11 & 12 level)|21
+HLS3O|Housing and Home Design|Grade 11|Open (Grade 9 - 12 level)|1952
+HNA4T|World of Fashion|Grade 12|College Delivered (Dual Credits)|13
+HNB4M|The World of Fashion|Grade 12|University/College Preparation (Grade 11 & 12 level)|2177
+HNB4O|The Fashion Industry|Grade 12|Open (Grade 9 - 12 level)|<10
+HNC3C|Understanding Fashion|Grade 11|College Preparation (Grade 11 & 12 level)|3333
+HNC3O|Fashion and Creative Expression|Grade 11|Open (Grade 9 - 12 level)|29
+HNL2O|Clothing|Grade 10|Open (Grade 9 - 12 level)|805
+HPC3O|Raising Healthy Children|Grade 11|Open (Grade 9 - 12 level)|13754
+HPD4C|Working with School-Age Children and Adolescents|Grade 12|College Preparation (Grade 11 & 12 level)|1900
+HPD4E|Parenting and Human Development|Grade 12|Workplace Preparation (Grade 11 & 12 level)|72
+HPF4T|Apprentissage par le jeu|Grade 12|College Delivered (Dual Credits)|55
+HPW3C|Working with Infants and Young Children|Grade 11|College Preparation (Grade 11 & 12 level)|5623
+HRA4T|Paths of Faith|Grade 12|College Delivered (Dual Credits)|25
+HRE1O|Religious Education|Grade 9|Open (Grade 9 - 12 level)|46528
+HRE2O|Religious Education|Grade 10|Open (Grade 9 - 12 level)|44588
+HRE3M|Religious Education|Grade 11|University/College Preparation (Grade 11 & 12 level)|98
+HRE3O|Religious Education|Grade 11|Open (Grade 9 - 12 level)|891
+HRE4M|Religious Education|Grade 12|University/College Preparation (Grade 11 & 12 level)|24304
+HRE4O|Religious Education|Grade 12|Open (Grade 9 - 12 level)|12920
+HRF3O|World Religions and Belief Traditions in Daily Life|Grade 11|Open (Grade 9 - 12 level)|17588
+HRT3M|World Religions and Belief Traditions: Perspectives, Issues, and Challenges|Grade 11|University/College Preparation (Grade 11 & 12 level)|32499
+HSA4T|Sociology of Family|Grade 12|College Delivered (Dual Credits)|10
+HSB4M|Challenge and Change in Society|Grade 12|University/College Preparation (Grade 11 & 12 level)|14
+HSB4U|Challenge and Change in Society|Grade 12|University Preparation (Grade 11 & 12 level)|19209
+HSC4M|World Cultures|Grade 12|University/College Preparation (Grade 11 & 12 level)|1117
+HSD4T|Sociology and Canadian Society|Grade 12|College Delivered (Dual Credits)|21
+HSE3E|Equity, Diversity, and Social Justice|Grade 11|Workplace Preparation (Grade 11 & 12 level)|529
+HSE4M|Equity and Social Justice: From Theory to Practice|Grade 12|University/College Preparation (Grade 11 & 12 level)|3264
+HSF4T|Sociology in Canadian Society|Grade 12|College Delivered (Dual Credits)|39
+HSG3M|Gender Studies|Grade 11|University/College Preparation (Grade 11 & 12 level)|869
+HSH4T|Introduction to Sociology|Grade 12|College Delivered (Dual Credits)|116
+HSL4T|Sociology for Social Service Workers|Grade 12|College Delivered (Dual Credits)|22
+HSM4T|Réalités et relations interculturelles|Grade 12|College Delivered (Dual Credits)|35
+HSN4T|Violence against Women|Grade 12|College Delivered (Dual Credits)|<10
+HSP3C|Introduction to Anthropology, Psychology, and Sociology|Grade 11|College Preparation (Grade 11 & 12 level)|9002
+HSP3M|Introduction to Anthropology, Psychology, and Sociology|Grade 11|University/College Preparation (Grade 11 & 12 level)|88
+HSP3U|Introduction to Anthropology, Psychology, and Sociology|Grade 11|University Preparation (Grade 11 & 12 level)|36656
+HSS4T|Sociology|Grade 12|College Delivered (Dual Credits)|92
+HZB3M|Philosophy: The Big Questions|Grade 11|University/College Preparation (Grade 11 & 12 level)|3514
+HZB3O|Philosophy: The Big Questions|Grade 11|Open (Grade 9 - 12 level)|39
+HZT4U|Philosophy: Questions and Theories|Grade 12|University Preparation (Grade 11 & 12 level)|17043
+IBC4T|Database|Grade 12|College Delivered (Dual Credits)|<10
+IBD4T|Introduction to Web Development|Grade 12|College Delivered (Dual Credits)|12
+IBI4T|Microsoft Office Application|Grade 12|College Delivered (Dual Credits)|62
+IBJ4T|Architecture d'un système d'exploitation Linux|Grade 12|College Delivered (Dual Credits)|18
+IBK4T|Computer Applications|Grade 12|College Delivered (Dual Credits)|30
+IBL4T|Introduction to Programming|Grade 12|College Delivered (Dual Credits)|<10
+IBM4T|Introduction au HTML|Grade 12|College Delivered (Dual Credits)|<10
+IBN4T|Mobile Applications|Grade 12|College Delivered (Dual Credits)|<10
+IBP4T|Graphics Theory and Application|Grade 12|College Delivered (Dual Credits)|24
+IBQ4T|Programmation Internet|Grade 12|College Delivered (Dual Credits)|<10
+IBR4T|Software Applications|Grade 12|College Delivered (Dual Credits)|30
+IBS4T|Web Page Design|Grade 12|College Delivered (Dual Credits)|21
+IBU4T|Introduction to Game Program/Design|Grade 12|College Delivered (Dual Credits)|<10
+ICA4T|Computer Techniques|Grade 12|College Delivered (Dual Credits)|<10
+ICS2O|Introduction to Computer Studies|Grade 10|Open (Grade 9 - 12 level)|15081
+ICS3C|Introduction to Computer Programming|Grade 11|College Preparation (Grade 11 & 12 level)|2828
+ICS3M||Grade 11|University/College Preparation (Grade 11 & 12 level)|<10
+ICS3U|Introduction to Computer Science|Grade 11|University Preparation (Grade 11 & 12 level)|16379
+ICS4C|Computer Programming|Grade 12|College Preparation (Grade 11 & 12 level)|621
+ICS4U|Computer Science|Grade 12|University Preparation (Grade 11 & 12 level)|7574
+IDC3O|Interdisciplinary Studies|Grade 11|Open (Grade 9 - 12 level)|5090
+IDC4O|Interdisciplinary Studies|Grade 12|Open (Grade 9 - 12 level)|2643
+IDC4U|Interdisciplinary Studies|Grade 12|University Preparation (Grade 11 & 12 level)|15838
+IDP3O|Interdisciplinary Studies|Grade 11|Open (Grade 9 - 12 level)|495
+IDP4O|Interdisciplinary Studies|Grade 12|Open (Grade 9 - 12 level)|117
+IDP4U|Interdisciplinary Studies|Grade 12|University Preparation (Grade 11 & 12 level)|894
+JAB4T|Lights, Camera, Action!|Grade 12|College Delivered (Dual Credits)|<10
+JAL4T|Film Studies|Grade 12|College Delivered (Dual Credits)|68
+JBD4T|College Success|Grade 12|College Delivered (Dual Credits)|92
+JCB4T|Stick Handling Through History|Grade 12|College Delivered (Dual Credits)|<10
+JDE4T|Enjeux et Survie|Grade 12|College Delivered (Dual Credits)|<10
+JEB4T|Making the Grade|Grade 12|College Delivered (Dual Credits)|109
+JEC4T|Success Matters|Grade 12|College Delivered (Dual Credits)|30
+JEE4T|Professional Effectiveness|Grade 12|College Delivered (Dual Credits)|30
+JEH4T|Speaking with Confidence|Grade 12|College Delivered (Dual Credits)|63
+JEK4T|Improv|Grade 12|College Delivered (Dual Credits)|10
+JEL4T|Roots to Success|Grade 12|College Delivered (Dual Credits)|30
+JFA4T|Developmental Psychology  Arts and Science/Social Service Worker Section|Grade 12|College Delivered (Dual Credits)|26
+JFE4T|Current Events|Grade 12|College Delivered (Dual Credits)|129
+JFF4T|Issues in Diversity|Grade 12|College Delivered (Dual Credits)|27
+JGB4T|Culture technologique|Grade 12|College Delivered (Dual Credits)|214
+JGC4T|Society, Technology and Social Issues|Grade 12|College Delivered (Dual Credits)|63
+JGE4T|Growing Up Digital|Grade 12|College Delivered (Dual Credits)|25
+JGH4T|Fundamentals -  Photojournalism|Grade 12|College Delivered (Dual Credits)|20
+JMB4T|Introduction à la profession|Grade 12|College Delivered (Dual Credits)|31
+KALAN|Creative Arts for Enjoyment and Expression|Level 1|Special Education Non-credit Course (all levels)|1400
+KALBN|Creative Arts for Enjoyment and Expression|Level 2|Special Education Non-credit Course (all levels)|1163
+KALCN|Creative Arts for Enjoyment and Expression|Level 3|Special Education Non-credit Course (all levels)|715
+KALDN|Creative Arts for Enjoyment and Expression|Level 4|Special Education Non-credit Course (all levels)|657
+KALEN|Creative Arts for Enjoyment and Expression|Level 5|Special Education Non-credit Course (all levels)|499
+KALFN|Creative Arts for Enjoyment and Expression|Level 6|Special Education Non-credit Course (all levels)|328
+KALGN|Creative Arts for Enjoyment and Expression|Level 7|Special Education Non-credit Course (all levels)|213
+KALHN|Creative Arts for Enjoyment and Expression|Level 8|Special Education Non-credit Course (all levels)|41
+KALIN|Creative Arts for Enjoyment and Expression|Level 9|Special Education Non-credit Course (all levels)|54
+KALJN|Creative Arts for Enjoyment and Expression|Level 10|Special Education Non-credit Course (all levels)|35
+KALKN|Creative Arts for Enjoyment and Expression|Level 11|Special Education Non-credit Course (all levels)|80
+KALLN|Creative Arts for Enjoyment and Expression|Level 12|Special Education Non-credit Course (all levels)|22
+KALMN|Creative Arts for Enjoyment and Expression|Level 13|Special Education Non-credit Course (all levels)|<10
+KALNN|Creative Arts for Enjoyment and Expression|Level 14|Special Education Non-credit Course (all levels)|<10
+KALON|Creative Arts for Enjoyment and Expression|Level 15|Special Education Non-credit Course (all levels)|<10
+KALPN|Creative Arts for Enjoyment and Expression|Level 16|Special Education Non-credit Course (all levels)|<10
+KBBAN|Money Management and Personal Banking|Level 1|Special Education Non-credit Course (all levels)|465
+KBBBN|Money Management and Personal Banking|Level 2|Special Education Non-credit Course (all levels)|249
+KBBCN|Money Management and Personal Banking|Level 3|Special Education Non-credit Course (all levels)|185
+KBBDN|Money Management and Personal Banking|Level 4|Special Education Non-credit Course (all levels)|215
+KBBEN|Money Management and Personal Banking|Level 5|Special Education Non-credit Course (all levels)|194
+KBBFN|Money Management and Personal Banking|Level 7|Special Education Non-credit Course (all levels)|87
+KBBGN|Money Management and Personal Banking|Level 7|Special Education Non-credit Course (all levels)|64
+KBBHN|Money Management and Personal Banking|Level 8|Special Education Non-credit Course (all levels)|10
+KBBIN|Money Management and Personal Banking|Level 9|Special Education Non-credit Course (all levels)|<10
+KBBJN|Money Management and Personal Banking|Level 10|Special Education Non-credit Course (all levels)|388
+KBBKN|Money Management and Personal Banking|Level 11|Special Education Non-credit Course (all levels)|11
+KBBMN|Money Management and Personal Banking|Level 13|Special Education Non-credit Course (all levels)|<10
+KCCAN|Transit Training and Community Exploration|Level 1|Special Education Non-credit Course (all levels)|278
+KCCBN|Transit Training and Community Exploration|Level 2|Special Education Non-credit Course (all levels)|181
+KCCCN|Transit Training and Community Exploration|Level 3|Special Education Non-credit Course (all levels)|384
+KCCDN|Transit Training and Community Exploration|Level 4|Special Education Non-credit Course (all levels)|247
+KCCEN|Transit Training and Community Exploration|Level 5|Special Education Non-credit Course (all levels)|129
+KCCFN|Transit Training and Community Exploration|Level 6|Special Education Non-credit Course (all levels)|84
+KCCGN|Transit Training and Community Exploration|Level 7|Special Education Non-credit Course (all levels)|119
+KCCHN|Transit Training and Community Exploration|Level 8|Special Education Non-credit Course (all levels)|<10
+KCCIN|Transit Training and Community Exploration|Level 9|Special Education Non-credit Course (all levels)|<10
+KCCJN|Transit Training and Community Exploration|Level 10|Special Education Non-credit Course (all levels)|128
+KCWAN|Exploring Our World|Level 1|Special Education Non-credit Course (all levels)|973
+KCWBN|Exploring Our World|Level 2|Special Education Non-credit Course (all levels)|511
+KCWCN|Exploring Our World|Level 3|Special Education Non-credit Course (all levels)|403
+KCWDN|Exploring Our World|Level 4|Special Education Non-credit Course (all levels)|615
+KCWEN|Exploring Our World|Level 5|Special Education Non-credit Course (all levels)|366
+KCWFN|Exploring Our World|Level 6|Special Education Non-credit Course (all levels)|162
+KCWGN|Exploring Our World|Level 7|Special Education Non-credit Course (all levels)|149
+KCWHN|Exploring Our World|Level 8|Special Education Non-credit Course (all levels)|<10
+KCWIN|Exploring Our World|Level 9|Special Education Non-credit Course (all levels)|<10
+KCWJN|Exploring Our World|Level 10|Special Education Non-credit Course (all levels)|163
+KCWKN|Exploring Our World|Level 11|Special Education Non-credit Course (all levels)|<10
+KCWLN|Exploring Our World|Level 12|Special Education Non-credit Course (all levels)|<10
+KCWNN|Exploring Our World|Level 14|Special Education Non-credit Course (all levels)|<10
+KENAN|Language and Communication Development|Level 1|Special Education Non-credit Course (all levels)|3149
+KENBN|Language and Communication Development|Level 2|Special Education Non-credit Course (all levels)|2150
+KENCN|Language and Communication Development|Level 3|Special Education Non-credit Course (all levels)|1517
+KENDN|Language and Communication Development|Level 4|Special Education Non-credit Course (all levels)|1709
+KENEN|Language and Communication Development|Level 5|Special Education Non-credit Course (all levels)|1224
+KENFN|Language and Communication Development|Level 6|Special Education Non-credit Course (all levels)|698
+KENGN|Language and Communication Development|Level 7|Special Education Non-credit Course (all levels)|660
+KENHN|Language and Communication Development|Level 8|Special Education Non-credit Course (all levels)|191
+KENIN|Language and Communication Development|Level 9|Special Education Non-credit Course (all levels)|108
+KENJN|Language and Communication Development|Level 10|Special Education Non-credit Course (all levels)|486
+KENKN|Language and Communication Development|Level 11|Special Education Non-credit Course (all levels)|56
+KENLN|Language and Communication Development|Level 12|Special Education Non-credit Course (all levels)|74
+KENMN|Language and Communication Development|Level 13|Special Education Non-credit Course (all levels)|78
+KENNN|Language and Communication Development|Level 14|Special Education Non-credit Course (all levels)|30
+KENON|Language and Communication Development|Level 15|Special Education Non-credit Course (all levels)|<10
+KENPN|Language and Communication Development|Level 16|Special Education Non-credit Course (all levels)|10
+KGLAN|Personal Life Skills|Level 1|Special Education Non-credit Course (all levels)|2162
+KGLBN|Personal Life Skills|Level 2|Special Education Non-credit Course (all levels)|1349
+KGLCN|Personal Life Skills|Level 3|Special Education Non-credit Course (all levels)|1170
+KGLDN|Personal Life Skills|Level 4|Special Education Non-credit Course (all levels)|1016
+KGLEN|Personal Life Skills|Level 5|Special Education Non-credit Course (all levels)|1130
+KGLFN|Personal Life Skills|Level 6|Special Education Non-credit Course (all levels)|562
+KGLGN|Personal Life Skills|Level 7|Special Education Non-credit Course (all levels)|416
+KGLHN|Personal Life Skills|Level 8|Special Education Non-credit Course (all levels)|187
+KGLIN|Personal Life Skills|Level 9|Special Education Non-credit Course (all levels)|15
+KGLJN|Personal Life Skills|Level 10|Special Education Non-credit Course (all levels)|375
+KGLKN|Personal Life Skills|Level 11|Special Education Non-credit Course (all levels)|33
+KGLLN|Personal Life Skills|Level 12|Special Education Non-credit Course (all levels)|23
+KGLMN|Personal Life Skills|Level 13|Special Education Non-credit Course (all levels)|31
+KGLNN|Personal Life Skills|Level 14|Special Education Non-credit Course (all levels)|25
+KGLON|Personal Life Skills|Level 15|Special Education Non-credit Course (all levels)|<10
+KGWAN|Exploring the World of Work|Level 1|Special Education Non-credit Course (all levels)|1006
+KGWBN|Exploring the World of Work|Level 2|Special Education Non-credit Course (all levels)|793
+KGWCN|Exploring the World of Work|Level 3|Special Education Non-credit Course (all levels)|747
+KGWDN|Exploring the World of Work|Level 4|Special Education Non-credit Course (all levels)|1038
+KGWEN|Exploring the World of Work|Level 5|Special Education Non-credit Course (all levels)|517
+KGWFN|Exploring the World of Work|Level 6|Special Education Non-credit Course (all levels)|392
+KGWGN|Exploring the World of Work|Level 7|Special Education Non-credit Course (all levels)|319
+KGWHN|Exploring the World of Work|Level 8|Special Education Non-credit Course (all levels)|59
+KGWIN|Exploring the World of Work|Level 9|Special Education Non-credit Course (all levels)|48
+KGWJN|Exploring the World of Work|Level 10|Special Education Non-credit Course (all levels)|371
+KGWKN|Exploring the World of Work|Level 11|Special Education Non-credit Course (all levels)|10
+KGWLN|Exploring the World of Work|Level 12|Special Education Non-credit Course (all levels)|10
+KGWMN|Exploring the World of Work|Level 13|Special Education Non-credit Course (all levels)|15
+KGWNN|Exploring the World of Work|Level 14|Special Education Non-credit Course (all levels)|27
+KHDAN|Social Skills Development|Level 1|Special Education Non-credit Course (all levels)|1650
+KHDBN|Social Skills Development|Level 2|Special Education Non-credit Course (all levels)|1041
+KHDCN|Social Skills Development|Level 3|Special Education Non-credit Course (all levels)|854
+KHDDN|Social Skills Development|Level 4|Special Education Non-credit Course (all levels)|727
+KHDEN|Social Skills Development|Level 5|Special Education Non-credit Course (all levels)|498
+KHDFN|Social Skills Development|Level 6|Special Education Non-credit Course (all levels)|238
+KHDGN|Social Skills Development|Level 7|Special Education Non-credit Course (all levels)|221
+KHDHN|Social Skills Development|Level 8|Special Education Non-credit Course (all levels)|51
+KHDIN|Social Skills Development|Level 9|Special Education Non-credit Course (all levels)|22
+KHDJN|Social Skills Development|Level 10|Special Education Non-credit Course (all levels)|347
+KHDKN|Social Skills Development|Level 11|Special Education Non-credit Course (all levels)|11
+KHDLN|Social Skills Development|Level 12|Special Education Non-credit Course (all levels)|<10
+KHDMN|Social Skills Development|Level 13|Special Education Non-credit Course (all levels)|<10
+KHDNN|Social Skills Development|Level 14|Special Education Non-credit Course (all levels)|<10
+KHIAN|Culinary Skills|Level 1|Special Education Non-credit Course (all levels)|664
+KHIBN|Culinary Skills|Level 2|Special Education Non-credit Course (all levels)|547
+KHICN|Culinary Skills|Level 3|Special Education Non-credit Course (all levels)|453
+KHIDN|Culinary Skills|Level 4|Special Education Non-credit Course (all levels)|662
+KHIEN|Culinary Skills|Level 5|Special Education Non-credit Course (all levels)|232
+KHIFN|Culinary Skills|Level 6|Special Education Non-credit Course (all levels)|128
+KHIGN|Culinary Skills|Level 7|Special Education Non-credit Course (all levels)|168
+KHIHN|Culinary Skills|Level 8|Special Education Non-credit Course (all levels)|24
+KHIIN|Culinary Skills|Level 9|Special Education Non-credit Course (all levels)|13
+KHIJN|Culinary Skills|Level 10|Special Education Non-credit Course (all levels)|13
+KHIKN|Culinary Skills|Level 11|Special Education Non-credit Course (all levels)|<10
+KHILN|Culinary Skills|Level 12|Special Education Non-credit Course (all levels)|<10
+KHIMN|Culinary Skills|Level 13|Special Education Non-credit Course (all levels)|<10
+KHINN|Culinary Skills|Level 14|Special Education Non-credit Course (all levels)|<10
+KMMAN|Numeracy and Numbers|Level 1|Special Education Non-credit Course (all levels)|2669
+KMMBN|Numeracy and Numbers|Level 2|Special Education Non-credit Course (all levels)|1668
+KMMCN|Numeracy and Numbers|Level 3|Special Education Non-credit Course (all levels)|1156
+KMMDN|Numeracy and Numbers|Level 4|Special Education Non-credit Course (all levels)|1251
+KMMEN|Numeracy and Numbers|Level 5|Special Education Non-credit Course (all levels)|916
+KMMFN|Numeracy and Numbers|Level 6|Special Education Non-credit Course (all levels)|493
+KMMGN|Numeracy and Numbers|Level 7|Special Education Non-credit Course (all levels)|417
+KMMHN|Numeracy and Numbers|Level 8|Special Education Non-credit Course (all levels)|149
+KMMIN|Numeracy and Numbers|Level 9|Special Education Non-credit Course (all levels)|114
+KMMJN|Numeracy and Numbers|Level 10|Special Education Non-credit Course (all levels)|447
+KMMKN|Numeracy and Numbers|Level 11|Special Education Non-credit Course (all levels)|61
+KMMLN|Numeracy and Numbers|Level 12|Special Education Non-credit Course (all levels)|54
+KMMMN|Numeracy and Numbers|Level 13|Special Education Non-credit Course (all levels)|38
+KMMNN|Numeracy and Numbers|Level 14|Special Education Non-credit Course (all levels)|24
+KMMON|Numeracy and Numbers|Level 15|Special Education Non-credit Course (all levels)|13
+KMMPN|Numeracy and Numbers|Level 16|Special Education Non-credit Course (all levels)|13
+KNAAN|First Canadians|Level 1|Special Education Non-credit Course (all levels)|93
+KNABN|First Canadians|Level 2|Special Education Non-credit Course (all levels)|73
+KNACN|First Canadians|Level 3|Special Education Non-credit Course (all levels)|29
+KNADN|First Canadians|Level 4|Special Education Non-credit Course (all levels)|26
+KNAEN|First Canadians|Level 5|Special Education Non-credit Course (all levels)|12
+KNAFN|First Canadians|Level 6|Special Education Non-credit Course (all levels)|10
+KNAGN|First Canadians|Level 7|Special Education Non-credit Course (all levels)|<10
+KPFAN|Personal Health and Fitness|Level 1|Special Education Non-credit Course (all levels)|1550
+KPFBN|Personal Health and Fitness|Level 2|Special Education Non-credit Course (all levels)|1084
+KPFCN|Personal Health and Fitness|Level 3|Special Education Non-credit Course (all levels)|1034
+KPFDN|Personal Health and Fitness|Level 4|Special Education Non-credit Course (all levels)|960
+KPFEN|Personal Health and Fitness|Level 5|Special Education Non-credit Course (all levels)|665
+KPFFN|Personal Health and Fitness|Level 6|Special Education Non-credit Course (all levels)|358
+KPFGN|Personal Health and Fitness|Level 7|Special Education Non-credit Course (all levels)|427
+KPFHN|Personal Health and Fitness|Level 8|Special Education Non-credit Course (all levels)|107
+KPFIN|Personal Health and Fitness|Level 9|Special Education Non-credit Course (all levels)|57
+KPFJN|Personal Health and Fitness|Level 10|Special Education Non-credit Course (all levels)|88
+KPFKN|Personal Health and Fitness|Level 11|Special Education Non-credit Course (all levels)|31
+KPFLN|Personal Health and Fitness|Level 12|Special Education Non-credit Course (all levels)|44
+KPFMN|Personal Health and Fitness|Level 13|Special Education Non-credit Course (all levels)|31
+KPFNN|Personal Health and Fitness|Level 14|Special Education Non-credit Course (all levels)|36
+KPFON|Personal Health and Fitness|Level 15|Special Education Non-credit Course (all levels)|<10
+KPHAN|Choice Making for Healthy Living|Level 1|Special Education Non-credit Course (all levels)|622
+KPHBN|Choice Making for Healthy Living|Level 2|Special Education Non-credit Course (all levels)|603
+KPHCN|Choice Making for Healthy Living|Level 3|Special Education Non-credit Course (all levels)|361
+KPHDN|Choice Making for Healthy Living|Level 4|Special Education Non-credit Course (all levels)|272
+KPHEN|Choice Making for Healthy Living|Level 5|Special Education Non-credit Course (all levels)|272
+KPHFN|Choice Making for Healthy Living|Level 6|Special Education Non-credit Course (all levels)|146
+KPHGN|Choice Making for Healthy Living|Level 7|Special Education Non-credit Course (all levels)|95
+KPHHN|Choice Making for Healthy Living|Level 8|Special Education Non-credit Course (all levels)|<10
+KPHIN|Choice Making for Healthy Living|Level 9|Special Education Non-credit Course (all levels)|15
+KPHJN|Choice Making for Healthy Living|Level 10|Special Education Non-credit Course (all levels)|<10
+KPHKN|Choice Making for Healthy Living|Level 11|Special Education Non-credit Course (all levels)|<10
+KPHLN|Choice Making for Healthy Living|Level 12|Special Education Non-credit Course (all levels)|<10
+KPPAN|Self Help and Self Care|Level 1|Special Education Non-credit Course (all levels)|844
+KPPBN|Self Help and Self Care|Level 2|Special Education Non-credit Course (all levels)|395
+KPPCN|Self Help and Self Care|Level 3|Special Education Non-credit Course (all levels)|334
+KPPDN|Self Help and Self Care|Level 4|Special Education Non-credit Course (all levels)|393
+KPPEN|Self Help and Self Care|Level 5|Special Education Non-credit Course (all levels)|219
+KPPFN|Self Help and Self Care|Level 6|Special Education Non-credit Course (all levels)|105
+KPPGN|Self Help and Self Care|Level 7|Special Education Non-credit Course (all levels)|152
+KPPHN|Self Help and Self Care|Level 8|Special Education Non-credit Course (all levels)|69
+KPPIN|Self Help and Self Care|Level 9|Special Education Non-credit Course (all levels)|<10
+KPPJN|Self Help and Self Care|Level 10|Special Education Non-credit Course (all levels)|<10
+KPPKN|Self Help and Self Care|Level 11|Special Education Non-credit Course (all levels)|<10
+KPPLN|Self Help and Self Care|Level 12|Special Education Non-credit Course (all levels)|<10
+KPPMN|Self Help and Self Care|Level 13|Special Education Non-credit Course (all levels)|<10
+KPPNN|Self Help and Self Care|Level 14|Special Education Non-credit Course (all levels)|<10
+KSNAN|Exploring Our Environment|Level 1|Special Education Non-credit Course (all levels)|836
+KSNBN|Exploring Our Environment|Level 2|Special Education Non-credit Course (all levels)|420
+KSNCN|Exploring Our Environment|Level 3|Special Education Non-credit Course (all levels)|277
+KSNDN|Exploring Our Environment|Level 4|Special Education Non-credit Course (all levels)|294
+KSNEN|Exploring Our Environment|Level 5|Special Education Non-credit Course (all levels)|198
+KSNFN|Exploring Our Environment|Level 6|Special Education Non-credit Course (all levels)|97
+KSNGN|Exploring Our Environment|Level 7|Special Education Non-credit Course (all levels)|81
+KSNHN|Exploring Our Environment|Level 8|Special Education Non-credit Course (all levels)|19
+KSNIN|Exploring Our Environment|Level 9|Special Education Non-credit Course (all levels)|20
+KSNJN|Exploring Our Environment|Level 10|Special Education Non-credit Course (all levels)|409
+KSNKN|Exploring Our Environment|Level 11|Special Education Non-credit Course (all levels)|28
+KSNLN|Exploring Our Environment|Level 12|Special Education Non-credit Course (all levels)|<10
+KSNON|Exploring Our Environment|Level 15|Special Education Non-credit Course (all levels)|17
+KSNPN|Exploring Our Environment|Level 16|Special Education Non-credit Course (all levels)|<10
+KTTAN|Computer Skills|Level 1|Special Education Non-credit Course (all levels)|398
+KTTBN|Computer Skills|Level 2|Special Education Non-credit Course (all levels)|260
+KTTCN|Computer Skills|Level 3|Special Education Non-credit Course (all levels)|191
+KTTDN|Computer Skills|Level 4|Special Education Non-credit Course (all levels)|219
+KTTEN|Computer Skills|Level 5|Special Education Non-credit Course (all levels)|149
+KTTFN|Computer Skills|Level 6|Special Education Non-credit Course (all levels)|74
+KTTGN|Computer Skills|Level 7|Special Education Non-credit Course (all levels)|62
+KTTHN|Computer Skills|Level 8|Special Education Non-credit Course (all levels)|12
+KTTJN|Computer Skills|Level 10|Special Education Non-credit Course (all levels)|340
+KTTNN|Computer Skills|Level 14|Special Education Non-credit Course (all levels)|<10
+KTTON|Computer Skills|Level 15|Special Education Non-credit Course (all levels)|<10
+KTTPN|Computer Skills|Level 16|Special Education Non-credit Course (all levels)|<10
+LBABO|Albanian|Level 2|Open (Grade 9 - 12 level)|16
+LKCBD|Cantonese|Level 2|Academic (Grade 9 & 10 level)|13
+LKCCU|Cantonese|Level 3|University Preparation (Grade 11 & 12 level)|<10
+LKJBD|Japanese|Level 2|Academic (Grade 9 & 10 level)|166
+LKJCU|Japanese|Level 3|University Preparation (Grade 11 & 12 level)|39
+LKJDU|Japanese|Level 4|University Preparation (Grade 11 & 12 level)|27
+LKMBD|Traditional Chinese (Mandarin)|Level 2|Academic (Grade 9 & 10 level)|51
+LKMBO|Traditional Chinese (Mandarin)|Level 2|Open (Grade 9 - 12 level)|16
+LKMCO|Traditional Chinese (Mandarin)|Level 3|Open (Grade 9 - 12 level)|14
+LKMCU|Traditional Chinese (Mandarin)|Level 3|University Preparation (Grade 11 & 12 level)|40
+LKMDO|Traditional Chinese (Mandarin)|Level 4|Open (Grade 9 - 12 level)|<10
+LKMDU|Traditional Chinese (Mandarin)|Level 4|University Preparation (Grade 11 & 12 level)|109
+LNAAO|Cayuga|Level 1|Open (Grade 9 - 12 level)|66
+LNABO|Cayuga|Level 2|Open (Grade 9 - 12 level)|10
+LNB4T|Conversational Ojibway|Grade 12|College Delivered (Dual Credits)|<10
+LNDAO|Delaware|Level 1|Open (Grade 9 - 12 level)|13
+LNDBO|Delaware|Level 2|Open (Grade 9 - 12 level)|<10
+LNLAO|Oji-Cree|Level 1|Open (Grade 9 - 12 level)|43
+LNLBO|Oji-Cree|Level 2|Open (Grade 9 - 12 level)|15
+LNLCO|Oji-Cree|Level 3|Open (Grade 9 - 12 level)|<10
+LNMAO|Mohawk|Level 1|Open (Grade 9 - 12 level)|105
+LNMBO|Mohawk|Level 2|Open (Grade 9 - 12 level)|35
+LNMCO|Mohawk|Level 3|Open (Grade 9 - 12 level)|11
+LNMDO|Mohawk|Level 4|Open (Grade 9 - 12 level)|<10
+LNMEO|Mohawk|Level 5|Open (Grade 9 - 12 level)|<10
+LNNAO|Oneida|Level 1|Open (Grade 9 - 12 level)|40
+LNNBO|Oneida|Level 2|Open (Grade 9 - 12 level)|11
+LNNCO|Oneida|Level 3|Open (Grade 9 - 12 level)|<10
+LNOAO|Ojibwe|Level 1|Open (Grade 9 - 12 level)|794
+LNOBO|Ojibwe|Level 2|Open (Grade 9 - 12 level)|295
+LNOCO|Ojibwe|Level 3|Open (Grade 9 - 12 level)|114
+LNODO|Ojibwe|Level 4|Open (Grade 9 - 12 level)|56
+LNOEO|Ojibwe|Level 5|Open (Grade 9 - 12 level)|22
+LSLAO|American Sign Language|Level 1|Open (Grade 9 - 12 level)|27
+LVGBD|Acient Greek|Level 2|Academic (Grade 9 & 10 level)|<10
+LVGDU|Acient Greek|Level 4|University Preparation (Grade 11 & 12 level)|<10
+LVLAD||Level 1|Academic (Grade 9 & 10 level)|<10
+LVLBD|Latin|Level 2|Academic (Grade 9 & 10 level)|814
+LVLBU||Level 2|University Preparation (Grade 11 & 12 level)|<10
+LVLCU|Latin Level 3|Level 3|University Preparation (Grade 11 & 12 level)|357
+LVLDU|Latin|Level 4|University Preparation (Grade 11 & 12 level)|211
+LVV4U|Classical Civilization|Grade 12|University Preparation (Grade 11 & 12 level)|1157
+LWGBD|German|Level 2|Academic (Grade 9 & 10 level)|359
+LWGCU|German|Level 3|University Preparation (Grade 11 & 12 level)|102
+LWGDU|German|Level 4|University Preparation (Grade 11 & 12 level)|41
+LWIBD|Italian|Level 2|Academic (Grade 9 & 10 level)|482
+LWIBO|Italian|Level 2|Open (Grade 9 - 12 level)|16
+LWICO|Italian|Level 3|Open (Grade 9 - 12 level)|<10
+LWICU|Italian|Level 3|University Preparation (Grade 11 & 12 level)|257
+LWIDU|Italian|Level 4|University Preparation (Grade 11 & 12 level)|148
+LWPBD|Portuguese|Level 2|Academic (Grade 9 & 10 level)|17
+LWPBO|Portuguese|Level 2|Open (Grade 9 - 12 level)|<10
+LWPCU|Portuguese|Level 3|University Preparation (Grade 11 & 12 level)|<10
+LWPDU|Portuguese|Level 4|University Preparation (Grade 11 & 12 level)|12
+LWSBD|Spanish|Level 2|Academic (Grade 9 & 10 level)|5084
+LWSBO|Spanish|Level 2|Open (Grade 9 - 12 level)|920
+LWSCO|Spanish|Level 3|Open (Grade 9 - 12 level)|165
+LWSCU|Spanish|Level 3|University Preparation (Grade 11 & 12 level)|1786
+LWSDO|Spanish|Level 4|Open (Grade 9 - 12 level)|58
+LWSDU|Spanish|Level 4|University Preparation (Grade 11 & 12 level)|1023
+LYABD|Arabic|Level 2|Academic (Grade 9 & 10 level)|17
+LYACU|Arabic|Level 3|University Preparation (Grade 11 & 12 level)|14
+LYADU|Arabic|Level 4|University Preparation (Grade 11 & 12 level)|<10
+MAB4T|Math Fundamentals|Grade 12|College Delivered (Dual Credits)|<10
+MAD4T|Mathematics I|Grade 12|College Delivered (Dual Credits)|15
+MAP4C|Foundations for College Mathematics|Grade 12|College Preparation (Grade 11 & 12 level)|30192
+MBA4T|Introduction to Personal Finance|Grade 12|College Delivered (Dual Credits)|<10
+MBF3C|Foundations for College Mathematics|Grade 11|College Preparation (Grade 11 & 12 level)|43313
+MCF3M|Functions and Applications|Grade 11|University/College Preparation (Grade 11 & 12 level)|33067
+MCR3U|Functions|Grade 11|University Preparation (Grade 11 & 12 level)|74145
+MCT4C|Mathematics for College Technology|Grade 12|College Preparation (Grade 11 & 12 level)|3499
+MCV4U|Calculus and Vectors|Grade 12|University Preparation (Grade 11 & 12 level)|38415
+MDM4U|Mathematics of Data Management|Grade 12|University Preparation (Grade 11 & 12 level)|33108
+MEL3E|Mathematics for Work and Everyday Life|Grade 11|Workplace Preparation (Grade 11 & 12 level)|18678
+MEL4E|Mathematics for Work and Everyday Life|Grade 12|Workplace Preparation (Grade 11 & 12 level)|5038
+MFM1P|Foundations of Mathematics|Grade 9|Applied (Grade 9 & 10 level)|41882
+MFM2P|Foundations of Mathematics|Grade 10|Applied (Grade 9 & 10 level)|50596
+MHF4U|Advanced Functions|Grade 12|University Preparation (Grade 11 & 12 level)|58160
+MIA4T|Basic Technical Math|Grade 12|College Delivered (Dual Credits)|<10
+MIG4T|Mathematics for Technology|Grade 12|College Delivered (Dual Credits)|24
+MIH4T|Mechanical Basic Algebra|Grade 12|College Delivered (Dual Credits)|11
+MIJ4T|Technical Mathematics|Grade 12|College Delivered (Dual Credits)|<10
+MPM1D|Principles of Mathematics|Grade 9|Academic (Grade 9 & 10 level)|105456
+MPM1H|Mathematics, Transfer, Grade 9, Applied to Academic|Grade 9|Academic (Transfer)|18
+MPM2D|Principles of Mathematics|Grade 10|Academic (Grade 9 & 10 level)|96097
+NAA4T|Aboriginal History and Culture|Grade 12|College Delivered (Dual Credits)|32
+NAC1O|Expressions of First Nations, Métis, and Inuit Cultures|Grade 9|Open (Grade 9 - 12 level)|7849
+NAC2O|First Nations, Métis, and Inuit Peoples in Canada|Grade 10|Open (Grade 9 - 12 level)|1882
+NAH4T|Aboriginal Peoples and Diversity in Canada|Grade 12|College Delivered (Dual Credits)|<10
+NBA4T|Contemporary Issues in Aboriginal Society|Grade 12|College Delivered (Dual Credits)|<10
+NBC4T|Sociology of Community: The Aboriginal Context|Grade 12|College Delivered (Dual Credits)|16
+NBE3C|Contemporary First Nations, Métis, and Inuit Voices|Grade 11|College Preparation (Grade 11 & 12 level)|3412
+NBE3E|Contemporary First Nations, Métis, and Inuit Voices|Grade 11|Workplace Preparation (Grade 11 & 12 level)|418
+NBE3U|Contemporary First Nations, Métis, and Inuit Voices|Grade 11|University Preparation (Grade 11 & 12 level)|1822
+NBG4T||Grade 12|College Delivered (Dual Credits)|<10
+NBJ4T|Indigenous Perspectives|Grade 12|College Delivered (Dual Credits)|28
+NBV3C|World Views and Aspirations of First Nations, Métis, and Inuit Peoples in Canada|Grade 11|College Preparation (Grade 11 & 12 level)|1327
+NBV3E|World Views and Aspirations of First Nations, Métis, and Inuit Peoples in Canada|Grade 11|Workplace Preparation (Grade 11 & 12 level)|2334
+NDA3M|Contemporary First Nations, Métis, and Inuit Issues and Perspectives|Grade 11|University/College Preparation (Grade 11 & 12 level)|1306
+NDG4M|First Nations, Métis, and Inuit Governance in Canada|Grade 12|University/College Preparation (Grade 11 & 12 level)|61
+NDH4T|Culture métisse : histoire d'un peuple veillant|Grade 12|College Delivered (Dual Credits)|<10
+NDW4M|Contemporary Indigenous Issues and Perspectives in a Global Context|Grade 12|University/College Preparation (Grade 11 & 12 level)|1694
+OLC3O|Ontario Secondary School Literacy Course|Grade 11|Open (Grade 9 - 12 level)|1893
+OLC4O|Ontario Secondary School Literacy Course|Grade 12|Open (Grade 9 - 12 level)|19537
+PAA4T|Guiding and Outdoor Skills|Grade 12|College Delivered (Dual Credits)|75
+PAD1O|Healthy Living and Outdoor Activities|Grade 9|Open (Grade 9 - 12 level)|143
+PAD2O|Healthy Living and Outdoor Activities|Grade 10|Open (Grade 9 - 12 level)|1481
+PAD3O|Healthy Living and Outdoor Activities|Grade 11|Open (Grade 9 - 12 level)|4765
+PAD4O|Healthy Living and Outdoor Activities|Grade 12|Open (Grade 9 - 12 level)|1644
+PAF1O|Healthy Living and Personal and Fitness Activities|Grade 9|Open (Grade 9 - 12 level)|1553
+PAF2O|Healthy Living and Personal and Fitness Activities|Grade 10|Open (Grade 9 - 12 level)|14499
+PAF3O|Healthy Living and Personal and Fitness Activities|Grade 11|Open (Grade 9 - 12 level)|35066
+PAF4O|Healthy Living and Personal and Fitness Activities|Grade 12|Open (Grade 9 - 12 level)|21124
+PAI1O|Healthy Living and Individual and Small Group Activities|Grade 9|Open (Grade 9 - 12 level)|717
+PAI2O|Healthy Living and Individual and Small Group Activities|Grade 10|Open (Grade 9 - 12 level)|1918
+PAI3O|Healthy Living and Individual and Small Group Activities|Grade 11|Open (Grade 9 - 12 level)|3503
+PAI4O|Healthy Living and Individual and Small Group Activities|Grade 12|Open (Grade 9 - 12 level)|1660
+PAL1O|Healthy Living and Large Group Activities|Grade 9|Open (Grade 9 - 12 level)|1742
+PAL2O|Healthy Living and Large Group Activities|Grade 10|Open (Grade 9 - 12 level)|4029
+PAL3O|Healthy Living and Large Group Activities|Grade 11|Open (Grade 9 - 12 level)|5465
+PAL4O|Healthy Living and Large Group Activities|Grade 12|Open (Grade 9 - 12 level)|2453
+PAQ1O|Healthy Living and Aquatics|Grade 9|Open (Grade 9 - 12 level)|14
+PAQ2O|Healthy Living and Aquatics|Grade 10|Open (Grade 9 - 12 level)|229
+PAQ3O|Healthy Living and Aquatics|Grade 11|Open (Grade 9 - 12 level)|273
+PAQ4O|Healthy Living and Aquatics|Grade 12|Open (Grade 9 - 12 level)|103
+PAR1O|Healthy Living and Rhythm and Movement|Grade 9|Open (Grade 9 - 12 level)|398
+PAR2O|Healthy Living and Rhythm and Movement|Grade 10|Open (Grade 9 - 12 level)|746
+PAR3O|Healthy Living and Rhythm and Movement|Grade 11|Open (Grade 9 - 12 level)|710
+PAR4O|Healthy Living and Rhythm and Movement|Grade 12|Open (Grade 9 - 12 level)|264
+PHA4T|Client Care Issues|Grade 12|College Delivered (Dual Credits)|11
+PHC4T|Developmental Disabilities|Grade 12|College Delivered (Dual Credits)|<10
+PHD4T|Developmental Services Worker|Grade 12|College Delivered (Dual Credits)|<10
+PHF4T|Emergency Patient Care|Grade 12|College Delivered (Dual Credits)|62
+PHG4T|PSW Foundations|Grade 12|College Delivered (Dual Credits)|22
+PHJ4T|Health Sciences Careers|Grade 12|College Delivered (Dual Credits)|13
+PHK4T|Supporting People with Developmental Disabilities|Grade 12|College Delivered (Dual Credits)|29
+PHM4T|Health Care in Canada|Grade 12|College Delivered (Dual Credits)|74
+PHQ4T|Pharmacology|Grade 12|College Delivered (Dual Credits)|<10
+PHS4T|Medical Terminology|Grade 12|College Delivered (Dual Credits)|107
+PHW4T|Anatomy and Physiology|Grade 12|College Delivered (Dual Credits)|47
+PHX4T|Foundations of Personal Support|Grade 12|College Delivered (Dual Credits)|14
+PLB4T|Coaching Theory and Skills|Grade 12|College Delivered (Dual Credits)|10
+PLF4C||Grade 12|College Preparation (Grade 11 & 12 level)|45
+PLF4M|Recreation and Healthy Active Living Leadership, Grade 12|Grade 12|University/College Preparation (Grade 11 & 12 level)|6316
+PLG4T|Fitness and Leisure Management|Grade 12|College Delivered (Dual Credits)|35
+PLH4T|Running Quality Recreation Programs|Grade 12|College Delivered (Dual Credits)|<10
+PLI4T|Fitness|Grade 12|College Delivered (Dual Credits)|172
+PLL4T|Conditionnement physique et mieux-être|Grade 12|College Delivered (Dual Credits)|16
+PLM4T|Techniques de contrôle|Grade 12|College Delivered (Dual Credits)|50
+PLO4T|Program Planning|Grade 12|College Delivered (Dual Credits)|<10
+PLP4T|Foundations of Exercise Training|Grade 12|College Delivered (Dual Credits)|33
+PLQ4T|Conditionnement physique et tactiques de défense et contrôle|Grade 12|College Delivered (Dual Credits)|51
+PPA4T|Addictions|Grade 12|College Delivered (Dual Credits)|106
+PPB4T|Agony and Ecstasy: Addictions|Grade 12|College Delivered (Dual Credits)|23
+PPC4T|Introduction to Addictions|Grade 12|College Delivered (Dual Credits)|27
+PPE4T|Foundation of Health|Grade 12|College Delivered (Dual Credits)|<10
+PPF1O|Vie active et santé (filles)|Grade 9|Open (Grade 9 - 12 level)|1009
+PPF2O|Vie active et santé (filles)|Grade 10|Open (Grade 9 - 12 level)|219
+PPG4T|Exploration en santé|Grade 12|College Delivered (Dual Credits)|80
+PPH4T|Lifestyle Management|Grade 12|College Delivered (Dual Credits)|200
+PPI4T|Health and Wellness|Grade 12|College Delivered (Dual Credits)|225
+PPJ4T|Stress, Wellness and Nutrition|Grade 12|College Delivered (Dual Credits)|<10
+PPL1O|Healthy Active Living Education|Grade 9|Open (Grade 9 - 12 level)|128245
+PPL2O|Healthy Active Living Education|Grade 10|Open (Grade 9 - 12 level)|50003
+PPL3O|Healthy Active Living Education|Grade 11|Open (Grade 9 - 12 level)|37270
+PPL4O|Healthy Active Living Education|Grade 12|Open (Grade 9 - 12 level)|23977
+PPM1O|Vie active et santé (garçons)|Grade 9|Open (Grade 9 - 12 level)|838
+PPM2O|Vie active et santé (garçons)|Grade 10|Open (Grade 9 - 12 level)|295
+PPO4T|Health and Safety|Grade 12|College Delivered (Dual Credits)|44
+PPR4T|Health Literacy: From Individual to Communities|Grade 12|College Delivered (Dual Credits)|38
+PPU4T|Health and Wellness Safety Awareness Training|Grade 12|College Delivered (Dual Credits)|19
+PPX4T|Addictions II|Grade 12|College Delivered (Dual Credits)|21
+PPZ3C|Health for Life, Grade 11|Grade 11|College Preparation (Grade 11 & 12 level)|7767
+PPZ3O||Grade 11|Open (Grade 9 - 12 level)|223
+PSA4T|Applied Anatomy and Kinesiology|Grade 12|College Delivered (Dual Credits)|<10
+PSE4U|Exercise Science|Grade 12|University Preparation (Grade 11 & 12 level)|381
+PSK4U|Introductory Kinesiology, Grade 12|Grade 12|University Preparation (Grade 11 & 12 level)|15144
+SBE4T|Biologie humaine générale|Grade 12|College Delivered (Dual Credits)|16
+SBH4T|Human Biology|Grade 12|College Delivered (Dual Credits)|39
+SBI3C|Biology|Grade 11|College Preparation (Grade 11 & 12 level)|21004
+SBI3U|Biology|Grade 11|University Preparation (Grade 11 & 12 level)|61930
+SBI4U|Biology|Grade 12|University Preparation (Grade 11 & 12 level)|37518
+SBS4T|Introduction to Biotechnology|Grade 12|College Delivered (Dual Credits)|<10
+SCC4T|Chemistry|Grade 12|College Delivered (Dual Credits)|<10
+SCH3U|Chemistry|Grade 11|University Preparation (Grade 11 & 12 level)|63774
+SCH4C|Chemistry|Grade 12|College Preparation (Grade 11 & 12 level)|12709
+SCH4U|Chemistry|Grade 12|University Preparation (Grade 11 & 12 level)|42164
+SES4U|Earth and Space Science|Grade 12|University Preparation (Grade 11 & 12 level)|4172
+SNC1D|Science|Grade 9|Academic (Grade 9 & 10 level)|107700
+SNC1P|Science|Grade 9|Applied (Grade 9 & 10 level)|35798
+SNC2D|Science|Grade 10|Academic (Grade 9 & 10 level)|104005
+SNC2P|Science|Grade 10|Applied (Grade 9 & 10 level)|38448
+SNC3E||Grade 11|Workplace Preparation (Grade 11 & 12 level)|<10
+SNC3M|Science|Grade 11|University/College Preparation (Grade 11 & 12 level)|<10
+SNC4E|Science|Grade 12|Workplace Preparation (Grade 11 & 12 level)|1013
+SNC4M|Science|Grade 12|University/College Preparation (Grade 11 & 12 level)|3464
+SNG4T|Forensic Science|Grade 12|College Delivered (Dual Credits)|45
+SPH3U|Physics|Grade 11|University Preparation (Grade 11 & 12 level)|44413
+SPH4C|Physics|Grade 12|College Preparation (Grade 11 & 12 level)|6485
+SPH4U|Physics|Grade 12|University Preparation (Grade 11 & 12 level)|25738
+SVA4T|Environmental Science|Grade 12|College Delivered (Dual Credits)|<10
+SVB4T|Introduction to Mining|Grade 12|College Delivered (Dual Credits)|16
+SVC4T|Geotechnical Drilling|Grade 12|College Delivered (Dual Credits)|24
+SVI4T|Environmental Concerns|Grade 12|College Delivered (Dual Credits)|171
+SVL4T|Environmental and Natural Resource Studies|Grade 12|College Delivered (Dual Credits)|22
+SVN3E|Environmental Science|Grade 11|Workplace Preparation (Grade 11 & 12 level)|4794
+SVN3M|Environmental Science|Grade 11|University/College Preparation (Grade 11 & 12 level)|4100
+SVV4T|Environmental Citizenship|Grade 12|College Delivered (Dual Credits)|12
+TAD4T|CAD Fundamentals|Grade 12|College Delivered (Dual Credits)|12
+TAE4T|CAD for the Building Trades|Grade 12|College Delivered (Dual Credits)|18
+TAF4T|AutoCAD|Grade 12|College Delivered (Dual Credits)|14
+TAJ4T|Computer Aided Draft/Design|Grade 12|College Delivered (Dual Credits)|<10
+TAP4T|Technological Studies|Grade 12|College Delivered (Dual Credits)|81
+TBB4T|Architectural Drafting|Grade 12|College Delivered (Dual Credits)|<10
+TBG4T|Dimensional Design|Grade 12|College Delivered (Dual Credits)|45
+TBJ4T|Engineering Drawing|Grade 12|College Delivered (Dual Credits)|39
+TBO4T|Residential Prints and Standards|Grade 12|College Delivered (Dual Credits)|117
+TBP4T|Technical Drawing|Grade 12|College Delivered (Dual Credits)|<10
+TBS4T|Dessin|Grade 12|College Delivered (Dual Credits)|19
+TBW4T|Creative Thinking Problem Solving|Grade 12|College Delivered (Dual Credits)|16
+TBX4T|Graphic Design|Grade 12|College Delivered (Dual Credits)|<10
+TCA4T|Construction Field Practices|Grade 12|College Delivered (Dual Credits)|18
+TCC3E|Construction Technology: Carpentry|Grade 11|Workplace Preparation (Grade 11 & 12 level)|486
+TCC4E|Construction Technology: Carpentry|Grade 12|Workplace Preparation (Grade 11 & 12 level)|215
+TCD4T|Principe de plomberie et de tuyautage|Grade 12|College Delivered (Dual Credits)|93
+TCE3E|Construction Technology: Electrical/Network Cabling|Grade 11|Workplace Preparation (Grade 11 & 12 level)|777
+TCE4E|Construction Technology: Electrical/Network Cabling|Grade 12|Workplace Preparation (Grade 11 & 12 level)|303
+TCF4T|Renovation Tools and Techniques|Grade 12|College Delivered (Dual Credits)|28
+TCG4T|Masonry Theory|Grade 12|College Delivered (Dual Credits)|<10
+TCH3E|Construction Technology: Heating and Cooling|Grade 11|Workplace Preparation (Grade 11 & 12 level)|67
+TCH4E|Construction Technology: Heating and Cooling|Grade 12|Workplace Preparation (Grade 11 & 12 level)|30
+TCI4T|Masonry Safety and Math|Grade 12|College Delivered (Dual Credits)|<10
+TCJ1O|Exploring Construction Technology|Grade 9|Open (Grade 9 - 12 level)|2228
+TCJ2O|Construction Technology|Grade 10|Open (Grade 9 - 12 level)|15671
+TCJ3C|Construction Engineering Technology|Grade 11|College Preparation (Grade 11 & 12 level)|12566
+TCJ3E|Construction Technology|Grade 11|Workplace Preparation (Grade 11 & 12 level)|4598
+TCJ4C|Construction Engineering Technology|Grade 12|College Preparation (Grade 11 & 12 level)|4889
+TCJ4E|Construction Technology|Grade 12|Workplace Preparation (Grade 11 & 12 level)|1884
+TCK4T|Masonry Practice|Grade 12|College Delivered (Dual Credits)|<10
+TCL4T|Charpente et divisions|Grade 12|College Delivered (Dual Credits)|19
+TCM3E|Construction Technology: Masonry|Grade 11|Workplace Preparation (Grade 11 & 12 level)|81
+TCM4E|Construction Technology: Masonry|Grade 12|Workplace Preparation (Grade 11 & 12 level)|16
+TCN4T|Heating and Plumbing System|Grade 12|College Delivered (Dual Credits)|31
+TCP3E|Construction Technology: Plumbing|Grade 11|Workplace Preparation (Grade 11 & 12 level)|202
+TCP4E|Construction Technology: Plumbing|Grade 12|Workplace Preparation (Grade 11 & 12 level)|94
+TCQ4T|Interior Finishing|Grade 12|College Delivered (Dual Credits)|10
+TCR4T|Sprinklers|Grade 12|College Delivered (Dual Credits)|16
+TCS3C|Construction Engineering Technology: Construction Management and Science|Grade 11|College Preparation (Grade 11 & 12 level)|118
+TCS4C|Construction Engineering Technology: Construction Management and Science|Grade 12|College Preparation (Grade 11 & 12 level)|68
+TCY3C|Construction Engineering Technology: Civil Engineering|Grade 11|College Preparation (Grade 11 & 12 level)|20
+TDA3M|Technological Design: Architectural Design|Grade 11|University/College Preparation (Grade 11 & 12 level)|1029
+TDA4M|Technological Design: Architectural Design|Grade 12|University/College Preparation (Grade 11 & 12 level)|653
+TDB4T|Drafting and Blueprint Reading|Grade 12|College Delivered (Dual Credits)|<10
+TDD4T|Blueprint Reading|Grade 12|College Delivered (Dual Credits)|83
+TDE4T|Methods of Construction|Grade 12|College Delivered (Dual Credits)|13
+TDF4T|Blueprints and Specifications|Grade 12|College Delivered (Dual Credits)|37
+TDJ1O|Exploring Technology Design|Grade 9|Open (Grade 9 - 12 level)|1450
+TDJ2O|Technological Design|Grade 10|Open (Grade 9 - 12 level)|8903
+TDJ3M|Technological Design|Grade 11|University/College Preparation (Grade 11 & 12 level)|9132
+TDJ3O|Technological Design and the Environment|Grade 11|Open (Grade 9 - 12 level)|838
+TDJ4E||Grade 12|Workplace Preparation (Grade 11 & 12 level)|<10
+TDJ4M|Technological Design|Grade 12|University/College Preparation (Grade 11 & 12 level)|4022
+TDJ4O|Technological Design in the 21st Century|Grade 12|Open (Grade 9 - 12 level)|317
+TDK4T|Building Systems|Grade 12|College Delivered (Dual Credits)|12
+TDM3M|Technological Design: Mechanical and Industrial Design|Grade 11|University/College Preparation (Grade 11 & 12 level)|147
+TDM4M|Technological Design: Mechanical and Industrial Design|Grade 12|University/College Preparation (Grade 11 & 12 level)|41
+TDP3M|Technological Design: Apparel and Textile Design|Grade 11|University/College Preparation (Grade 11 & 12 level)|151
+TDP4M|Technological Design: Apparel and Textile Design|Grade 12|University/College Preparation (Grade 11 & 12 level)|22
+TDR3M|Technological Design: Robotics and Control Systems Design|Grade 11|University/College Preparation (Grade 11 & 12 level)|266
+TDR4M|Technological Design: Robotics and Control Systems Design|Grade 12|University/College Preparation (Grade 11 & 12 level)|96
+TDV3M|Technological Design: Interior Design|Grade 11|University/College Preparation (Grade 11 & 12 level)|363
+TDV4M|Technological Design: Interior Design|Grade 12|University/College Preparation (Grade 11 & 12 level)|101
+TEC3E|Computer Technology: Computer Repair|Grade 11|Workplace Preparation (Grade 11 & 12 level)|21
+TEG4T|Network Technologies|Grade 12|College Delivered (Dual Credits)|<10
+TEH4T|Computers|Grade 12|College Delivered (Dual Credits)|22
+TEI3M|Computer Engineering Technology: Interfacing|Grade 11|University/College Preparation (Grade 11 & 12 level)|51
+TEI4M|Computer Engineering Technology: Interfacing|Grade 12|University/College Preparation (Grade 11 & 12 level)|25
+TEJ1O|Exploring Computer Technology|Grade 9|Open (Grade 9 - 12 level)|2222
+TEJ2O|Computer Technology|Grade 10|Open (Grade 9 - 12 level)|6738
+TEJ3E|Computer Technology|Grade 11|Workplace Preparation (Grade 11 & 12 level)|339
+TEJ3M|Computer Engineering Technology|Grade 11|University/College Preparation (Grade 11 & 12 level)|7895
+TEJ4E|Computer Technology|Grade 12|Workplace Preparation (Grade 11 & 12 level)|63
+TEJ4M|Computer Engineering Technology|Grade 12|University/College Preparation (Grade 11 & 12 level)|3296
+TEL3M|Computer Engineering Technology: Electronics|Grade 11|University/College Preparation (Grade 11 & 12 level)|173
+TEL4M|Computer Engineering Technology: Electronics|Grade 12|University/College Preparation (Grade 11 & 12 level)|105
+TEN3M|Computer Engineering Technology: Networking|Grade 11|University/College Preparation (Grade 11 & 12 level)|268
+TEN4M|Computer Engineering Technology: Networking|Grade 12|University/College Preparation (Grade 11 & 12 level)|95
+TEP4T|Practical Electronics|Grade 12|College Delivered (Dual Credits)|<10
+TEQ4T|Électronique en prétechnologie|Grade 12|College Delivered (Dual Credits)|29
+TER3M|Computer Engineering Technology: Robotics and Control Systems|Grade 11|University/College Preparation (Grade 11 & 12 level)|383
+TER4M|Computer Engineering Technology: Robotics and Control Systems|Grade 12|University/College Preparation (Grade 11 & 12 level)|192
+TET3E|Computer Technology: Information Technology Support|Grade 11|Workplace Preparation (Grade 11 & 12 level)|<10
+TFB3E|Hospitality and Tourism: Baking|Grade 11|Workplace Preparation (Grade 11 & 12 level)|2234
+TFB4E|Hospitality and Tourism: Baking|Grade 12|Workplace Preparation (Grade 11 & 12 level)|729
+TFC3E|Hospitality and Tourism: Cooking|Grade 11|Workplace Preparation (Grade 11 & 12 level)|1543
+TFC4E|Hospitality and Tourism: Cooking|Grade 12|Workplace Preparation (Grade 11 & 12 level)|617
+TFE3E|Hospitality and Tourism: Event Planning|Grade 11|Workplace Preparation (Grade 11 & 12 level)|194
+TFE4E|Hospitality and Tourism: Event Planning|Grade 12|Workplace Preparation (Grade 11 & 12 level)|30
+TFF4T|International Culinary Appreciation|Grade 12|College Delivered (Dual Credits)|42
+TFG4T|Event Planning and Delivery|Grade 12|College Delivered (Dual Credits)|<10
+TFH3E||Grade 11|Workplace Preparation (Grade 11 & 12 level)|<10
+TFJ1O|Exploring Hospitality and Tourism|Grade 9|Open (Grade 9 - 12 level)|2333
+TFJ2O|Hospitality and Tourism|Grade 10|Open (Grade 9 - 12 level)|14021
+TFJ3C|Hospitality and Tourism|Grade 11|College Preparation (Grade 11 & 12 level)|8142
+TFJ3E|Hospitality and Tourism|Grade 11|Workplace Preparation (Grade 11 & 12 level)|4234
+TFJ4C|Hospitality and Tourism|Grade 12|College Preparation (Grade 11 & 12 level)|2554
+TFJ4E|Hospitality and Tourism|Grade 12|Workplace Preparation (Grade 11 & 12 level)|1778
+TFL4T|Dining Room|Grade 12|College Delivered (Dual Credits)|53
+TFN3C|Hospitality and Tourism: Applied Nutrition|Grade 11|College Preparation (Grade 11 & 12 level)|83
+TFN4C|Hospitality and Tourism: Applied Nutrition|Grade 12|College Preparation (Grade 11 & 12 level)|12
+TFP4T|Hospitality and Tourism Management|Grade 12|College Delivered (Dual Credits)|<10
+TFQ4T|Exploring the Restaurant Industry|Grade 12|College Delivered (Dual Credits)|<10
+TFR3C|Hospitality and Tourism: Culinary Arts and Management|Grade 11|College Preparation (Grade 11 & 12 level)|663
+TFR4C|Hospitality and Tourism: Culinary Arts and Management|Grade 12|College Preparation (Grade 11 & 12 level)|330
+TFS4C|Tourism|Grade 12|College Preparation (Grade 11 & 12 level)|17
+TFT3C|Hospitality and Tourism: Tourism and Travel Planning|Grade 11|College Preparation (Grade 11 & 12 level)|229
+TFT4C|Hospitality and Tourism: Tourism and Travel Planning|Grade 12|College Preparation (Grade 11 & 12 level)|20
+TFW4T|Safety, Sanitation and Equipment / Nutrition|Grade 12|College Delivered (Dual Credits)|<10
+TFY4T|Professional Customer Service|Grade 12|College Delivered (Dual Credits)|16
+TGB4T|Graphic Design - Computer Imagery|Grade 12|College Delivered (Dual Credits)|11
+TGC4T|Digital Imaging|Grade 12|College Delivered (Dual Credits)|87
+TGD4T|Theory and Practice of Film and Television|Grade 12|College Delivered (Dual Credits)|50
+TGE4T|Radio Reporting|Grade 12|College Delivered (Dual Credits)|56
+TGF4T|Digital Audio Recording|Grade 12|College Delivered (Dual Credits)|28
+TGG3M|Communications Technology: Print and Graphic Communications|Grade 11|University/College Preparation (Grade 11 & 12 level)|2075
+TGG4M|Communications Technology: Print and Graphic Communications|Grade 12|University/College Preparation (Grade 11 & 12 level)|1563
+TGH4T|Introduction to Animation|Grade 12|College Delivered (Dual Credits)|14
+TGI3M|Communications Technology: Interactive New Media and Animation|Grade 11|University/College Preparation (Grade 11 & 12 level)|943
+TGI4M|Communications Technology: Interactive New Media and Animation|Grade 12|University/College Preparation (Grade 11 & 12 level)|425
+TGJ1O|Exploring Communications Technology|Grade 9|Open (Grade 9 - 12 level)|3504
+TGJ2O|Communications Technology|Grade 10|Open (Grade 9 - 12 level)|15156
+TGJ3M|Communications Technology, Grade 11, University/College Preparation|Grade 11|University/College Preparation (Grade 11 & 12 level)|13646
+TGJ3O|Communications Technology: Broadcast and Print Production|Grade 11|Open (Grade 9 - 12 level)|1185
+TGJ4M|Communications Technology, Grade 12, University/College Preparation|Grade 12|University/College Preparation (Grade 11 & 12 level)|6957
+TGJ4O|Communications Technology: Digital Imagery and Web Design|Grade 12|Open (Grade 9 - 12 level)|975
+TGK4T|Audio for Gaming|Grade 12|College Delivered (Dual Credits)|<10
+TGO4T|TV Production|Grade 12|College Delivered (Dual Credits)|61
+TGP3M|Communications Technology: Photography and Digital Imaging|Grade 11|University/College Preparation (Grade 11 & 12 level)|2584
+TGP4M|Communications Technology: Photography and Digital Imaging|Grade 12|University/College Preparation (Grade 11 & 12 level)|1060
+TGQ4T|Introduction to Studio Production|Grade 12|College Delivered (Dual Credits)|50
+TGR3M|Communications Technology: Radio, Audio and Sound Production|Grade 11|University/College Preparation (Grade 11 & 12 level)|322
+TGR4M|Communications Technology: Radio, Audio and Sound Production|Grade 12|University/College Preparation (Grade 11 & 12 level)|133
+TGV3M|Communications Technology: TV, Video and Movie Production|Grade 11|University/College Preparation (Grade 11 & 12 level)|2396
+TGV4M|Communications Technology: TV, Video and Movie Production|Grade 12|University/College Preparation (Grade 11 & 12 level)|1614
+THA3M|Green Industries: Agribusiness|Grade 11|University/College Preparation (Grade 11 & 12 level)|54
+THA4M|Green Industries: Agribusiness|Grade 12|University/College Preparation (Grade 11 & 12 level)|17
+THD3M|Green Industries: Landscaping and Architecture|Grade 11|University/College Preparation (Grade 11 & 12 level)|49
+THD4M|Green Industries: Landscaping and Architecture|Grade 12|University/College Preparation (Grade 11 & 12 level)|22
+THF3E|Green Industries: Floristry|Grade 11|Workplace Preparation (Grade 11 & 12 level)|22
+THF4E|Green Industries: Floristry|Grade 12|Workplace Preparation (Grade 11 & 12 level)|13
+THG3E|Green Industries: Agriculture|Grade 11|Workplace Preparation (Grade 11 & 12 level)|16
+THG4E|Green Industries: Agriculture|Grade 12|Workplace Preparation (Grade 11 & 12 level)|<10
+THH3E|Green Industries: Horticulture|Grade 11|Workplace Preparation (Grade 11 & 12 level)|240
+THH4E|Green Industries: Horticulture|Grade 12|Workplace Preparation (Grade 11 & 12 level)|71
+THJ1O|Exploring Green Industries|Grade 9|Open (Grade 9 - 12 level)|300
+THJ2O|Green Industries|Grade 10|Open (Grade 9 - 12 level)|904
+THJ3E|Green Industries|Grade 11|Workplace Preparation (Grade 11 & 12 level)|970
+THJ3M|Green Industries|Grade 11|University/College Preparation (Grade 11 & 12 level)|859
+THJ4E|Green Industries|Grade 12|Workplace Preparation (Grade 11 & 12 level)|333
+THJ4M|Green Industries|Grade 12|University/College Preparation (Grade 11 & 12 level)|395
+THK4T|Horticulture|Grade 12|College Delivered (Dual Credits)|32
+THL3E|Green Industries: Landscaping Construction and Maintenance|Grade 11|Workplace Preparation (Grade 11 & 12 level)|116
+THL4E|Green Industries: Landscaping Construction and Maintenance|Grade 12|Workplace Preparation (Grade 11 & 12 level)|55
+THN4T|Energy and Environmental Sustainability|Grade 12|College Delivered (Dual Credits)|14
+THO3E|Green Industries: Forestry|Grade 11|Workplace Preparation (Grade 11 & 12 level)|47
+THO3M|Green Industries: Forestry|Grade 11|University/College Preparation (Grade 11 & 12 level)|25
+THO4E|Green Industries: Forestry|Grade 12|Workplace Preparation (Grade 11 & 12 level)|21
+THO4M|Green Industries: Forestry|Grade 12|University/College Preparation (Grade 11 & 12 level)|18
+THQ4T|Landscape Construction|Grade 12|College Delivered (Dual Credits)|26
+THR4T|Livestock Production|Grade 12|College Delivered (Dual Credits)|<10
+THS3M|Green Industries: Horticulture Management and Science|Grade 11|University/College Preparation (Grade 11 & 12 level)|27
+THS4M|Green Industries: Horticulture Management and Science|Grade 12|University/College Preparation (Grade 11 & 12 level)|12
+THT4T|Plant Propagation|Grade 12|College Delivered (Dual Credits)|17
+TIB4T|Trades Exploration Lab|Grade 12|College Delivered (Dual Credits)|61
+TIC4T|Introduction to Robotics|Grade 12|College Delivered (Dual Credits)|10
+TIF4T|Mechanical Systems|Grade 12|College Delivered (Dual Credits)|18
+TIG4T|Surveying|Grade 12|College Delivered (Dual Credits)|<10
+TIJ1O|Exploring Technologies|Grade 9|Open (Grade 9 - 12 level)|43987
+TIK2O||Grade 10|Open (Grade 9 - 12 level)|<10
+TJF4T|Trends and Issues in Tourism|Grade 12|College Delivered (Dual Credits)|12
+TJM4T|Destinations soleil et Amérique du Sud|Grade 12|College Delivered (Dual Credits)|13
+TKA4Y|Cook|Grade 12|Apprenticeship Program (Dual Credits)|134
+TKD4T|Quantity Food and Dining Room Preparation|Grade 12|College Delivered (Dual Credits)|<10
+TKF4T|Basic Food Theory|Grade 12|College Delivered (Dual Credits)|<10
+TKG4T|Food Preparation and Theory II|Grade 12|College Delivered (Dual Credits)|20
+TKJ4T|Boulangerie-pâtisserie et mathématiques appliquées|Grade 12|College Delivered (Dual Credits)|66
+TKL4T|Cuisine and Culture|Grade 12|College Delivered (Dual Credits)|12
+TKR4T|Hospitality Food Theory|Grade 12|College Delivered (Dual Credits)|36
+TKU4T|Quantity Food Production|Grade 12|College Delivered (Dual Credits)|22
+TKW4T||Grade 12|College Delivered (Dual Credits)|<10
+TKY4T|Bonne bouffe, belle bouffe|Grade 12|College Delivered (Dual Credits)|61
+TKZ4T|Démonstration pratique I|Grade 12|College Delivered (Dual Credits)|<10
+TLA4T|Welding|Grade 12|College Delivered (Dual Credits)|90
+TLA4Y|Welding|Grade 12|Apprenticeship Program (Dual Credits)|67
+TLG4T|Shielded Metal Arc Welding|Grade 12|College Delivered (Dual Credits)|27
+TLH4T|Welding Fundamentals|Grade 12|College Delivered (Dual Credits)|60
+TLI4T|Welding Techniques|Grade 12|College Delivered (Dual Credits)|63
+TLJ4T|Welding and Cutting|Grade 12|College Delivered (Dual Credits)|69
+TLL4T|Welding and Fabrication|Grade 12|College Delivered (Dual Credits)|50
+TLM4T|T-joints - Welding|Grade 12|College Delivered (Dual Credits)|<10
+TLO4T|Oxy-Fuel Cutting, Welding, Brazing|Grade 12|College Delivered (Dual Credits)|55
+TLS4T|Introduction au Soudage|Grade 12|College Delivered (Dual Credits)|21
+TLU4T|Welding II|Grade 12|College Delivered (Dual Credits)|15
+TMB4T|CNC Manual Programming|Grade 12|College Delivered (Dual Credits)|16
+TMC3C|Manufacturing Technology: Computer Aided Manufacturing|Grade 11|College Preparation (Grade 11 & 12 level)|<10
+TMC4C|Manufacturing Technology: Computer Aided Manufacturing|Grade 12|College Preparation (Grade 11 & 12 level)|<10
+TMD4T|CNC Applications|Grade 12|College Delivered (Dual Credits)|24
+TME4T|Manufacturing Safety|Grade 12|College Delivered (Dual Credits)|68
+TMH4T|Equipment Operation and Maintenance|Grade 12|College Delivered (Dual Credits)|34
+TMI3C|Manufacturing Technology: Industrial Maintenance|Grade 11|College Preparation (Grade 11 & 12 level)|127
+TMI4C|Manufacturing Technology: Industrial Maintenance|Grade 12|College Preparation (Grade 11 & 12 level)|52
+TMJ1O|Exploring Manufacturing Technology|Grade 9|Open (Grade 9 - 12 level)|891
+TMJ2O|Manufacturing Technology|Grade 10|Open (Grade 9 - 12 level)|6304
+TMJ3C|Manufacturing Technology|Grade 11|College Preparation (Grade 11 & 12 level)|5084
+TMJ3E|Manufacturing Technology|Grade 11|Workplace Preparation (Grade 11 & 12 level)|2333
+TMJ3M|Manufacturing Engineering Technology|Grade 11|University/College Preparation (Grade 11 & 12 level)|1068
+TMJ4C|Manufacturing Technology|Grade 12|College Preparation (Grade 11 & 12 level)|2061
+TMJ4E|Manufacturing Technology|Grade 12|Workplace Preparation (Grade 11 & 12 level)|1053
+TMJ4M|Manufacturing Engineering Technology|Grade 12|University/College Preparation (Grade 11 & 12 level)|487
+TMM3M|Manufacturing Engineering Technology: Mechanical Engineering|Grade 11|University/College Preparation (Grade 11 & 12 level)|88
+TMM4M|Manufacturing Engineering Technology: Mechanical Engineering|Grade 12|University/College Preparation (Grade 11 & 12 level)|58
+TMO3E|Manufacturing Technology: Machine Operator|Grade 11|Workplace Preparation (Grade 11 & 12 level)|12
+TMO4E|Manufacturing Technology: Machine Operator|Grade 12|Workplace Preparation (Grade 11 & 12 level)|<10
+TMP3C|Manufacturing Technology: Precision Machining|Grade 11|College Preparation (Grade 11 & 12 level)|172
+TMP4C|Manufacturing Technology: Precision Machining|Grade 12|College Preparation (Grade 11 & 12 level)|91
+TMR3M|Manufacturing Engineering Technology: Robotics and Control Systems|Grade 11|University/College Preparation (Grade 11 & 12 level)|141
+TMR4M|Manufacturing Engineering Technology: Robotics and Control Systems|Grade 12|University/College Preparation (Grade 11 & 12 level)|60
+TMS3E|Manufacturing Technology: Sheet Metal|Grade 11|Workplace Preparation (Grade 11 & 12 level)|24
+TMS4E|Manufacturing Technology: Sheet Metal|Grade 12|Workplace Preparation (Grade 11 & 12 level)|<10
+TMT3C|Manufacturing Technology: Robotics and Control Systems Technician|Grade 11|College Preparation (Grade 11 & 12 level)|<10
+TMT4C|Manufacturing Technology: Robotics and Control Systems Technician|Grade 12|College Preparation (Grade 11 & 12 level)|<10
+TMW3E|Manufacturing Technology: Welding|Grade 11|Workplace Preparation (Grade 11 & 12 level)|1140
+TMW4E|Manufacturing Technology: Welding|Grade 12|Workplace Preparation (Grade 11 & 12 level)|540
+TMY3C|Manufacturing Technology: Welding Technician|Grade 11|College Preparation (Grade 11 & 12 level)|421
+TMY4C|Manufacturing Technology: Welding Technician|Grade 12|College Preparation (Grade 11 & 12 level)|282
+TNA4Y|Electrician: Construction and Maintenance|Grade 12|Apprenticeship Program (Dual Credits)|151
+TNC4T|Electrical Fundamentals|Grade 12|College Delivered (Dual Credits)|136
+TND4T|Basic Electrical Installation|Grade 12|College Delivered (Dual Credits)|98
+TNE4T|Initiation à l'électricité|Grade 12|College Delivered (Dual Credits)|31
+TNF4T|Electrical Wiring|Grade 12|College Delivered (Dual Credits)|17
+TNJ4T|Electrical Construction Skills Training|Grade 12|College Delivered (Dual Credits)|91
+TNK4T|Electrical Installation|Grade 12|College Delivered (Dual Credits)|71
+TNL4T|Electrician Trade Safety|Grade 12|College Delivered (Dual Credits)|90
+TNM4T|Electrical and Fuel Systems|Grade 12|College Delivered (Dual Credits)|27
+TNN4T|Electrical Techniques - Theory|Grade 12|College Delivered (Dual Credits)|18
+TNO4T|Electrical Techniques - Practical|Grade 12|College Delivered (Dual Credits)|50
+TNP4T|Basic Electrical Wiring|Grade 12|College Delivered (Dual Credits)|17
+TOB4T|Foundations of Play-Based Curriculum|Grade 12|College Delivered (Dual Credits)|90
+TOC4C|Child Development and Gerontology: Child Development|Grade 12|College Preparation (Grade 11 & 12 level)|44
+TOE4T|Child and Youth Worker|Grade 12|College Delivered (Dual Credits)|19
+TOE4Y|Child and Youth Worker|Grade 12|Apprenticeship Program (Dual Credits)|48
+TOF4T|Child Development|Grade 12|College Delivered (Dual Credits)|106
+TOJ4C|Child Development and Gerontology|Grade 12|College Preparation (Grade 11 & 12 level)|1410
+TOL4Y|Child Development Practitioner|Grade 12|Apprenticeship Program (Dual Credits)|24
+TOL4Y|Child Development Practitioner|Grade 12|College Delivered (Dual Credits)|76
+TOQ4T|Early Childhood Education|Grade 12|College Delivered (Dual Credits)|158
+TOR4T|Positive Child Guidance|Grade 12|College Delivered (Dual Credits)|25
+TOS4T|Introduction Child and Youth Worker|Grade 12|College Delivered (Dual Credits)|<10
+TOT4T|Child Development II|Grade 12|College Delivered (Dual Credits)|23
+TOU4T|Activity Programming|Grade 12|College Delivered (Dual Credits)|<10
+TOZ4T|Relational Child and Youth Care|Grade 12|College Delivered (Dual Credits)|<10
+TPA3C||Grade 11|College Preparation (Grade 11 & 12 level)|<10
+TPJ1O|Exploring Health Care|Grade 9|Open (Grade 9 - 12 level)|141
+TPJ2O|Health Care|Grade 10|Open (Grade 9 - 12 level)|1290
+TPJ3C|Health Care|Grade 11|College Preparation (Grade 11 & 12 level)|1696
+TPJ3M|Health Care|Grade 11|University/College Preparation (Grade 11 & 12 level)|4170
+TPJ4C|Health Care|Grade 12|College Preparation (Grade 11 & 12 level)|560
+TPJ4E|Health Care: Support Services|Grade 12|Workplace Preparation (Grade 11 & 12 level)|56
+TPJ4M|Health Care|Grade 12|University/College Preparation (Grade 11 & 12 level)|1991
+TPM3M|Health Care: Nursing/Medical Services|Grade 11|University/College Preparation (Grade 11 & 12 level)|11
+TPT3M|Health Care: Therapy Services|Grade 11|University/College Preparation (Grade 11 & 12 level)|29
+TQE4T|Media Awareness|Grade 12|College Delivered (Dual Credits)|<10
+TQF4T|Managing Media in the Information Age|Grade 12|College Delivered (Dual Credits)|34
+TQI4T|Editing and Media Design|Grade 12|College Delivered (Dual Credits)|<10
+TRB4Y|General Machinist|Grade 12|Apprenticeship Program (Dual Credits)|15
+TRC4Y|Industrial Mechanic Millwright|Grade 12|Apprenticeship Program (Dual Credits)|17
+TRG4T|HVAC - Sheet Metal Fabrication|Grade 12|College Delivered (Dual Credits)|84
+TRH4T|Basic Shop Practice|Grade 12|College Delivered (Dual Credits)|13
+TRQ4T|Industrial Trades|Grade 12|College Delivered (Dual Credits)|72
+TRS4T|Industrial Practices|Grade 12|College Delivered (Dual Credits)|25
+TRT4T|Industrial/Mechanical/Millwright Safety Awareness Training|Grade 12|College Delivered (Dual Credits)|<10
+TSA4T|Carpentry|Grade 12|College Delivered (Dual Credits)|22
+TSA4Y|Carpentry|Grade 12|Apprenticeship Program (Dual Credits)|66
+TSB4T|Plumbing|Grade 12|College Delivered (Dual Credits)|49
+TSB4Y|Plumbing|Grade 12|Apprenticeship Program (Dual Credits)|69
+TSC4T|Introduction to Residential Construction|Grade 12|College Delivered (Dual Credits)|28
+TSD4T|Masonry|Grade 12|College Delivered (Dual Credits)|13
+TSE4T|Carpentry Fundamentals|Grade 12|College Delivered (Dual Credits)|20
+TSF4T|Construction Tools|Grade 12|College Delivered (Dual Credits)|19
+TSJ4T|Plumbing Theory|Grade 12|College Delivered (Dual Credits)|<10
+TSK4T|Construction Basics|Grade 12|College Delivered (Dual Credits)|11
+TSL4T|Introduction to Construction Trades|Grade 12|College Delivered (Dual Credits)|173
+TSM4T|Plumbing Practical|Grade 12|College Delivered (Dual Credits)|133
+TSN4T|Home Renovation - Safety|Grade 12|College Delivered (Dual Credits)|14
+TSP4T|Home Renovation Trade Skills|Grade 12|College Delivered (Dual Credits)|62
+TSQ4T|Building Construction Techniques|Grade 12|College Delivered (Dual Credits)|63
+TSR4T|Hand Tools and Safety of the Construction Industry|Grade 12|College Delivered (Dual Credits)|23
+TSV4T|Building Construction Codes and Standards|Grade 12|College Delivered (Dual Credits)|<10
+TSX4T|Construction Health, Safety Awareness|Grade 12|College Delivered (Dual Credits)|56
+TSY4T|Construction Craft Worker|Grade 12|College Delivered (Dual Credits)|18
+TSZ4Y|Brick and Stone Mason|Grade 12|Apprenticeship Program (Dual Credits)|<10
+TTA3C|Transportation Technology: Auto Service|Grade 11|College Preparation (Grade 11 & 12 level)|1861
+TTA4C|Transportation Technology: Auto Service|Grade 12|College Preparation (Grade 11 & 12 level)|936
+TTB3C|Transportation Technology: Auto Body|Grade 11|College Preparation (Grade 11 & 12 level)|585
+TTB4C|Transportation Technology: Auto Body|Grade 12|College Preparation (Grade 11 & 12 level)|257
+TTD4T|Truck and Coach Technician|Grade 12|College Delivered (Dual Credits)|19
+TTD4Y|Truck and Coach Technician|Grade 12|Apprenticeship Program (Dual Credits)|39
+TTE4T|Automotive Service Technician|Grade 12|College Delivered (Dual Credits)|33
+TTE4Y|Automotive Service Technician|Grade 12|Apprenticeship Program (Dual Credits)|221
+TTF4Y|Auto Body and Collision Damage Repairer|Grade 12|Apprenticeship Program (Dual Credits)|<10
+TTG4T|Engine Function and Design|Grade 12|College Delivered (Dual Credits)|43
+TTH3C|Transportation Technology: Heavy Duty and Agricultural Equipment|Grade 11|College Preparation (Grade 11 & 12 level)|150
+TTH4C|Transportation Technology: Heavy Duty and Agricultural Equipment|Grade 12|College Preparation (Grade 11 & 12 level)|64
+TTI1O|Integrated Technologies|Grade 9|Open (Grade 9 - 12 level)|113
+TTJ1O|Exploring Transportation Technology|Grade 9|Open (Grade 9 - 12 level)|1244
+TTJ2O|Transportation Technology|Grade 10|Open (Grade 9 - 12 level)|16079
+TTJ3C|Transportation Technology|Grade 11|College Preparation (Grade 11 & 12 level)|15345
+TTJ3E|Transportation Technology|Grade 11|Workplace Preparation (Grade 11 & 12 level)|51
+TTJ3O|Transportation Technology: Vehicle Ownership|Grade 11|Open (Grade 9 - 12 level)|2142
+TTJ4C|Transportation Technology|Grade 12|College Preparation (Grade 11 & 12 level)|6461
+TTJ4E|Transportation Technology: Vehicle Maintenance|Grade 12|Workplace Preparation (Grade 11 & 12 level)|1533
+TTL3C|Transportation Technology: Light Aircraft|Grade 11|College Preparation (Grade 11 & 12 level)|148
+TTL4C|Transportation Technology: Light Aircraft|Grade 12|College Preparation (Grade 11 & 12 level)|49
+TTM4T|Automotive Basic Skills|Grade 12|College Delivered (Dual Credits)|117
+TTN4T|Steering/Suspension/Brakes|Grade 12|College Delivered (Dual Credits)|57
+TTO4T|Heavy Duty Equipment Technician|Grade 12|College Delivered (Dual Credits)|48
+TTO4Y|Heavy Duty Equipment Technician|Grade 12|Apprenticeship Program (Dual Credits)|21
+TTP4T|Technical Practices|Grade 12|College Delivered (Dual Credits)|116
+TTQ4T|Technical Practices II|Grade 12|College Delivered (Dual Credits)|35
+TTS3C|Transportation Technology: Small Engine and Recreational Equipment|Grade 11|College Preparation (Grade 11 & 12 level)|884
+TTS4C|Transportation Technology: Small Engine and Recreational Equipment|Grade 12|College Preparation (Grade 11 & 12 level)|228
+TTT3C|Transportation Technology: Truck and Coach|Grade 11|College Preparation (Grade 11 & 12 level)|65
+TTT4C|Transportation Technology: Truck and Coach|Grade 12|College Preparation (Grade 11 & 12 level)|48
+TTV4T|Motorcycle Repair - Engines|Grade 12|College Delivered (Dual Credits)|<10
+TTW4T|Aeronautics|Grade 12|College Delivered (Dual Credits)|58
+TTX4T|Drive Train Standard Transmission|Grade 12|College Delivered (Dual Credits)|12
+TTY4T|Engine Function and Design II|Grade 12|College Delivered (Dual Credits)|<10
+TUA4T|Baking Techniques - Basic|Grade 12|College Delivered (Dual Credits)|37
+TUB4T|Introduction to Baking|Grade 12|College Delivered (Dual Credits)|10
+TUC4T|Arts culinaires - Pratique|Grade 12|College Delivered (Dual Credits)|51
+TUD4Y|Baker|Grade 12|Apprenticeship Program (Dual Credits)|14
+TUE4T|Baking and Pastry|Grade 12|College Delivered (Dual Credits)|263
+TUF4T|Baking Techniques|Grade 12|College Delivered (Dual Credits)|63
+TUI4T|Culinary Techniques|Grade 12|College Delivered (Dual Credits)|131
+TUS4T|Culinary Essentials|Grade 12|College Delivered (Dual Credits)|27
+TUV4T|Techniques culinaires-application|Grade 12|College Delivered (Dual Credits)|70
+TVA4T|Kitchen Management One Chef|Grade 12|College Delivered (Dual Credits)|<10
+TVC4T|Basic Kitchen Production|Grade 12|College Delivered (Dual Credits)|47
+TVD4T|Kitchen Production|Grade 12|College Delivered (Dual Credits)|65
+TVE4T|Advanced Kitchen Production|Grade 12|College Delivered (Dual Credits)|<10
+TVF4T|Advanced Kitchen Production II|Grade 12|College Delivered (Dual Credits)|<10
+TWB4T|Exploring Cabinet Construction|Grade 12|College Delivered (Dual Credits)|19
+TWJ3E|Custom Woodworking|Grade 11|Workplace Preparation (Grade 11 & 12 level)|5619
+TWJ4E|Custom Woodworking|Grade 12|Workplace Preparation (Grade 11 & 12 level)|1842
+TWM4T|Woodworking Materials|Grade 12|College Delivered (Dual Credits)|14
+TXA3E|Hairstyling and Aesthetics: Aesthetics|Grade 11|Workplace Preparation (Grade 11 & 12 level)|311
+TXA4E|Hairstyling and Aesthetics: Aesthetics|Grade 12|Workplace Preparation (Grade 11 & 12 level)|121
+TXB4T|Coiffure de base|Grade 12|College Delivered (Dual Credits)|12
+TXC4T|Make-up Artistry and Applications|Grade 12|College Delivered (Dual Credits)|130
+TXD4T|Body Treatments|Grade 12|College Delivered (Dual Credits)|<10
+TXE4T|Hairstyling and Cutting Techniques|Grade 12|College Delivered (Dual Credits)|133
+TXF4Y|Hairstylist|Grade 12|Apprenticeship Program (Dual Credits)|44
+TXG4T|Introduction Spa Management|Grade 12|College Delivered (Dual Credits)|50
+TXH3E|Hairstyling and Aesthetics: Hairstyling|Grade 11|Workplace Preparation (Grade 11 & 12 level)|554
+TXH4E|Hairstyling and Aesthetics: Hairstyling|Grade 12|Workplace Preparation (Grade 11 & 12 level)|246
+TXI4T|Make-Up|Grade 12|College Delivered (Dual Credits)|204
+TXJ1O|Exploring Hairstyling and Aesthetics|Grade 9|Open (Grade 9 - 12 level)|1201
+TXJ2O|Hairstyling and Aesthetics|Grade 10|Open (Grade 9 - 12 level)|6480
+TXJ3E|Hairstyling and Aesthetics|Grade 11|Workplace Preparation (Grade 11 & 12 level)|5082
+TXJ4E|Hairstyling and Aesthetics|Grade 12|Workplace Preparation (Grade 11 & 12 level)|1780
+TXK4T|Manicures|Grade 12|College Delivered (Dual Credits)|75
+TXM4T|Maquillage 1|Grade 12|College Delivered (Dual Credits)|21
+TXQ4T|Advanced Techniques|Grade 12|College Delivered (Dual Credits)|<10
+TXU4T|Nail Technology|Grade 12|College Delivered (Dual Credits)|47
+TXV4T|Hand Anatomy, Physiology and Care|Grade 12|College Delivered (Dual Credits)|47
+TYA4T|Domestic Animal Science|Grade 12|College Delivered (Dual Credits)|16
+TYB4T|Animal Grooming|Grade 12|College Delivered (Dual Credits)|16
+TYC4T|Animal Nursing Fundamentals|Grade 12|College Delivered (Dual Credits)|25
+TYD4T|Firefighting|Grade 12|College Delivered (Dual Credits)|35
+TYE4T|Aviation|Grade 12|College Delivered (Dual Credits)|14
+TYF4T|Aircraft Aerodynamics|Grade 12|College Delivered (Dual Credits)|18
+TZA4T|Precision Machining|Grade 12|College Delivered (Dual Credits)|45
+TZB4Y|Refrigeration and Air Conditioning Systems Mechanics|Grade 12|Apprenticeship Program (Dual Credits)|29
+TZD4T|Engines|Grade 12|College Delivered (Dual Credits)|<10
+TZE4T|Arboriculture/Chainsaw Practices|Grade 12|College Delivered (Dual Credits)|65
+TZG4Y|Gas fitting, Pipe Fitting and Sheet Metal|Grade 12|Apprenticeship Program (Dual Credits)|<10
+TZH4T|General Machining Principles and Practice|Grade 12|College Delivered (Dual Credits)|34
+TZI4T|Gas fitting, Pipe Fitting and Sheet Metal II|Grade 12|College Delivered (Dual Credits)|<10

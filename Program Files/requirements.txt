@@ -1,0 +1,11 @@
+# CSC110 Course Project - Billy Guo and Sridhar Sairam
+
+# Newer versions of the modules should work, however, exact versions are included
+# in case any problems occur.
+
+# Graphing Modules
+matplotlib  # matplotlib==3.4.2
+numpy  # numpy==1.21.0
+
+# Code Checkers
+python-ta  # python-ta==2.1.0
