@@ -18,6 +18,7 @@ NOTES:
 
 TODO: Fix line lengths and other PEP8 formatting issues
 """
+
 from __future__ import annotations
 from os import listdir
 import matplotlib.pyplot as plt
@@ -887,3 +888,18 @@ def plot_differences_graph(enrollment_and_regression_data: dict[str: list], cour
 
 
 
+
+###############################################################################
+# Main
+###############################################################################
+
+if __name__ == "__main__":
+    import python_ta
+    import doctest
+    doctest.testmod()
+    python_ta.check_all(config={
+        'extra-imports': ["os", "__future__", "numpy", "matplotlib"],  # the names (strs) of imported modules
+        'allowed-io': [],  # the names (strs) of functions that call print/open/input
+        'max-line-length': 100,
+        'disable': ['R1705', 'C0200']
+    })
