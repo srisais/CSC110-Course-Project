@@ -14,8 +14,9 @@ predict what the course enrollment might have been,
 if the COVID-19 pandemic did not occur, based on the previous years' data.
 """
 
-from functions_and_classes import *
-from graphical_interface import *
+# from functions_and_classes import *
+# command_line_interface already imports from functions_and_classes
+from command_line_interface import *
 
 def main():
     pass
