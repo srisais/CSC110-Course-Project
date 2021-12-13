@@ -33,11 +33,7 @@ List of Database Files to download into the "database_files" directory:
 from command_line_interface import *
 
 def main():
-    pass
-
-
-
-
+    main_loop()
 
 
 if __name__ == "__main__":
