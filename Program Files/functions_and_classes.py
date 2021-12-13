@@ -15,8 +15,6 @@ enabling the data to be easily manipulate and analyzed.
 NOTES:
     - "enrollment" vs "enrolment"
       I will be spelling the word "enrollment" (with 2 'l's).
-
-TODO: Fix line lengths and other PEP8 formatting issues
 """
 
 from __future__ import annotations
@@ -387,7 +385,7 @@ def get_school_year_from_file_path(file_path: str) -> tuple[int, int]:
     """
     # Example file title: "mdc_enrol_1314_en_supp_2"
     text_file_title = ""
-    # Not sure why PyCharm thinkgs text_file_title is not being used...
+    # Not sure why PyCharm thinks text_file_title is not being used...
     for i in range(-1, -len(file_path) - 1, -1):  # Goes from last to first char
         if file_path[i] == '\\' or file_path[i] == '/':
             # Remember, i is a negative index
@@ -542,7 +540,8 @@ class CourseTitleNotFoundError(Exception):
         return "The course title must be a valid course title for a course."
 
 
-def get_course_enrollment_history_given_course_code(all_courses_enrollment_history: list[CourseEnrollmentHistory], course_code: str) -> CourseEnrollmentHistory:
+def get_course_enrollment_history_given_course_code(all_courses_enrollment_history: list[CourseEnrollmentHistory],
+                                                    course_code: str) -> CourseEnrollmentHistory:
     """Returns a <CourseEnrollmentHistory> object that matches the course code of <course_code>
 
     >>> c = Course.get_course_object(\
@@ -580,7 +579,8 @@ def get_course_enrollment_history_given_course_code(all_courses_enrollment_histo
         raise CourseCodeNotFoundError
 
 
-def get_course_enrollment_history_given_course_title(all_courses_enrollment_history: list[CourseEnrollmentHistory], course_title: str) -> CourseEnrollmentHistory:
+def get_course_enrollment_history_given_course_title(all_courses_enrollment_history: list[CourseEnrollmentHistory],
+                                                     course_title: str) -> CourseEnrollmentHistory:
     """Returns a <CourseEnrollmentHistory> object that matches the course code of <course_code>
 
     >>> c = Course.get_course_object(\
@@ -618,7 +618,9 @@ def get_course_enrollment_history_given_course_title(all_courses_enrollment_hist
         raise CourseTitleNotFoundError
 
 
-def search_for_course_enrollment_history_given_course_code(all_courses_enrollment_history: list[CourseEnrollmentHistory], course_code: str) -> list[CourseEnrollmentHistory]:
+def search_for_course_enrollment_history_given_course_code(
+        all_courses_enrollment_history: list[CourseEnrollmentHistory],
+        course_code: str) -> list[CourseEnrollmentHistory]:
     """Returns a <CourseEnrollmentHistory> object that matches the course code of <course_code>
 
     >>> c = Course.get_course_object(\
@@ -665,7 +667,9 @@ def search_for_course_enrollment_history_given_course_code(all_courses_enrollmen
     return possible_courses
 
 
-def search_for_course_enrollment_history_given_course_title(all_courses_enrollment_history: list[CourseEnrollmentHistory], course_title: str) -> list[CourseEnrollmentHistory]:
+def search_for_course_enrollment_history_given_course_title(
+        all_courses_enrollment_history: list[CourseEnrollmentHistory],
+        course_title: str) -> list[CourseEnrollmentHistory]:
     """Returns a <CourseEnrollmentHistory> object that matches the course code of <course_title>
 
     >>> c = Course.get_course_object(\
@@ -745,7 +749,8 @@ def deep_sanitize_text(text: str) -> str:
 ###############################################################################
 # Statistical Analysis
 ###############################################################################
-def plot_graph(enrollment_history: CourseEnrollmentHistory, num_years_to_predict: int = 0, polynomial_degree: int = 5) -> dict[str: list]:
+def plot_graph(enrollment_history: CourseEnrollmentHistory, num_years_to_predict: int = 0,
+               polynomial_degree: int = 5) -> dict[str: list]:
     """Given a course's enrollment history, <enrollment_history>, a
     <CourseEnrollmentHistory> object,
     It will plot the data provided in <enrollment_history>, and according to
@@ -817,12 +822,13 @@ def plot_graph(enrollment_history: CourseEnrollmentHistory, num_years_to_predict
     return {
         "enrollment_x": [float(x_val) for x_val in x],
         "enrollment_y": y,
-        "polynomial_x": [float(x) for x in my_line],
-        "polynomial_y": [y for y in my_model(my_line)]
+        "polynomial_x": [float(x_v) for x_v in my_line],
+        "polynomial_y": [y_v for y_v in my_model(my_line)]
     }
 
 
-def plot_differences_graph(enrollment_and_regression_data: dict[str: list], course_string_representation: str, num_years_predicting: int, polynomial_degree: int) -> dict[str: list]:
+def plot_differences_graph(enrollment_and_regression_data: dict[str: list], course_string_representation: str,
+                           num_years_predicting: int, polynomial_degree: int) -> dict[str: list]:
     """Given a dictionary which follows the format of the output of the function
     <plot_graph>, it will graph the absolute differences (a.k.a. residuals)
     for each year between the polynomial regression and the actual enrollment data.
@@ -857,8 +863,11 @@ def plot_differences_graph(enrollment_and_regression_data: dict[str: list], cour
         for y in enrollment_and_regression_data["enrollment_y"]
     )
 
-    # R squared
-    coefficient_of_determination = 1 - (sum_of_squares_of_residuals / total_sum_of_squares)
+    if total_sum_of_squares == 0 or sum_of_squares_of_residuals == 0:
+        coefficient_of_determination = 1
+    else:
+        # R squared
+        coefficient_of_determination = 1 - (sum_of_squares_of_residuals / total_sum_of_squares)
 
     ####
     plt.figure()
@@ -877,7 +886,8 @@ def plot_differences_graph(enrollment_and_regression_data: dict[str: list], cour
     plt.legend()
     plt.xlabel("School Year")
     plt.ylabel("Absolute Difference")
-    plt.title(f'{course_string_representation}\nPredicting {num_years_predicting} Year(s), Degree {polynomial_degree} Polynomial\nCoefficient of Determination: {coefficient_of_determination}')
+    plt.title(f'{course_string_representation}\nPredicting {num_years_predicting} Year(s),'
+              f'Degree {polynomial_degree} Polynomial\nCoefficient of Determination: {coefficient_of_determination}')
     plt.show()
 
     return {
@@ -887,20 +897,29 @@ def plot_differences_graph(enrollment_and_regression_data: dict[str: list], cour
     }
 
 
-
-
-
 ###############################################################################
 # Main
 ###############################################################################
-
 if __name__ == "__main__":
     import python_ta
+    import python_ta.contracts
     import doctest
     doctest.testmod()
     python_ta.check_all(config={
-        'extra-imports': ["os", "__future__", "numpy", "matplotlib"],  # the names (strs) of imported modules
-        'allowed-io': [],  # the names (strs) of functions that call print/open/input
-        'max-line-length': 100,
-        'disable': ['R1705', 'C0200']
+        'extra-imports': ["os", "__future__", "numpy", "matplotlib.pyplot"],  # the names (strs) of imported modules
+        'allowed-io': ["get_text_file"],  # the names (strs) of functions that call print/open/input
+        'max-line-length': 120,
+        'disable': ['R1705', 'C0200', "E9959", "C0103", "R1721"]
     })
+    python_ta.contracts.check_all_contracts()
+
+    # "E9959" Disabled:
+    # For some reason, the linters say that <text_title_file> is not being used,
+    # when it is being used...
+
+    # "C0103" Disabled:
+    # Some of the variable names are just long.
+
+    # "R1721" Disabled:
+    # The comprehension is necessary, as converting into a list
+    # didn't seem to work for one of the matplotlib datatype

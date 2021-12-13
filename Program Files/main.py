@@ -29,10 +29,13 @@ List of Database Files to download into the "database_files" directory:
 """
 
 # from functions_and_classes import *
-# command_line_interface already imports from functions_and_classes
+# <command_line_interface> already imports from <functions_and_classes>,
+# so it's redundant to import from <functions_and_classes> again
 from command_line_interface import *
 
-def main():
+
+def main() -> None:
+    """Main function of the program."""
     main_loop()
 
 
