@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77175c4d-63d9-4029-9f24-c55b89df549d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Program Files.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/command_line_interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/command_line_interface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Written Report/project_report.fdb_latexmk" beforeDir="false" afterPath="$PROJECT_DIR$/../Written Report/project_report.fdb_latexmk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Written Report/project_report.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Written Report/project_report.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Written Report/project_report.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Written Report/project_report.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Written Report/project_report.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../Written Report/project_report.tex" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -6,7 +6,7 @@
 
 \title{CSC110 Project Proposal: Secondary School Course Enrolment during the COVID-19 Pandemic}
 \author{Billy Guo and Sridhar Sairam}
-\date{Tuesday, 13 December 2021}
+\date{Tuesday, 14 December 2021}
 
 \begin{document}
 \maketitle
@@ -52,11 +52,11 @@ represents a different school year. This object will allow us to see how a cours
 change throughout its history (throughout the school years).
 
 The "Importing .txt files" and "Text File Data Extraction" help sanitize the input from the database files,
-then group everything together. There are many helper functions that all end up in the grand result of
+then group everything together. There are many helper functions that all end up in the grand result of\\
 \texttt{get\_course\_enrollment\_history\_for\_all\_courses\_in\_folder}.
 Using this function, we can input a directory path, and using the helper functions, it is able to
-go through each database file, create a respective \texttt{SchoolYearAllCourseEnrollments} for each file,
-and then merge them all together to get a master list of \texttt{CourseEnrollmentHistory} objects.
+go through each database file, create a respective\\ \texttt{SchoolYearAllCourseEnrollments} for each file,
+and then merge them all together to get a master list of\\ \texttt{CourseEnrollmentHistory} objects.
 This master list is a huge list that contains the enrollment history for all of the courses in the database folder.
 
 The "Course Searching and Related" functions intended to be used by the functions in the \texttt{command\_line\_interface}
@@ -97,7 +97,8 @@ Instructions:
     "https://files.ontario.ca/opendata/mdc_enrol_1516_en_supp.txt",
     "https://files.ontario.ca/opendata/mdc_enrol_1617_en_supp.txt",
     "https://files.ontario.ca/opendata/mdc_enrol_1718_en_supp.txt",
-    "https://data.ontario.ca/dataset/83b53104-19f9-4a77-8e38-a56c5575ef1c/resource/f4e0fef6-61f9-47cd-ae69-353b90fe0d7e/download/mdc_enrol_1819_en_supp.txt"]
+    "https://data.ontario.ca/dataset/83b53104-19f9-4a77-8e38-a56c5575ef1c/resource/
+    f4e0fef6-61f9-47cd-ae69-353b90fe0d7e/download/mdc_enrol_1819_en_supp.txt"]
 \end{verbatim}
 
     \item After this is done, the \texttt{main.py} file can be run.
@@ -105,6 +106,22 @@ Instructions:
 
 \end{itemize}
 
+What to Expect:
+\begin{itemize}
+    \item You should see an introductory mesasge, followed by more text that checks for the files.
+    \item Given that you have placed the files in the correct place, you will be able to now
+    search for courses. Here, you will give 2 numbers (indices), that represent a range of courses.
+    \item Typing two numbers (separated by a space) will output the list of courses with numbers
+    within that respective range!
+    \item Once you are done searching through the courses, you can input an empty string
+    to select a specific course to graph.
+    \item Using the same course numbers from before, you will input a course number for
+    the course you'd like to graph.
+    \item After asking how many years to predict, and the degree of the polynomial regression,
+    it will graph the course enrollment data, the polynomial regression, and the residuals (differences) graph
+    (for the polynomial and the actual data)
+    \item Then, the program will end.
+\end{itemize}
 
 \section*{Changes Made between the Project Proposal and Final Submission}
 
@@ -114,15 +131,29 @@ We ended up creating a CLI, where the user now interacts via the console, to sea
 a course to see its course enrollment history, and see how well the polynomial regression predicts future enrolments.
 This was the only major change that occured.
 
-What was the bug? 
+The bug was one that was really odd and unexpected.
+When we started to write the GUI using tkinter, I started to map out a general interface.
+Using \texttt{grid}, I had an \texttt{Entry} section on the top, which had a \texttt{Button} beside it
+that would take in a file path (the file path of the data set folder).
+Using this, we would show a \texttt{Listbox}, and have a \texttt{Scrollbar}
+so that one could scroll through all of the courses, and select the one they'd like to graph.
+Then, they could use buttons on the bottom to show the graphs.
 
+It seems like there wouldn't be a problem. It started off smooth sailing, but then, creating a \texttt{StringVar} instance
+to get the text from the \texttt{Entry} is where the problem occured. 
+I had to use functions from the \texttt{functions\_and\_classes} module, so I used the wildcard import.
+This also imported \texttt{matplot.pyplot}.
+When I tried to get the string data from \texttt{Entry} using \texttt{StringVar.get}, I was always getting an empty string!
+However, when I removed the import statement, the \texttt{StringVar.get} method would return the correct string.
+After lots of trial and error debugging, I found out that when I imported \texttt{matplotlib},
+the \texttt{StringVar.get} method was not working.
+After some digging, my final guess is due to the fact that the \texttt{matplotlib} library has
+a top level function called \texttt{get}, which may be interfering the \texttt{StringVar.get}.
+This being a guess, I'm not 100\% certain about this.
 
 \section*{Discussion}
 
-From our computational exploration, 
-% Certain subject enrolments declined during the pandemic while certain subject enrolments increased. There were outliers as well. The enrolment for these subjects increased possibly because.... The enrolment for these subjects decreased possibly because.... <-- (fill in the blanks) 
-
-Limitations we encountered involved the Python libraries, tkinter and Matplotlib, because.... 
+discusssssssssss
 
 \section*{References}
 % Course enrolment in secondary schools - https://open.canada.ca/data/en/dataset/83b53104-19f9-4a77-8e38-a56c5575ef1c
