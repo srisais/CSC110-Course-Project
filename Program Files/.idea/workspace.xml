@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="77175c4d-63d9-4029-9f24-c55b89df549d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/command_line_interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/command_line_interface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions_and_classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions_and_classes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Written Report/project_report.fdb_latexmk" beforeDir="false" afterPath="$PROJECT_DIR$/../Written Report/project_report.fdb_latexmk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Written Report/project_report.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Written Report/project_report.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Written Report/project_report.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Written Report/project_report.pdf" afterDir="false" />
@@ -128,8 +130,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.command_line_interface" />
         <item itemvalue="Python.functions_and_classes" />
+        <item itemvalue="Python.command_line_interface" />
         <item itemvalue="Python.graphical_interface" />
         <item itemvalue="Python.graphical_interface - Copy" />
       </list>

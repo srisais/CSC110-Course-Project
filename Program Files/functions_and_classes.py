@@ -869,6 +869,11 @@ def plot_differences_graph(enrollment_and_regression_data: dict[str: list], cour
         # R squared
         coefficient_of_determination = 1 - (sum_of_squares_of_residuals / total_sum_of_squares)
 
+    if coefficient_of_determination < 0:
+        coefficient_of_determination = 0
+    elif coefficient_of_determination > 1:
+        coefficient_of_determination = 1
+
     ####
     plt.figure()
 

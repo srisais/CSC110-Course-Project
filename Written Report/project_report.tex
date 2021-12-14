@@ -78,6 +78,12 @@ end the whole program, so adding some input sanitization, we grouped each step w
 The major computational procceses here are: validating input, raising and catching possible errors,
 and repeatedly asking for a valid input until the user provides a valid input.
 
+During this computational phase, we used \texttt{numpy} to create a polynomial regression for the enrollment data.
+Using the regression, we used \texttt{matplotlib} to plot it and the enrollment data.
+Additionally, we used the os library to find out what files there were in the data folder.
+Without the os library, more manual work would have to have been done in pre-processing the data.
+This helped automate lots of the manual work, making the file easier to run.
+
 \section*{Instructions: Obtaining Data Sets and Running the Program}
 
 These instructions are also included in the \texttt{main.py} file.
@@ -153,7 +159,82 @@ This being a guess, I'm not 100\% certain about this.
 
 \section*{Discussion}
 
-discusssssssssss
+The main question was: "\textbf{Did the COVID-19 pandemic have an immediate effect on the 2019 - 2020
+school year’s course enrollment numbers in a significant manner?}"
+
+We don't have enough data at the moment to directly see that the COVID-19 pandemic caused course course enrollments
+to change. We might end up concluding that correlation is due to the COVID-19 pandemic, which might not be the case.
+However, we can take a few courses as an example, and see how well some polynomial regressions
+do in predicting the course enrollments for the 2019 - 2020 school year, given the previous years' enrollment data.
+We could predict that if COVID-19 was the cause, how much did some course's enrollments change.
+
+For the following courses analyses, we will be predicting 1 year, with a polynomial degree of 5 or 6.
+
+% 1054 - PPL40
+% 1053 - PPL30
+A course that one may suspect to have lower enrollments would be a physical education course,
+such as PPL30 and PPL40 (grade 11 and grade 12 courses, respectively).
+(When we ran the code, it had a course number of 1054).
+When the polynomial degree is 5, it massively underpredicted the 2019 - 2020 school year course enrollment for PPL30.
+The same thing occured when the degree was 6.
+For PPL40, we see, for both polynomial degrees of 5 and 6, that the polynomial accurately predicts the drop in enrollments.
+Seeing this difference in the same type of course, It's tough to tell whether or not this was due to COVID-19.
+Interestingly, PPL30's enrollment increased, while PPL40's enrollment decreased, when compared to the 2018 - 2019 school year.
+
+
+% 449 - ENG4U
+ENG4U (Grade 12 University Preparation English) is a course that many highschool students in the 12th grade take.
+This course is a prerequisite for (essentially) every university program.
+There doesn't seem to be a particularily large change in enrollment for the course in the 2019 - 2020 school year.
+Both polynomial regressions of degree 5 and degree 6 have $R^2$ very close to 1.
+As expected, a course that must be taken by a large portion of students doesn't seem to have been
+impacted by the COVID-19 pandemic.
+
+% 1091 - SPH4U
+% 1072 - SBI4U
+% 1077 - SCH4U
+SPH4U (Grade 12 University Preparation Physics) seems to have a large drop in enrollments in the 2019 - 2020 school year.
+Both polynomials of degree 5 and 6 misestimate the amount by a very large margin.
+Both of the polynomials have very low (essentially 0) coefficients of determination!
+This means that there was a sudden drop in enrollments, than what would have otherwise been expected (by the polynomials).
+A similar drop in enrolments can be seen in other grade 12 science courses, Biology (SBI4U) and Chemistry (SHC4U).
+With this data in hand, it seems more likely that COVID-19 caused some course enrollments to drop,
+while it caused others to say the same, or even increase.
+(Course numbers during our run: 1091 - SPH4U, 1072 - SBI4U, and 1077 - SCH4U)
+
+% 1152 - TDJ4M
+% 1333 - TMR4M
+Interestingly for technology courses TDJ4M and TMR4M, there is actually in increase in enrollments
+from the 2018 - 2019 school year to the 2019 - 2020 school year.
+Although the polynomial for TDJ4M has a very low coefficient of determination, due to the wild variation
+in course enrollments from 2014 - 2017, the polynomial for TMR4M has a very high coefficient of determination (~0.98)!
+This means that some courses' enrolments didn't vary very much in the 2019 - 2020 school year, based
+on the polynomial prediction.
+(Course numbers during our run: 1152 - TDJ4M and 1333 - TMR4M)
+
+% 964 - MCV4U
+% 970 - MHF4U
+Finally, looking at the 5th degree polynomial predictions for MCV4U (Calculus and Vectors) and MHF4U (Advanced Functions),
+we see 2 very different results!
+We see that the polynomial for MCV4U overestimates, while the actual data shows a large drop.
+Similarly, MHF4U also has a large drop in enrolments, however, the polynomial predicts this!
+This may just be due to the fact that there was another large drop in enrollments in the 2014 - 2015 school year,
+and the drop in the 2019 - 2020 school year just coincidentally accurately predicted it.
+(Course numbers during our run: 964 - MCV4U, 970 - MHF4U)
+
+Overall, if we assume that COVID-19 had some impact on the course enrollment of Ontario courses,
+we could conclude that some courses had a decline in course enrollments, while other courses had an increase.
+We might guess that "harder" courses such as math and science courses suffered a drop in enrollments, while
+"easier" courses such as physical education and technological education courses saw an increase in enrollments.
+However, this is just a guess, with no significant data to back up the claim.
+
+For further analysis, we could use the 2020 - 2021 course enrollment data, when it is released,
+and see how that data lines up with the previous years' data!
+
+Additionally, depending on the degree of the polynomial, or the number of years we are predicting,
+our results as to how acurately the polynomial predicts the course enrollment may vary.
+By using a high enough degree, the end behaviour (based on whether or not it's an odd/even degree function)
+could misguide predictions, as the rate of change would increase significantly.
 
 \section*{References}
 % Course enrolment in secondary schools - https://open.canada.ca/data/en/dataset/83b53104-19f9-4a77-8e38-a56c5575ef1c
