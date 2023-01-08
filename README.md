@@ -23,7 +23,7 @@ This is where the heart of the project lives. Using this folder alone, you can r
 
 Be sure you read the `requirements.txt` file (or let your IDE do the work) to ensure that all the required modules are installed.
 
-(This folder also includes a copy of a selection from the database files, in the folder called `database_files` - if you would like you choose different database files to analyze, you can replase the files within `database_files` to analyze those newer files. Please ensure that you put `.txt.` files, as the program is not equipped to handle analyzing `.xlsx` files -- the program will not read files that are not `.txt` files.)
+(This folder also includes a copy of a selection from the database files, in the folder called `database_files` - if you would like you choose different database files to analyze, you can replase the files within `database_files` to analyze those newer files. Please ensure that you put `.txt` files, as the program is not equipped to handle analyzing `.xlsx` files -- the program will not read files that are not `.txt` files.)
 
 ### `command_line_interface.py`
 This file includes all of the functions necessary to run the command line interface of the program. If run directly, this will use `PythonTA` and run the tests, as specified in the project instructions.
@@ -35,7 +35,7 @@ INcluding all of the major classes and core functions to analyze the data, this 
 **THIS IS THE FILE TO RUN IF YOU WANT TO RUN THE ENTIRE PROGRAM.** This file is very short, but it wraps everything together, pulling from `command_line_interface.py` and `functions_and_classes.py`, and running the main program.
 
 ### `requirements.txt`
-This `.txt.` file lists the required modules needed to run the program, as formatted in the standard Python format.
+This `.txt` file lists the required modules needed to run the program, as formatted in the standard Python format.
 
 ## Scrap Files
 If you'd like to get a small glimpse into the debugging and development of the project, this folder just includes a few scrap files that were found to be helpful to keep on hand while developing the project. They are not really of any significance to the final project, but some might find it interesting, so they are still here.
