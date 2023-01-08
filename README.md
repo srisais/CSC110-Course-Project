@@ -1,5 +1,5 @@
 # CSC110 Course Project (Ontario High School Course Enrollment Tracker)
-This project allows you to view the course enrollment of all Ontario (Canada) High School Courses throughout the years (provided the data exists).
+This project allows you to view the course enrollment of all Ontario (Canada) High School Courses throughout the years (provided the data exists), and use polynomial regression to predict the enrollment for future years.
 
 For each course, you can view how the number of enrollments have fluctuated throughout the years. During the COVID-19 pandemic, the enrollment of many courses drastically changed - this tracker allows you to see a visual representation of how much the enrollment has changed, allowing one to come up with hypotheses, as to whether or not the COVID-19 pandemic impacted enrollment.
 
