@@ -3,6 +3,8 @@ This project allows you to view the course enrollment of all Ontario (Canada) Hi
 
 For each course, you can view how the number of enrollments have fluctuated throughout the years. During the COVID-19 pandemic, the enrollment of many courses drastically changed - this tracker allows you to see a visual representation of how much the enrollment has changed, allowing one to come up with hypotheses, as to whether or not the COVID-19 pandemic impacted enrollment.
 
+This project has been thoroughly documented and neatly coded so that if anyone would like to fork this project and build upon it, they would have an easier time.
+
 ## Database Files
 This folder contains all the database files, courtesy of the [Open Government](open.canada.ca) Database.
 
